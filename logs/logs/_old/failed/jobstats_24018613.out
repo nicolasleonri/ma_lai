@@ -1,0 +1,54 @@
+
+================================================================================
+                              Slurm Job Statistics                              
+================================================================================
+         Job ID: 24018613
+  NetID/Account: nicolasal97/agfritz
+       Job Name: run_h100
+          State: OUT_OF_MEMORY
+          Nodes: 1
+      CPU Cores: 1
+     CPU Memory: 9GB (9GB per CPU-core)
+           GPUs: 1
+  QOS/Partition: standard/scavenger
+        Cluster: curta
+     Start Time: Tue Sep 23, 2025 at 4:54 AM
+       Run Time: 00:35:00
+     Time Limit: 12:00:00
+
+                              Overall Utilization                               
+================================================================================
+  CPU utilization  [|||||||||||||||||||||||||||||||||||||||||||    86%]
+  CPU memory usage [|||||||||||||||||||||||||||||||||||||||||||||||94%]
+  GPU utilization  [|||                                             6%]
+  GPU memory usage [|                                               3%]
+
+                              Detailed Utilization                              
+================================================================================
+  CPU utilization per node (CPU time used/run time)
+      g016.curta.zedat.fu-berlin.de: 00:30:16/00:35:00 (efficiency=86.5%)
+
+  CPU memory usage per node - used/allocated
+      g016.curta.zedat.fu-berlin.de: 8.4GB/9GB (8.4GB/9GB per core of 1, efficiency=93.7%)
+
+  GPU utilization per node
+      g016.curta.zedat.fu-berlin.de (GPU 2): 5.6%
+
+  GPU memory usage per node - maximum used/total
+      g016.curta.zedat.fu-berlin.de (GPU 2): 2.5GB/79.6GB (3.1%)
+
+                                     Notes                                      
+================================================================================
+  * The overall GPU utilization of this job is only 6%. This value is low.
+    Please investigate the reason for the low utilization. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcennutzung
+
+  * This job failed because it needed more CPU memory than the amount that was
+    requested. The solution is to resubmit the job while requesting more CPU
+    memory by modifying the --mem-per-cpu or --mem Slurm directive. For more
+    info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/Hauptspeicher
+
+  * Have a nice day!
+
+

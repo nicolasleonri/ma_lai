@@ -1,0 +1,14 @@
+
+Run time is very short so only providing seff output:
+
+Job ID: 24090701
+Cluster: curta
+User/Group: nicolasal97/agfritz
+State: OUT_OF_MEMORY (exit code 0)
+Cores: 1
+CPU Utilized: 00:00:05
+CPU Efficiency: 62.50% of 00:00:08 core-walltime
+Job Wall-clock time: 00:00:08
+Memory Utilized: 2.00 GB
+Memory Efficiency: 99.90% of 2.00 GB (2.00 GB/node)
+

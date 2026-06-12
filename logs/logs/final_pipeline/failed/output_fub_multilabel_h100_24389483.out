@@ -1,0 +1,114 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 81079.12 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 1200 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251116_231134
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+⚠️ Limited to 1200 samples for testing
+📊 Dataset: 1200 samples, 5 tasks
+🏷️ Tasks: ['modernizante', 'estructuralista', 'neoliberal', 'posmoderna', 'voluntarista']
+============================================================
+📈 ANÁLISIS DE DISTRIBUCIÓN DEL DATASET
+============================================================
+1️⃣ Analizando distribución de clases...
+   📊 Resumen Global:
+   - Total samples: 1200
+   - Severidad general: SEVERE
+   - IR promedio: 142.02
+   - IR máximo: 592.00
+   - Tarea más desbalanceada: posmoderna
+   📋 Detalles por tarea:
+   - modernizante        : IR= 3.05 | Entropy=0.81 | Minority=24.7% | [moderate]
+   - estructuralista     : IR= 4.90 | Entropy=1.26 | Minority=13.4% | [moderate]
+   - neoliberal          : IR=26.00 | Entropy=1.02 | Minority=2.7% | [severe]
+   - posmoderna          : IR=592.00 | Entropy=0.11 | Minority=0.2% | [severe]
+   - voluntarista        : IR=84.12 | Entropy=1.04 | Minority=0.7% | [severe]
+2️⃣ Analizando combinaciones de etiquetas...
+   🔢 Estadísticas de combinaciones:
+   - Combinaciones únicas: 49
+   - Combinaciones posibles: 243
+   - Cobertura: 20.2%
+   - Combinaciones raras (<5 samples): 30 (61.2%)
+   ⚡ Casos extremos:
+   - All positive [1,1,1,1,1]: 0 (0.00%)
+   - All negative [-1,-1,-1,-1,-1]: 0 (0.00%)
+   - All neutral [0,0,0,0,0]: 319 (26.58%)
+3️⃣ Dividiendo datos en train/val/test...
+📊 Data split: Train=840, Val=180, Test=180
+   - Train: 840 samples (70.0%)
+   - Val:   180 samples (15.0%)
+   - Test:  180 samples (15.0%)
+4️⃣ Comparando distribuciones entre splits...
+   ⚠️  2 tareas con distribuciones inconsistentes
+   - Desviación máxima: 4.44%
+   Warnings:
+     • modernizante: Some classes missing in train set
+     • modernizante: Some classes missing in val set
+     • modernizante: Some classes missing in test set
+5️⃣ Analizando correlaciones entre tareas...
+   🔗 Score de independencia: 0.910
+   - 0 correlaciones fuertes detectadas (|r| > 0.5)
+   💡 Insights:
+     • No se detectaron correlaciones fuertes entre tareas (todas <0.5)
+     • Las tareas son en general independientes (score=0.910). Multi-task learning puede ser muy beneficioso.
+     • 'modernizante' es la tarea más independiente (correlación promedio=0.066)
+6️⃣ Calculando class weights para loss function...
+   ⚖️  Weights calculados con método: 'effective'
+   Weights por tarea (formato: [-1, 0, 1]):
+   - modernizante        : [2.981, 0.005, 0.014]
+   - estructuralista     : [1.051, 0.337, 1.613]
+   - neoliberal          : [2.724, 0.082, 0.194]
+   - posmoderna          : [2.766, 0.003, 0.231]
+   - voluntarista        : [2.927, 0.031, 0.041]
+7️⃣ Identificando muestras críticas...
+   📌 Estadísticas:
+   - Muestras con todas las etiquetas iguales: 222
+   - Muestras con etiquetas mixtas: 618
+   - Promedio de etiquetas positivas por muestra: 1.11
+   - Promedio de etiquetas negativas por muestra: 0.23
+   ⚠️  Recomendaciones críticas:
+     • ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas positivas. Insuficiente para aprender este patrón. Considerar recolectar más datos.
+     • ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas negativas. Insuficiente para aprender este patrón.
+     • ⚠️ Tarea 'posmoderna': Solo 0 muestras donde es la única etiqueta positiva. Puede dificultar el aprendizaje de esta perspectiva de forma independiente.
+8️⃣ Generando recomendaciones estratégicas...
+   🎯 Estrategia Recomendada:
+   - Severidad: SEVERE
+   - Estrategia primaria: focal_loss_with_class_weights
+   - Estrategias secundarias:
+     • aggressive_oversampling
+     • ensemble_models
+     • task_specific_training
+   🚨 WARNINGS CRÍTICOS:
+     🚨 SEVERO: Desbalanceo extremo detectado (IR>20). Considerar seriamente recolectar más datos de clases minoritarias.
+     ⚠️ 61.2% de combinaciones de etiquetas son raras (<1% o <5 samples). Stratified CV será problemático.
+     ⚠️ Distribuciones train/val/test son inconsistentes. Verificar estrategia de split.
+     ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas positivas. Insuficiente para aprender este patrón. Considerar recolectar más datos.
+     ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas negativas. Insuficiente para aprender este patrón.
+     ⚠️ Tarea 'posmoderna': Solo 0 muestras donde es la única etiqueta positiva. Puede dificultar el aprendizaje de esta perspectiva de forma independiente.
+============================================================
+⚠️ Desbalanceo severo detectado. Aplicando parafraseo sintético...
+======================================================================
+🚀 SIMPLE PARAPHRASE AUGMENTATION
+   Modelo: milyiyo/paraphraser-spanish-t5-small
+   Device: cuda
+======================================================================
+📦 Cargando modelo de parafraseo...
+📋 Plan de Augmentation:
+Tarea                Clase    Actual     Target     Generar   
+----------------------------------------------------------------------
+modernizante         -1       0          50         50        
+neoliberal           -1       32         50         18        
+posmoderna           -1       2          50         48        
+posmoderna           1        14         50         36        
+voluntarista         -1       8          50         42        
+----------------------------------------------------------------------
+Total muestras sintéticas a generar: 194
+Generando paráfrasis:   0%|          | 0/5 [00:00<?, ?it/s]⚠️ No hay muestras de modernizante=-1 para augmentar
+[2025-11-16T23:12:02.221] error: *** JOB 24389483 ON g016 CANCELLED AT 2025-11-16T23:12:02 DUE to SIGNAL Terminated ***

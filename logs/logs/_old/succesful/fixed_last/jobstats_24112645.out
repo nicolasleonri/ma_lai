@@ -1,0 +1,50 @@
+
+================================================================================
+                              Slurm Job Statistics                              
+================================================================================
+         Job ID: 24112645
+  NetID/Account: nicolasal97/agfritz
+       Job Name: fix_fub_run_h100
+          State: COMPLETED
+          Nodes: 1
+      CPU Cores: 1
+     CPU Memory: 27GB (27GB per CPU-core)
+           GPUs: 1
+  QOS/Partition: standard/scavenger
+        Cluster: curta
+     Start Time: Mon Oct 6, 2025 at 4:38 PM
+       Run Time: 04:21:57
+     Time Limit: 06:00:00
+
+                              Overall Utilization                               
+================================================================================
+  CPU utilization  [|||||||||||||||||||||||||||||||||||||||||||||||96%]
+  CPU memory usage [||||||||||||||||||||||||||||||||||             68%]
+  GPU utilization  [|||||||||||||||||||||||||||||||||||||||||||||| 92%]
+  GPU memory usage [|||||||||||||||||||||||||||||||||||||||||||||| 92%]
+
+                              Detailed Utilization                              
+================================================================================
+  CPU utilization per node (CPU time used/run time)
+      g016.curta.zedat.fu-berlin.de: 04:11:07/04:21:57 (efficiency=95.9%)
+
+  CPU memory usage per node - used/allocated
+      g016.curta.zedat.fu-berlin.de: 18.4GB/27GB (18.4GB/27GB per core of 1, efficiency=68.0%)
+
+  GPU utilization per node
+      g016.curta.zedat.fu-berlin.de (GPU 2): 91.9%
+
+  GPU memory usage per node - maximum used/total
+      g016.curta.zedat.fu-berlin.de (GPU 2): 73.2GB/79.6GB (91.9%)
+
+                                     Notes                                      
+================================================================================
+  * This job only used 68% of the 27GB of total allocated CPU memory. For
+    future jobs, please allocate less memory by using a Slurm directive such
+    as --mem-per-cpu=23G or --mem=23G. This will reduce your queue times and
+    make the resources available to other users. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/Hauptspeicher/
+
+  * Have a nice day!
+
+

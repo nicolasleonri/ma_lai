@@ -1,0 +1,509 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+Processing all dataframes with 1 workers
+Processed 1000 rows...
+Processed 2000 rows...
+Processed 3000 rows...
+Processed 4000 rows...
+Processed 5000 rows...
+Processed 6000 rows...
+Processed 7000 rows...
+Processed 8000 rows...
+Processed 9000 rows...
+Processed 10000 rows...
+Processed 11000 rows...
+Processed 12000 rows...
+Processed 13000 rows...
+Processed 14000 rows...
+Processed 15000 rows...
+Processed 16000 rows...
+Processed 17000 rows...
+Processed 18000 rows...
+Processed 19000 rows...
+Processed 20000 rows...
+Processed 21000 rows...
+Processed 22000 rows...
+Processed 23000 rows...
+Processed 24000 rows...
+Processed 25000 rows...
+Processed 26000 rows...
+Processed 27000 rows...
+Processed 28000 rows...
+Processed 29000 rows...
+Processed 30000 rows...
+Processed 31000 rows...
+Processed 32000 rows...
+Processed 33000 rows...
+Processed 34000 rows...
+Processed 35000 rows...
+Processed 36000 rows...
+Processed 37000 rows...
+Processed 38000 rows...
+Processed 39000 rows...
+Processed 40000 rows...
+Processed 41000 rows...
+Processed 42000 rows...
+Processed 43000 rows...
+Processed 44000 rows...
+Processed 45000 rows...
+Processed 46000 rows...
+Processed 47000 rows...
+Processed 48000 rows...
+Processed 49000 rows...
+Processed 50000 rows...
+Processed 51000 rows...
+Processed 52000 rows...
+Processed 53000 rows...
+Processed 54000 rows...
+Processed 55000 rows...
+Processed 56000 rows...
+Processed 57000 rows...
+Processed 58000 rows...
+Processed 59000 rows...
+Processed 60000 rows...
+Processed 61000 rows...
+Processed 62000 rows...
+Processed 63000 rows...
+Processed 64000 rows...
+Processed 65000 rows...
+Processed 66000 rows...
+Processed 67000 rows...
+Processed 68000 rows...
+Processed 69000 rows...
+Processed 70000 rows...
+Processed 71000 rows...
+Processed 72000 rows...
+Processed 73000 rows...
+Processed 74000 rows...
+Processed 75000 rows...
+Processed 76000 rows...
+Processed 77000 rows...
+Processed 78000 rows...
+Processed 79000 rows...
+Processed 80000 rows...
+Processed 81000 rows...
+Processed 82000 rows...
+Processed 83000 rows...
+Processed 84000 rows...
+Processed 85000 rows...
+Processed 86000 rows...
+Processed 87000 rows...
+Processed 88000 rows...
+Processed 89000 rows...
+Processed 90000 rows...
+Processed 91000 rows...
+Processed 92000 rows...
+Processed 93000 rows...
+Processed 94000 rows...
+Processed 95000 rows...
+Processed 96000 rows...
+Processed 97000 rows...
+Processed 98000 rows...
+Processed 99000 rows...
+Processed 100000 rows...
+Processed 101000 rows...
+Processed 102000 rows...
+Processed 103000 rows...
+Processed 104000 rows...
+Processed 105000 rows...
+Processed 106000 rows...
+Processed 107000 rows...
+Processed 108000 rows...
+Processed 109000 rows...
+Processed 110000 rows...
+Processed 111000 rows...
+Processed 112000 rows...
+Processed 113000 rows...
+Processed 114000 rows...
+Processed 115000 rows...
+Processed 116000 rows...
+Processed 117000 rows...
+Processed 118000 rows...
+Processed 119000 rows...
+Processed 120000 rows...
+Processed 121000 rows...
+Processed 122000 rows...
+Processed 123000 rows...
+Processed 124000 rows...
+Processed 125000 rows...
+Processed 126000 rows...
+Processed 127000 rows...
+Processed 128000 rows...
+Processed 129000 rows...
+Processed 130000 rows...
+Processed 131000 rows...
+Processed 132000 rows...
+Processed 133000 rows...
+Processed 134000 rows...
+Processed 135000 rows...
+Processed 136000 rows...
+Processed 137000 rows...
+Processed 138000 rows...
+Processed 139000 rows...
+Processed 140000 rows...
+Processed 141000 rows...
+Processed 142000 rows...
+Processed 143000 rows...
+Processed 144000 rows...
+Processed 145000 rows...
+Processed 146000 rows...
+Processed 147000 rows...
+Processed 148000 rows...
+Processed 149000 rows...
+Processed 150000 rows...
+Processed 151000 rows...
+Processed 152000 rows...
+Processed 153000 rows...
+Processed 154000 rows...
+Processed 155000 rows...
+Processed 156000 rows...
+Processed 157000 rows...
+Processed 158000 rows...
+Processed 159000 rows...
+Processed 160000 rows...
+Processed 161000 rows...
+Processed 162000 rows...
+Processed 163000 rows...
+Processed 164000 rows...
+Processed 165000 rows...
+Processed 166000 rows...
+Processed 167000 rows...
+Processed 168000 rows...
+Processed 169000 rows...
+Processed 170000 rows...
+Processed 171000 rows...
+Processed 172000 rows...
+Processed 173000 rows...
+Processed 174000 rows...
+Processed 175000 rows...
+Processed 176000 rows...
+Processed 177000 rows...
+Processed 178000 rows...
+Processed 179000 rows...
+Processed 180000 rows...
+Processed 181000 rows...
+Processed 182000 rows...
+Processed 183000 rows...
+Processed 184000 rows...
+Processed 185000 rows...
+Processed 186000 rows...
+Processed 187000 rows...
+Processed 188000 rows...
+Processed 189000 rows...
+Processed 190000 rows...
+Processed 191000 rows...
+Processed 192000 rows...
+Processed 193000 rows...
+Processed 194000 rows...
+Processed 195000 rows...
+Processed 196000 rows...
+Processed 197000 rows...
+Processed 198000 rows...
+Processed 199000 rows...
+Processed 200000 rows...
+Processed 201000 rows...
+Processed 202000 rows...
+Processed 203000 rows...
+Processed 204000 rows...
+Processed 205000 rows...
+Processed 206000 rows...
+Processed 207000 rows...
+Processed 208000 rows...
+Processed 209000 rows...
+Processed 210000 rows...
+Processed 211000 rows...
+Processed 212000 rows...
+Processed 213000 rows...
+Processed 214000 rows...
+Processed 215000 rows...
+Processed 216000 rows...
+Processed 217000 rows...
+Processed 218000 rows...
+Processed 219000 rows...
+Processed 220000 rows...
+Processed 221000 rows...
+Processed 222000 rows...
+Processed 223000 rows...
+Processed 224000 rows...
+Processed 225000 rows...
+Processed 226000 rows...
+Processed 227000 rows...
+Processed 228000 rows...
+Processed 229000 rows...
+Processed 230000 rows...
+Processed 231000 rows...
+Processed 232000 rows...
+Processed 233000 rows...
+Processed 234000 rows...
+Processed 235000 rows...
+Processed 236000 rows...
+Processed 237000 rows...
+Processed 238000 rows...
+Processed 239000 rows...
+Processed 240000 rows...
+Processed 241000 rows...
+Processed 242000 rows...
+Processed 243000 rows...
+Processed 244000 rows...
+Processed 245000 rows...
+Processed 246000 rows...
+Processed 247000 rows...
+Processed 248000 rows...
+Processed 249000 rows...
+Processed 250000 rows...
+Processed 251000 rows...
+Processed 252000 rows...
+Processed 253000 rows...
+Processed 254000 rows...
+Processed 255000 rows...
+Processed 256000 rows...
+Processed 257000 rows...
+Processed 258000 rows...
+Processed 259000 rows...
+Processed 260000 rows...
+Processed 261000 rows...
+Processed 262000 rows...
+Processed 263000 rows...
+Processed 264000 rows...
+Processed 265000 rows...
+Processed 266000 rows...
+Processed 267000 rows...
+Processed 268000 rows...
+Processed 269000 rows...
+Processed 270000 rows...
+Processed 271000 rows...
+Processed 272000 rows...
+Processed 273000 rows...
+Processed 274000 rows...
+Processed 275000 rows...
+Processed 276000 rows...
+Processed 277000 rows...
+Processed 278000 rows...
+Processed 279000 rows...
+Processed 280000 rows...
+Processed 281000 rows...
+Processed 282000 rows...
+Processed 283000 rows...
+Processed 284000 rows...
+Processed 285000 rows...
+Processed 286000 rows...
+Processed 287000 rows...
+Processed 288000 rows...
+Processed 289000 rows...
+Processed 290000 rows...
+Processed 291000 rows...
+Processed 292000 rows...
+Processed 293000 rows...
+Processed 294000 rows...
+Processed 295000 rows...
+Processed 296000 rows...
+Processed 297000 rows...
+Processed 298000 rows...
+Processed 299000 rows...
+Processed 300000 rows...
+Processed 301000 rows...
+Processed 302000 rows...
+Processed 303000 rows...
+Processed 304000 rows...
+Processed 305000 rows...
+Processed 306000 rows...
+Processed 307000 rows...
+Processed 308000 rows...
+Processed 309000 rows...
+Processed 310000 rows...
+Processed 311000 rows...
+Processed 312000 rows...
+Processed 313000 rows...
+Processed 314000 rows...
+Processed 315000 rows...
+Processed 316000 rows...
+Processed 317000 rows...
+Processed 318000 rows...
+Processed 319000 rows...
+Processed 320000 rows...
+Processed 321000 rows...
+Processed 322000 rows...
+Processed 323000 rows...
+Processed 324000 rows...
+Processed 325000 rows...
+Processed 326000 rows...
+Processed 327000 rows...
+Processed 328000 rows...
+Processed 329000 rows...
+Processed 330000 rows...
+Processed 331000 rows...
+Processed 332000 rows...
+Processed 333000 rows...
+Processed 334000 rows...
+Processed 335000 rows...
+Processed 336000 rows...
+Processed 337000 rows...
+Processed 338000 rows...
+Processed 339000 rows...
+Processed 340000 rows...
+Processed 341000 rows...
+Processed 342000 rows...
+Processed 343000 rows...
+Processed 344000 rows...
+Processed 345000 rows...
+Processed 346000 rows...
+Processed 347000 rows...
+Processed 348000 rows...
+Processed 349000 rows...
+Processed 350000 rows...
+Processed 351000 rows...
+Processed 352000 rows...
+Processed 353000 rows...
+Processed 354000 rows...
+Processed 355000 rows...
+Processed 356000 rows...
+Processed 357000 rows...
+Processed 358000 rows...
+Processed 359000 rows...
+Processed 360000 rows...
+Processed 361000 rows...
+Processed 362000 rows...
+Processed 363000 rows...
+Processed 364000 rows...
+Processed 365000 rows...
+Processed 366000 rows...
+Processed 367000 rows...
+Processed 368000 rows...
+Processed 369000 rows...
+Processed 370000 rows...
+Processed 371000 rows...
+Processed 372000 rows...
+Processed 373000 rows...
+Processed 374000 rows...
+Processed 375000 rows...
+Processed 376000 rows...
+Processed 377000 rows...
+Processed 378000 rows...
+Processed 379000 rows...
+Processed 380000 rows...
+Processed 381000 rows...
+Processed 382000 rows...
+Processed 383000 rows...
+Processed 384000 rows...
+Processed 385000 rows...
+Processed 386000 rows...
+Processed 387000 rows...
+Processed 388000 rows...
+Processed 389000 rows...
+Processed 390000 rows...
+Processed 391000 rows...
+Processed 392000 rows...
+Processed 393000 rows...
+Processed 394000 rows...
+Processed 395000 rows...
+Processed 396000 rows...
+Processed 397000 rows...
+Processed 398000 rows...
+Processed 399000 rows...
+Processed 400000 rows...
+Processed 401000 rows...
+Processed 402000 rows...
+Processed 403000 rows...
+Processed 404000 rows...
+Processed 405000 rows...
+Processed 406000 rows...
+Processed 407000 rows...
+Processed 408000 rows...
+Processed 409000 rows...
+Processed 410000 rows...
+Processed 411000 rows...
+Processed 412000 rows...
+Processed 413000 rows...
+Processed 414000 rows...
+Processed 415000 rows...
+Processed 416000 rows...
+Processed 417000 rows...
+Processed 418000 rows...
+Processed 419000 rows...
+Processed 420000 rows...
+Processed 421000 rows...
+Processed 422000 rows...
+Processed 423000 rows...
+Processed 424000 rows...
+Processed 425000 rows...
+Processed 426000 rows...
+Processed 427000 rows...
+Processed 428000 rows...
+Processed 429000 rows...
+Processed 430000 rows...
+Processed 431000 rows...
+Processed 432000 rows...
+Processed 433000 rows...
+Processed 434000 rows...
+Processed 435000 rows...
+Processed 436000 rows...
+Processed 437000 rows...
+Processed 438000 rows...
+Processed 439000 rows...
+Processed 440000 rows...
+Processed 441000 rows...
+Processed 442000 rows...
+Processed 443000 rows...
+Processed 444000 rows...
+Processed 445000 rows...
+Processed 446000 rows...
+Processed 447000 rows...
+Processed 448000 rows...
+Processed 449000 rows...
+Processed 450000 rows...
+Processed 451000 rows...
+Processed 452000 rows...
+Processed 453000 rows...
+Processed 454000 rows...
+Processed 455000 rows...
+Total valid documents: 455036
+Processing 13470 CSV files from ./results/csv/
+
+==================================================
+Processing with model: sentence-transformers/distiluse-base-multilingual-cased-v1
+==================================================
+GPU Memory: 0, 81080
+Initializing time: 12.91 seconds
+GPU Memory: 807, 80274
+Training BERTopic model with sentence-transformers/distiluse-base-multilingual-cased-v1
+2025-09-28 11:34:04,824 - BERTopic - Embedding - Transforming documents to embeddings.
+Batches:   0%|          | 0/14220 [00:00<?, ?it/s]Batches:   0%|          | 1/14220 [00:01<7:05:56,  1.80s/it]Batches:   0%|          | 2/14220 [00:01<3:19:12,  1.19it/s]Batches:   0%|          | 3/14220 [00:02<2:02:00,  1.94it/s]Batches:   0%|          | 4/14220 [00:02<1:25:17,  2.78it/s]Batches:   0%|          | 5/14220 [00:02<1:04:37,  3.67it/s]Batches:   0%|          | 7/14220 [00:02<42:09,  5.62it/s]  Batches:   0%|          | 9/14220 [00:02<31:39,  7.48it/s]Batches:   0%|          | 11/14220 [00:02<25:43,  9.20it/s]Batches:   0%|          | 13/14220 [00:02<23:21, 10.13it/s]Batches:   0%|          | 15/14220 [00:03<20:25, 11.59it/s]Batches:   0%|          | 17/14220 [00:03<18:07, 13.06it/s]Batches:   0%|          | 19/14220 [00:03<16:36, 14.25it/s]Batches:   0%|          | 21/14220 [00:03<15:33, 15.22it/s]Batches:   0%|          | 23/14220 [00:03<15:24, 15.35it/s]Batches:   0%|          | 25/14220 [00:03<15:01, 15.75it/s]Batches:   0%|          | 28/14220 [00:03<13:50, 17.09it/s]Batches:   0%|          | 31/14220 [00:03<13:03, 18.11it/s]Batches:   0%|          | 34/14220 [00:04<12:22, 19.10it/s]Batches:   0%|          | 37/14220 [00:04<11:52, 19.90it/s]Batches:   0%|          | 40/14220 [00:04<11:43, 20.17it/s]Batches:   0%|          | 43/14220 [00:04<11:23, 20.75it/s]Batches:   0%|          | 46/14220 [00:04<11:04, 21.32it/s]Batches:   0%|          | 49/14220 [00:04<11:15, 20.98it/s]Batches:   0%|          | 52/14220 [00:04<11:19, 20.86it/s]Batches:   0%|          | 55/14220 [00:05<10:50, 21.77it/s]Batches:   0%|          | 58/14220 [00:05<10:38, 22.18it/s]Batches:   0%|          | 61/14220 [00:05<10:20, 22.82it/s]Batches:   0%|          | 64/14220 [00:05<10:04, 23.43it/s]Batches:   0%|          | 67/14220 [00:05<09:40, 24.40it/s]Batches:   0%|          | 70/14220 [00:05<09:28, 24.91it/s]Batches:   1%|          | 73/14220 [00:05<09:13, 25.57it/s]Batches:   1%|          | 76/14220 [00:05<09:02, 26.09it/s]Batches:   1%|          | 79/14220 [00:05<08:58, 26.24it/s]Batches:   1%|          | 82/14220 [00:06<09:41, 24.30it/s]Batches:   1%|          | 85/14220 [00:06<09:42, 24.27it/s]Batches:   1%|          | 88/14220 [00:06<09:13, 25.54it/s]Batches:   1%|          | 91/14220 [00:06<08:52, 26.52it/s]Batches:   1%|          | 94/14220 [00:06<08:51, 26.59it/s]Batches:   1%|          | 97/14220 [00:06<08:34, 27.43it/s]Batches:   1%|          | 100/14220 [00:06<08:23, 28.03it/s]Batches:   1%|          | 103/14220 [00:06<08:21, 28.15it/s]Batches:   1%|          | 107/14220 [00:07<08:08, 28.90it/s]Batches:   1%|          | 111/14220 [00:07<07:57, 29.56it/s]Batches:   1%|          | 115/14220 [00:07<07:48, 30.10it/s]Batches:   1%|          | 119/14220 [00:07<08:16, 28.43it/s]Batches:   1%|          | 122/14220 [00:07<08:24, 27.97it/s]Batches:   1%|          | 126/14220 [00:07<08:03, 29.18it/s]Batches:   1%|          | 130/14220 [00:07<07:51, 29.87it/s]Batches:   1%|          | 134/14220 [00:07<07:36, 30.89it/s]Batches:   1%|          | 138/14220 [00:08<07:24, 31.66it/s]Batches:   1%|          | 142/14220 [00:08<07:14, 32.42it/s]Batches:   1%|          | 146/14220 [00:08<07:06, 33.02it/s]Batches:   1%|          | 150/14220 [00:08<06:58, 33.59it/s]Batches:   1%|          | 154/14220 [00:08<06:51, 34.20it/s]Batches:   1%|          | 158/14220 [00:08<06:53, 34.04it/s]Batches:   1%|          | 162/14220 [00:08<07:09, 32.72it/s]Batches:   1%|          | 166/14220 [00:08<06:56, 33.72it/s]Batches:   1%|          | 170/14220 [00:08<06:45, 34.68it/s]Batches:   1%|          | 174/14220 [00:09<06:38, 35.25it/s]Batches:   1%|▏         | 178/14220 [00:09<06:35, 35.51it/s]Batches:   1%|▏         | 182/14220 [00:09<06:27, 36.25it/s]Batches:   1%|▏         | 186/14220 [00:09<06:22, 36.70it/s]Batches:   1%|▏         | 190/14220 [00:09<06:21, 36.75it/s]Batches:   1%|▏         | 194/14220 [00:09<06:24, 36.52it/s]Batches:   1%|▏         | 198/14220 [00:09<06:17, 37.19it/s]Batches:   1%|▏         | 202/14220 [00:09<06:10, 37.87it/s]Batches:   1%|▏         | 206/14220 [00:09<06:10, 37.78it/s]Batches:   1%|▏         | 210/14220 [00:10<06:24, 36.45it/s]Batches:   2%|▏         | 214/14220 [00:10<06:26, 36.25it/s]Batches:   2%|▏         | 218/14220 [00:10<06:33, 35.63it/s]Batches:   2%|▏         | 222/14220 [00:10<06:20, 36.83it/s]Batches:   2%|▏         | 227/14220 [00:10<06:06, 38.19it/s]Batches:   2%|▏         | 232/14220 [00:10<05:55, 39.37it/s]Batches:   2%|▏         | 237/14220 [00:10<05:47, 40.24it/s]Batches:   2%|▏         | 242/14220 [00:10<05:44, 40.57it/s]Batches:   2%|▏         | 247/14220 [00:10<05:39, 41.11it/s]Batches:   2%|▏         | 252/14220 [00:11<05:38, 41.28it/s]Batches:   2%|▏         | 257/14220 [00:11<05:39, 41.19it/s]Batches:   2%|▏         | 262/14220 [00:11<05:36, 41.53it/s]Batches:   2%|▏         | 267/14220 [00:11<05:59, 38.86it/s]Batches:   2%|▏         | 272/14220 [00:11<05:50, 39.76it/s]Batches:   2%|▏         | 277/14220 [00:11<05:38, 41.13it/s]Batches:   2%|▏         | 282/14220 [00:11<05:37, 41.30it/s]Batches:   2%|▏         | 287/14220 [00:11<05:29, 42.28it/s]Batches:   2%|▏         | 292/14220 [00:12<05:24, 42.97it/s]Batches:   2%|▏         | 297/14220 [00:12<05:18, 43.77it/s]Batches:   2%|▏         | 302/14220 [00:12<05:13, 44.38it/s]Batches:   2%|▏         | 307/14220 [00:12<05:14, 44.24it/s]Batches:   2%|▏         | 312/14220 [00:12<05:10, 44.80it/s]Batches:   2%|▏         | 317/14220 [00:12<05:08, 45.06it/s]Batches:   2%|▏         | 322/14220 [00:12<05:19, 43.45it/s]Batches:   2%|▏         | 327/14220 [00:12<05:25, 42.66it/s]Batches:   2%|▏         | 332/14220 [00:12<05:20, 43.29it/s]Batches:   2%|▏         | 337/14220 [00:13<05:07, 45.08it/s]Batches:   2%|▏         | 342/14220 [00:13<05:01, 46.03it/s]Batches:   2%|▏         | 348/14220 [00:13<04:55, 47.00it/s]Batches:   2%|▏         | 354/14220 [00:13<04:48, 48.10it/s]Batches:   3%|▎         | 360/14220 [00:13<04:42, 49.14it/s]Batches:   3%|▎         | 365/14220 [00:13<04:43, 48.79it/s]Batches:   3%|▎         | 371/14220 [00:13<04:38, 49.69it/s]Batches:   3%|▎         | 377/14220 [00:13<04:34, 50.41it/s]Batches:   3%|▎         | 383/14220 [00:13<04:47, 48.11it/s]Batches:   3%|▎         | 388/14220 [00:14<04:55, 46.86it/s]Batches:   3%|▎         | 394/14220 [00:14<04:43, 48.70it/s]Batches:   3%|▎         | 400/14220 [00:14<04:35, 50.13it/s]Batches:   3%|▎         | 406/14220 [00:14<04:39, 49.51it/s]Batches:   3%|▎         | 412/14220 [00:14<04:33, 50.49it/s]Batches:   3%|▎         | 418/14220 [00:14<04:26, 51.73it/s]Batches:   3%|▎         | 424/14220 [00:14<04:28, 51.43it/s]Batches:   3%|▎         | 430/14220 [00:14<04:23, 52.32it/s]Batches:   3%|▎         | 436/14220 [00:15<04:17, 53.45it/s]Batches:   3%|▎         | 442/14220 [00:15<04:14, 54.16it/s]Batches:   3%|▎         | 448/14220 [00:15<04:18, 53.35it/s]Batches:   3%|▎         | 454/14220 [00:15<04:40, 49.11it/s]Batches:   3%|▎         | 460/14220 [00:15<04:31, 50.68it/s]Batches:   3%|▎         | 466/14220 [00:15<04:22, 52.49it/s]Batches:   3%|▎         | 472/14220 [00:15<04:14, 53.99it/s]Batches:   3%|▎         | 478/14220 [00:15<04:09, 55.10it/s]Batches:   3%|▎         | 484/14220 [00:15<04:10, 54.93it/s]Batches:   3%|▎         | 490/14220 [00:16<04:05, 55.85it/s]Batches:   3%|▎         | 496/14220 [00:16<04:01, 56.90it/s]Batches:   4%|▎         | 502/14220 [00:16<03:58, 57.46it/s]Batches:   4%|▎         | 508/14220 [00:16<03:57, 57.84it/s]Batches:   4%|▎         | 514/14220 [00:16<03:56, 57.91it/s]Batches:   4%|▎         | 520/14220 [00:16<03:57, 57.63it/s]Batches:   4%|▎         | 526/14220 [00:16<04:18, 52.89it/s]Batches:   4%|▎         | 532/14220 [00:16<04:10, 54.67it/s]Batches:   4%|▍         | 538/14220 [00:16<04:05, 55.79it/s]Batches:   4%|▍         | 544/14220 [00:16<04:10, 54.61it/s]Batches:   4%|▍         | 551/14220 [00:17<04:01, 56.60it/s]Batches:   4%|▍         | 558/14220 [00:17<03:55, 58.05it/s]Batches:   4%|▍         | 565/14220 [00:17<03:50, 59.21it/s]Batches:   4%|▍         | 572/14220 [00:17<03:50, 59.33it/s]Batches:   4%|▍         | 578/14220 [00:17<03:53, 58.49it/s]Batches:   4%|▍         | 585/14220 [00:17<03:49, 59.48it/s]Batches:   4%|▍         | 592/14220 [00:17<03:47, 59.97it/s]Batches:   4%|▍         | 598/14220 [00:17<03:57, 57.37it/s]Batches:   4%|▍         | 604/14220 [00:18<03:55, 57.88it/s]Batches:   4%|▍         | 611/14220 [00:18<03:49, 59.18it/s]Batches:   4%|▍         | 618/14220 [00:18<03:44, 60.51it/s]Batches:   4%|▍         | 625/14220 [00:18<03:44, 60.63it/s]Batches:   4%|▍         | 632/14220 [00:18<03:40, 61.62it/s]Batches:   4%|▍         | 639/14220 [00:18<03:37, 62.46it/s]Batches:   5%|▍         | 646/14220 [00:18<03:34, 63.27it/s]Batches:   5%|▍         | 653/14220 [00:18<03:32, 63.72it/s]Batches:   5%|▍         | 660/14220 [00:18<03:37, 62.21it/s]Batches:   5%|▍         | 667/14220 [00:18<03:34, 63.15it/s]Batches:   5%|▍         | 674/14220 [00:19<03:34, 63.22it/s]Batches:   5%|▍         | 681/14220 [00:19<03:44, 60.43it/s]Batches:   5%|▍         | 688/14220 [00:19<03:45, 59.98it/s]Batches:   5%|▍         | 695/14220 [00:19<03:44, 60.18it/s]Batches:   5%|▍         | 702/14220 [00:19<03:38, 61.86it/s]Batches:   5%|▍         | 709/14220 [00:19<03:33, 63.23it/s]Batches:   5%|▌         | 716/14220 [00:19<03:29, 64.53it/s]Batches:   5%|▌         | 723/14220 [00:19<03:27, 64.94it/s]Batches:   5%|▌         | 730/14220 [00:19<03:25, 65.51it/s]Batches:   5%|▌         | 737/14220 [00:20<03:23, 66.15it/s]Batches:   5%|▌         | 744/14220 [00:20<03:24, 65.74it/s]Batches:   5%|▌         | 751/14220 [00:20<03:23, 66.32it/s]Batches:   5%|▌         | 758/14220 [00:20<03:24, 65.95it/s]Batches:   5%|▌         | 765/14220 [00:20<03:31, 63.49it/s]Batches:   5%|▌         | 772/14220 [00:20<03:27, 64.94it/s]Batches:   5%|▌         | 779/14220 [00:20<03:29, 64.18it/s]Batches:   6%|▌         | 786/14220 [00:20<03:24, 65.54it/s]Batches:   6%|▌         | 794/14220 [00:20<03:20, 66.89it/s]Batches:   6%|▌         | 802/14220 [00:21<03:17, 68.08it/s]Batches:   6%|▌         | 809/14220 [00:21<03:17, 68.05it/s]Batches:   6%|▌         | 816/14220 [00:21<03:28, 64.35it/s]Batches:   6%|▌         | 823/14220 [00:21<03:23, 65.88it/s]Batches:   6%|▌         | 831/14220 [00:21<03:18, 67.51it/s]Batches:   6%|▌         | 839/14220 [00:21<03:14, 68.73it/s]Batches:   6%|▌         | 846/14220 [00:21<03:14, 68.75it/s]Batches:   6%|▌         | 853/14220 [00:21<03:29, 63.71it/s]Batches:   6%|▌         | 860/14220 [00:21<03:26, 64.58it/s]Batches:   6%|▌         | 868/14220 [00:22<03:20, 66.74it/s]Batches:   6%|▌         | 876/14220 [00:22<03:14, 68.47it/s]Batches:   6%|▌         | 884/14220 [00:22<03:12, 69.22it/s]Batches:   6%|▋         | 892/14220 [00:22<03:09, 70.36it/s]Batches:   6%|▋         | 900/14220 [00:22<03:11, 69.67it/s]Batches:   6%|▋         | 908/14220 [00:22<03:08, 70.77it/s]Batches:   6%|▋         | 916/14220 [00:22<03:06, 71.51it/s]Batches:   6%|▋         | 924/14220 [00:22<03:03, 72.59it/s]Batches:   7%|▋         | 932/14220 [00:22<03:01, 73.03it/s]Batches:   7%|▋         | 940/14220 [00:23<03:10, 69.87it/s]Batches:   7%|▋         | 948/14220 [00:23<03:19, 66.38it/s]Batches:   7%|▋         | 956/14220 [00:23<03:13, 68.64it/s]Batches:   7%|▋         | 964/14220 [00:23<03:07, 70.52it/s]Batches:   7%|▋         | 972/14220 [00:23<03:04, 71.89it/s]Batches:   7%|▋         | 980/14220 [00:23<03:01, 73.06it/s]Batches:   7%|▋         | 988/14220 [00:23<02:58, 74.06it/s]Batches:   7%|▋         | 996/14220 [00:23<02:56, 74.90it/s]Batches:   7%|▋         | 1004/14220 [00:23<02:55, 75.45it/s]Batches:   7%|▋         | 1012/14220 [00:24<02:53, 75.99it/s]Batches:   7%|▋         | 1020/14220 [00:24<03:00, 73.16it/s]Batches:   7%|▋         | 1028/14220 [00:24<02:59, 73.35it/s]Batches:   7%|▋         | 1036/14220 [00:24<02:59, 73.53it/s]Batches:   7%|▋         | 1044/14220 [00:24<03:07, 70.34it/s]Batches:   7%|▋         | 1052/14220 [00:24<03:01, 72.62it/s]Batches:   7%|▋         | 1060/14220 [00:24<02:57, 74.28it/s]Batches:   8%|▊         | 1068/14220 [00:24<02:53, 75.66it/s]Batches:   8%|▊         | 1076/14220 [00:24<02:54, 75.20it/s]Batches:   8%|▊         | 1084/14220 [00:25<02:52, 76.23it/s]Batches:   8%|▊         | 1092/14220 [00:25<02:50, 77.11it/s]Batches:   8%|▊         | 1100/14220 [00:25<02:49, 77.59it/s]Batches:   8%|▊         | 1108/14220 [00:25<02:49, 77.35it/s]Batches:   8%|▊         | 1116/14220 [00:25<02:49, 77.17it/s]Batches:   8%|▊         | 1124/14220 [00:25<02:48, 77.79it/s]Batches:   8%|▊         | 1132/14220 [00:25<02:46, 78.42it/s]Batches:   8%|▊         | 1140/14220 [00:25<02:52, 75.71it/s]Batches:   8%|▊         | 1148/14220 [00:25<02:54, 74.75it/s]Batches:   8%|▊         | 1156/14220 [00:26<04:04, 53.52it/s]Batches:   8%|▊         | 1164/14220 [00:26<03:41, 58.89it/s]Batches:   8%|▊         | 1173/14220 [00:26<03:22, 64.48it/s]Batches:   8%|▊         | 1182/14220 [00:26<03:09, 68.96it/s]Batches:   8%|▊         | 1191/14220 [00:26<03:00, 72.36it/s]Batches:   8%|▊         | 1200/14220 [00:26<02:53, 75.06it/s]Batches:   8%|▊         | 1208/14220 [00:26<02:50, 76.36it/s]Batches:   9%|▊         | 1217/14220 [00:26<02:46, 78.21it/s]Batches:   9%|▊         | 1226/14220 [00:26<02:43, 79.63it/s]Batches:   9%|▊         | 1235/14220 [00:27<02:40, 80.73it/s]Batches:   9%|▊         | 1244/14220 [00:27<02:39, 81.21it/s]Batches:   9%|▉         | 1253/14220 [00:27<02:42, 79.89it/s]Batches:   9%|▉         | 1262/14220 [00:27<02:39, 81.08it/s]Batches:   9%|▉         | 1271/14220 [00:27<02:37, 82.21it/s]Batches:   9%|▉         | 1280/14220 [00:27<02:37, 81.91it/s]Batches:   9%|▉         | 1289/14220 [00:27<02:36, 82.83it/s]Batches:   9%|▉         | 1298/14220 [00:27<02:34, 83.83it/s]Batches:   9%|▉         | 1307/14220 [00:27<02:32, 84.65it/s]Batches:   9%|▉         | 1316/14220 [00:28<02:31, 85.14it/s]Batches:   9%|▉         | 1325/14220 [00:28<02:36, 82.45it/s]Batches:   9%|▉         | 1334/14220 [00:28<02:34, 83.67it/s]Batches:   9%|▉         | 1343/14220 [00:28<02:41, 79.78it/s]Batches:  10%|▉         | 1352/14220 [00:28<02:45, 77.59it/s]Batches:  10%|▉         | 1361/14220 [00:28<02:42, 78.96it/s]Batches:  10%|▉         | 1370/14220 [00:28<02:38, 81.12it/s]Batches:  10%|▉         | 1379/14220 [00:28<02:34, 83.14it/s]Batches:  10%|▉         | 1388/14220 [00:28<02:32, 83.87it/s]Batches:  10%|▉         | 1397/14220 [00:29<02:30, 85.37it/s]Batches:  10%|▉         | 1406/14220 [00:29<02:28, 86.58it/s]Batches:  10%|▉         | 1415/14220 [00:29<02:26, 87.52it/s]Batches:  10%|█         | 1424/14220 [00:29<02:25, 87.99it/s]Batches:  10%|█         | 1433/14220 [00:29<02:31, 84.20it/s]Batches:  10%|█         | 1442/14220 [00:29<02:30, 84.78it/s]Batches:  10%|█         | 1451/14220 [00:29<02:28, 86.08it/s]Batches:  10%|█         | 1460/14220 [00:29<02:26, 87.09it/s]Batches:  10%|█         | 1470/14220 [00:29<02:24, 88.17it/s]Batches:  10%|█         | 1479/14220 [00:29<02:26, 87.23it/s]Batches:  10%|█         | 1488/14220 [00:30<02:24, 88.00it/s]Batches:  11%|█         | 1498/14220 [00:30<02:22, 88.98it/s]Batches:  11%|█         | 1508/14220 [00:30<02:21, 89.54it/s]Batches:  11%|█         | 1517/14220 [00:30<02:22, 88.90it/s]Batches:  11%|█         | 1527/14220 [00:30<02:21, 89.57it/s]Batches:  11%|█         | 1537/14220 [00:30<02:20, 90.15it/s]Batches:  11%|█         | 1547/14220 [00:30<02:20, 90.14it/s]Batches:  11%|█         | 1557/14220 [00:30<02:19, 90.66it/s]Batches:  11%|█         | 1567/14220 [00:30<02:18, 91.40it/s]Batches:  11%|█         | 1577/14220 [00:31<02:26, 86.51it/s]Batches:  11%|█         | 1586/14220 [00:31<02:24, 87.45it/s]Batches:  11%|█         | 1595/14220 [00:31<02:23, 87.80it/s]Batches:  11%|█▏        | 1605/14220 [00:31<02:21, 89.22it/s]Batches:  11%|█▏        | 1615/14220 [00:31<02:20, 89.88it/s]Batches:  11%|█▏        | 1625/14220 [00:31<02:18, 91.15it/s]Batches:  11%|█▏        | 1635/14220 [00:31<02:16, 92.14it/s]Batches:  12%|█▏        | 1645/14220 [00:31<02:15, 92.50it/s]Batches:  12%|█▏        | 1655/14220 [00:31<02:16, 92.23it/s]Batches:  12%|█▏        | 1665/14220 [00:32<02:18, 90.45it/s]Batches:  12%|█▏        | 1675/14220 [00:32<02:16, 92.05it/s]Batches:  12%|█▏        | 1685/14220 [00:32<02:14, 92.99it/s]Batches:  12%|█▏        | 1695/14220 [00:32<02:21, 88.37it/s]Batches:  12%|█▏        | 1705/14220 [00:32<02:18, 90.08it/s]Batches:  12%|█▏        | 1715/14220 [00:32<02:21, 88.50it/s]Batches:  12%|█▏        | 1725/14220 [00:32<02:18, 90.48it/s]Batches:  12%|█▏        | 1735/14220 [00:32<02:15, 92.09it/s]Batches:  12%|█▏        | 1745/14220 [00:32<02:13, 93.43it/s]Batches:  12%|█▏        | 1755/14220 [00:33<02:12, 94.19it/s]Batches:  12%|█▏        | 1765/14220 [00:33<02:16, 91.22it/s]Batches:  12%|█▏        | 1775/14220 [00:33<02:14, 92.76it/s]Batches:  13%|█▎        | 1785/14220 [00:33<02:12, 94.03it/s]Batches:  13%|█▎        | 1795/14220 [00:33<02:10, 95.03it/s]Batches:  13%|█▎        | 1805/14220 [00:33<02:10, 95.48it/s]Batches:  13%|█▎        | 1815/14220 [00:33<02:17, 90.23it/s]Batches:  13%|█▎        | 1825/14220 [00:33<02:14, 92.02it/s]Batches:  13%|█▎        | 1835/14220 [00:33<02:14, 92.26it/s]Batches:  13%|█▎        | 1845/14220 [00:34<02:11, 93.97it/s]Batches:  13%|█▎        | 1855/14220 [00:34<02:09, 95.20it/s]Batches:  13%|█▎        | 1865/14220 [00:34<02:08, 96.38it/s]Batches:  13%|█▎        | 1875/14220 [00:34<02:07, 96.89it/s]Batches:  13%|█▎        | 1885/14220 [00:34<02:11, 94.08it/s]Batches:  13%|█▎        | 1895/14220 [00:34<02:09, 95.34it/s]Batches:  13%|█▎        | 1905/14220 [00:34<02:07, 96.40it/s]Batches:  13%|█▎        | 1915/14220 [00:34<02:06, 97.36it/s]Batches:  14%|█▎        | 1925/14220 [00:34<02:05, 97.79it/s]Batches:  14%|█▎        | 1935/14220 [00:34<02:11, 93.48it/s]Batches:  14%|█▎        | 1945/14220 [00:35<02:16, 89.68it/s]Batches:  14%|█▎        | 1955/14220 [00:35<02:12, 92.33it/s]Batches:  14%|█▍        | 1965/14220 [00:35<02:10, 93.77it/s]Batches:  14%|█▍        | 1975/14220 [00:35<02:08, 95.04it/s]Batches:  14%|█▍        | 1986/14220 [00:35<02:06, 96.97it/s]Batches:  14%|█▍        | 1996/14220 [00:35<02:04, 97.79it/s]Batches:  14%|█▍        | 2006/14220 [00:35<02:04, 97.79it/s]Batches:  14%|█▍        | 2017/14220 [00:35<02:03, 98.94it/s]Batches:  14%|█▍        | 2028/14220 [00:35<02:02, 99.61it/s]Batches:  14%|█▍        | 2039/14220 [00:36<02:01, 100.28it/s]Batches:  14%|█▍        | 2050/14220 [00:36<02:01, 100.52it/s]Batches:  14%|█▍        | 2061/14220 [00:36<02:01, 99.71it/s] Batches:  15%|█▍        | 2071/14220 [00:36<02:07, 94.97it/s]Batches:  15%|█▍        | 2081/14220 [00:36<02:09, 93.92it/s]Batches:  15%|█▍        | 2092/14220 [00:36<02:05, 96.47it/s]Batches:  15%|█▍        | 2103/14220 [00:36<02:03, 98.30it/s]Batches:  15%|█▍        | 2114/14220 [00:36<02:01, 99.79it/s]Batches:  15%|█▍        | 2125/14220 [00:36<01:59, 100.81it/s]Batches:  15%|█▌        | 2136/14220 [00:37<02:06, 95.66it/s] Batches:  15%|█▌        | 2147/14220 [00:37<02:04, 96.98it/s]Batches:  15%|█▌        | 2158/14220 [00:37<02:01, 98.89it/s]Batches:  15%|█▌        | 2169/14220 [00:37<02:00, 100.35it/s]Batches:  15%|█▌        | 2180/14220 [00:37<01:58, 101.51it/s]Batches:  15%|█▌        | 2191/14220 [00:37<02:01, 98.87it/s] Batches:  15%|█▌        | 2201/14220 [00:37<02:05, 95.43it/s]Batches:  16%|█▌        | 2212/14220 [00:37<02:02, 98.21it/s]Batches:  16%|█▌        | 2223/14220 [00:37<01:59, 100.13it/s]Batches:  16%|█▌        | 2234/14220 [00:37<01:59, 100.51it/s]Batches:  16%|█▌        | 2245/14220 [00:38<01:58, 100.82it/s]Batches:  16%|█▌        | 2256/14220 [00:38<01:57, 101.77it/s]Batches:  16%|█▌        | 2267/14220 [00:38<01:56, 102.71it/s]Batches:  16%|█▌        | 2278/14220 [00:38<01:55, 103.39it/s]Batches:  16%|█▌        | 2289/14220 [00:38<01:54, 103.95it/s]Batches:  16%|█▌        | 2300/14220 [00:38<01:54, 104.36it/s]Batches:  16%|█▋        | 2311/14220 [00:38<01:59, 99.74it/s] Batches:  16%|█▋        | 2322/14220 [00:38<01:57, 101.15it/s]Batches:  16%|█▋        | 2333/14220 [00:38<02:02, 97.19it/s] Batches:  16%|█▋        | 2344/14220 [00:39<01:59, 99.25it/s]Batches:  17%|█▋        | 2355/14220 [00:39<01:57, 101.27it/s]Batches:  17%|█▋        | 2366/14220 [00:39<01:55, 102.27it/s]Batches:  17%|█▋        | 2377/14220 [00:39<01:54, 103.85it/s]Batches:  17%|█▋        | 2388/14220 [00:39<01:52, 104.94it/s]Batches:  17%|█▋        | 2399/14220 [00:39<01:51, 105.73it/s]Batches:  17%|█▋        | 2410/14220 [00:39<01:51, 105.88it/s]Batches:  17%|█▋        | 2421/14220 [00:39<01:55, 102.37it/s]Batches:  17%|█▋        | 2432/14220 [00:39<01:53, 103.67it/s]Batches:  17%|█▋        | 2443/14220 [00:40<01:52, 104.73it/s]Batches:  17%|█▋        | 2454/14220 [00:40<01:54, 102.85it/s]Batches:  17%|█▋        | 2465/14220 [00:40<01:58, 98.90it/s] Batches:  17%|█▋        | 2475/14220 [00:40<02:01, 96.63it/s]Batches:  17%|█▋        | 2486/14220 [00:40<01:57, 100.09it/s]Batches:  18%|█▊        | 2497/14220 [00:40<01:54, 102.27it/s]Batches:  18%|█▊        | 2508/14220 [00:40<01:53, 103.48it/s]Batches:  18%|█▊        | 2520/14220 [00:40<01:50, 105.54it/s]Batches:  18%|█▊        | 2532/14220 [00:40<01:49, 107.00it/s]Batches:  18%|█▊        | 2544/14220 [00:40<01:48, 107.87it/s]Batches:  18%|█▊        | 2555/14220 [00:41<01:52, 103.45it/s]Batches:  18%|█▊        | 2566/14220 [00:41<01:52, 103.15it/s]Batches:  18%|█▊        | 2577/14220 [00:41<01:50, 104.94it/s]Batches:  18%|█▊        | 2588/14220 [00:41<01:50, 105.13it/s]Batches:  18%|█▊        | 2599/14220 [00:41<01:54, 101.33it/s]Batches:  18%|█▊        | 2610/14220 [00:41<01:57, 98.44it/s] Batches:  18%|█▊        | 2622/14220 [00:41<01:53, 102.16it/s]Batches:  19%|█▊        | 2634/14220 [00:41<01:50, 105.22it/s]Batches:  19%|█▊        | 2646/14220 [00:41<01:47, 107.33it/s]Batches:  19%|█▊        | 2658/14220 [00:42<01:46, 108.63it/s]Batches:  19%|█▉        | 2669/14220 [00:42<01:48, 106.33it/s]Batches:  19%|█▉        | 2681/14220 [00:42<01:46, 108.07it/s]Batches:  19%|█▉        | 2693/14220 [00:42<01:45, 109.45it/s]Batches:  19%|█▉        | 2705/14220 [00:42<01:44, 110.57it/s]Batches:  19%|█▉        | 2717/14220 [00:42<01:43, 110.76it/s]Batches:  19%|█▉        | 2729/14220 [00:42<01:46, 107.71it/s]Batches:  19%|█▉        | 2741/14220 [00:42<01:44, 109.50it/s]Batches:  19%|█▉        | 2753/14220 [00:42<01:43, 110.93it/s]Batches:  19%|█▉        | 2765/14220 [00:43<01:42, 111.65it/s]Batches:  20%|█▉        | 2777/14220 [00:43<01:41, 112.33it/s]Batches:  20%|█▉        | 2789/14220 [00:43<01:41, 112.86it/s]Batches:  20%|█▉        | 2801/14220 [00:43<01:40, 113.36it/s]Batches:  20%|█▉        | 2813/14220 [00:43<01:42, 111.69it/s]Batches:  20%|█▉        | 2825/14220 [00:43<01:40, 112.86it/s]Batches:  20%|█▉        | 2837/14220 [00:43<01:40, 113.80it/s]Batches:  20%|██        | 2849/14220 [00:43<01:39, 114.48it/s]Batches:  20%|██        | 2861/14220 [00:43<01:38, 115.26it/s]Batches:  20%|██        | 2873/14220 [00:44<01:41, 112.20it/s]Batches:  20%|██        | 2885/14220 [00:44<01:45, 106.99it/s]Batches:  20%|██        | 2896/14220 [00:44<01:48, 104.05it/s]Batches:  20%|██        | 2907/14220 [00:44<01:47, 104.94it/s]Batches:  21%|██        | 2919/14220 [00:44<01:44, 108.10it/s]Batches:  21%|██        | 2931/14220 [00:44<01:41, 110.97it/s]Batches:  21%|██        | 2943/14220 [00:44<01:39, 113.00it/s]Batches:  21%|██        | 2955/14220 [00:44<01:38, 114.36it/s]Batches:  21%|██        | 2967/14220 [00:44<01:37, 115.45it/s]Batches:  21%|██        | 2979/14220 [00:44<01:36, 116.09it/s]Batches:  21%|██        | 2991/14220 [00:45<01:36, 116.60it/s]Batches:  21%|██        | 3003/14220 [00:45<01:35, 117.29it/s]Batches:  21%|██        | 3015/14220 [00:45<01:36, 116.33it/s]Batches:  21%|██▏       | 3027/14220 [00:45<01:44, 107.58it/s]Batches:  21%|██▏       | 3038/14220 [00:45<01:46, 104.87it/s]Batches:  21%|██▏       | 3050/14220 [00:45<01:42, 108.62it/s]Batches:  22%|██▏       | 3061/14220 [00:45<01:45, 106.27it/s]Batches:  22%|██▏       | 3073/14220 [00:45<01:41, 109.74it/s]Batches:  22%|██▏       | 3085/14220 [00:45<01:38, 112.67it/s]Batches:  22%|██▏       | 3097/14220 [00:46<01:36, 114.69it/s]Batches:  22%|██▏       | 3109/14220 [00:46<01:35, 115.97it/s]Batches:  22%|██▏       | 3122/14220 [00:46<01:34, 117.49it/s]Batches:  22%|██▏       | 3135/14220 [00:46<01:33, 118.49it/s]Batches:  22%|██▏       | 3148/14220 [00:46<01:32, 119.48it/s]Batches:  22%|██▏       | 3161/14220 [00:46<01:31, 120.23it/s]Batches:  22%|██▏       | 3174/14220 [00:46<01:35, 115.96it/s]Batches:  22%|██▏       | 3186/14220 [00:46<01:41, 108.70it/s]Batches:  22%|██▏       | 3198/14220 [00:46<01:39, 111.26it/s]Batches:  23%|██▎       | 3211/14220 [00:47<01:36, 114.08it/s]Batches:  23%|██▎       | 3224/14220 [00:47<01:34, 116.63it/s]Batches:  23%|██▎       | 3237/14220 [00:47<01:32, 118.69it/s]Batches:  23%|██▎       | 3249/14220 [00:47<01:33, 117.70it/s]Batches:  23%|██▎       | 3262/14220 [00:47<01:32, 118.93it/s]Batches:  23%|██▎       | 3275/14220 [00:47<01:30, 120.40it/s]Batches:  23%|██▎       | 3288/14220 [00:47<01:30, 121.25it/s]Batches:  23%|██▎       | 3301/14220 [00:47<01:31, 119.23it/s]Batches:  23%|██▎       | 3314/14220 [00:47<01:30, 120.55it/s]Batches:  23%|██▎       | 3327/14220 [00:47<01:34, 115.82it/s]Batches:  23%|██▎       | 3339/14220 [00:48<01:33, 116.59it/s]Batches:  24%|██▎       | 3352/14220 [00:48<01:31, 118.86it/s]Batches:  24%|██▎       | 3365/14220 [00:48<01:29, 120.72it/s]Batches:  24%|██▍       | 3378/14220 [00:48<01:28, 121.83it/s]Batches:  24%|██▍       | 3391/14220 [00:48<01:28, 122.08it/s]Batches:  24%|██▍       | 3404/14220 [00:48<01:28, 122.00it/s]Batches:  24%|██▍       | 3417/14220 [00:48<01:28, 121.49it/s]Batches:  24%|██▍       | 3430/14220 [00:48<01:28, 121.50it/s]Batches:  24%|██▍       | 3443/14220 [00:48<01:27, 122.79it/s]Batches:  24%|██▍       | 3456/14220 [00:49<01:27, 123.60it/s]Batches:  24%|██▍       | 3469/14220 [00:49<01:26, 124.33it/s]Batches:  24%|██▍       | 3482/14220 [00:49<01:29, 120.57it/s]Batches:  25%|██▍       | 3495/14220 [00:49<01:33, 114.45it/s]Batches:  25%|██▍       | 3508/14220 [00:49<01:31, 117.28it/s]Batches:  25%|██▍       | 3521/14220 [00:49<01:29, 119.92it/s]Batches:  25%|██▍       | 3534/14220 [00:49<01:27, 122.21it/s]Batches:  25%|██▍       | 3547/14220 [00:49<01:27, 122.19it/s]Batches:  25%|██▌       | 3560/14220 [00:49<01:27, 122.18it/s]Batches:  25%|██▌       | 3573/14220 [00:50<01:25, 123.83it/s]Batches:  25%|██▌       | 3586/14220 [00:50<01:24, 125.18it/s]Batches:  25%|██▌       | 3599/14220 [00:50<01:24, 125.97it/s]Batches:  25%|██▌       | 3612/14220 [00:50<01:26, 123.13it/s]Batches:  25%|██▌       | 3625/14220 [00:50<01:25, 124.14it/s]Batches:  26%|██▌       | 3638/14220 [00:50<01:25, 123.83it/s]Batches:  26%|██▌       | 3651/14220 [00:50<01:28, 118.78it/s]Batches:  26%|██▌       | 3664/14220 [00:50<01:27, 121.09it/s]Batches:  26%|██▌       | 3677/14220 [00:50<01:30, 116.97it/s]Batches:  26%|██▌       | 3690/14220 [00:50<01:29, 118.22it/s]Batches:  26%|██▌       | 3703/14220 [00:51<01:26, 121.17it/s]Batches:  26%|██▌       | 3716/14220 [00:51<01:25, 123.52it/s]Batches:  26%|██▌       | 3729/14220 [00:51<01:23, 125.38it/s]Batches:  26%|██▋       | 3742/14220 [00:51<01:23, 125.50it/s]Batches:  26%|██▋       | 3755/14220 [00:51<01:22, 126.26it/s]Batches:  26%|██▋       | 3768/14220 [00:51<01:22, 127.04it/s]Batches:  27%|██▋       | 3781/14220 [00:51<01:21, 127.83it/s]Batches:  27%|██▋       | 3794/14220 [00:51<01:41, 102.97it/s]Batches:  27%|██▋       | 3806/14220 [00:52<01:44, 99.18it/s] Batches:  27%|██▋       | 3819/14220 [00:52<01:37, 106.62it/s]Batches:  27%|██▋       | 3833/14220 [00:52<01:31, 113.32it/s]Batches:  27%|██▋       | 3847/14220 [00:52<01:27, 118.09it/s]Batches:  27%|██▋       | 3860/14220 [00:52<01:25, 121.05it/s]Batches:  27%|██▋       | 3874/14220 [00:52<01:23, 123.96it/s]Batches:  27%|██▋       | 3888/14220 [00:52<01:22, 125.94it/s]Batches:  27%|██▋       | 3901/14220 [00:52<01:23, 123.98it/s]Batches:  28%|██▊       | 3915/14220 [00:52<01:21, 126.13it/s]Batches:  28%|██▊       | 3929/14220 [00:52<01:20, 127.70it/s]Batches:  28%|██▊       | 3943/14220 [00:53<01:19, 129.14it/s]Batches:  28%|██▊       | 3956/14220 [00:53<01:20, 128.11it/s]Batches:  28%|██▊       | 3969/14220 [00:53<01:20, 127.17it/s]Batches:  28%|██▊       | 3982/14220 [00:53<01:23, 122.10it/s]Batches:  28%|██▊       | 3996/14220 [00:53<01:21, 125.00it/s]Batches:  28%|██▊       | 4010/14220 [00:53<01:20, 127.04it/s]Batches:  28%|██▊       | 4023/14220 [00:53<01:19, 127.58it/s]Batches:  28%|██▊       | 4037/14220 [00:53<01:18, 129.06it/s]Batches:  28%|██▊       | 4050/14220 [00:53<01:19, 128.40it/s]Batches:  29%|██▊       | 4063/14220 [00:54<01:19, 127.46it/s]Batches:  29%|██▊       | 4076/14220 [00:54<01:19, 127.05it/s]Batches:  29%|██▉       | 4090/14220 [00:54<01:18, 128.84it/s]Batches:  29%|██▉       | 4104/14220 [00:54<01:17, 130.16it/s]Batches:  29%|██▉       | 4118/14220 [00:54<01:17, 129.99it/s]Batches:  29%|██▉       | 4131/14220 [00:54<01:20, 125.39it/s]Batches:  29%|██▉       | 4144/14220 [00:54<01:23, 120.32it/s]Batches:  29%|██▉       | 4157/14220 [00:54<01:21, 122.80it/s]Batches:  29%|██▉       | 4171/14220 [00:54<01:19, 126.19it/s]Batches:  29%|██▉       | 4185/14220 [00:54<01:18, 128.37it/s]Batches:  30%|██▉       | 4199/14220 [00:55<01:17, 130.02it/s]Batches:  30%|██▉       | 4213/14220 [00:55<01:16, 131.27it/s]Batches:  30%|██▉       | 4227/14220 [00:55<01:15, 132.37it/s]Batches:  30%|██▉       | 4241/14220 [00:55<01:15, 132.01it/s]Batches:  30%|██▉       | 4255/14220 [00:55<01:15, 131.82it/s]Batches:  30%|███       | 4269/14220 [00:55<01:16, 130.79it/s]Batches:  30%|███       | 4283/14220 [00:55<01:15, 132.05it/s]Batches:  30%|███       | 4297/14220 [00:55<01:18, 127.05it/s]Batches:  30%|███       | 4310/14220 [00:55<01:23, 119.17it/s]Batches:  30%|███       | 4324/14220 [00:56<01:20, 123.52it/s]Batches:  30%|███       | 4337/14220 [00:56<01:20, 123.18it/s]Batches:  31%|███       | 4351/14220 [00:56<01:18, 126.06it/s]Batches:  31%|███       | 4364/14220 [00:56<01:18, 125.17it/s]Batches:  31%|███       | 4378/14220 [00:56<01:16, 128.21it/s]Batches:  31%|███       | 4392/14220 [00:56<01:14, 131.04it/s]Batches:  31%|███       | 4406/14220 [00:56<01:13, 133.27it/s]Batches:  31%|███       | 4420/14220 [00:56<01:12, 134.87it/s]Batches:  31%|███       | 4434/14220 [00:56<01:13, 133.81it/s]Batches:  31%|███▏      | 4448/14220 [00:57<01:15, 129.22it/s]Batches:  31%|███▏      | 4462/14220 [00:57<01:15, 130.06it/s]Batches:  31%|███▏      | 4476/14220 [00:57<01:17, 126.02it/s]Batches:  32%|███▏      | 4491/14220 [00:57<01:14, 130.13it/s]Batches:  32%|███▏      | 4505/14220 [00:57<01:14, 130.59it/s]Batches:  32%|███▏      | 4519/14220 [00:57<01:13, 131.56it/s]Batches:  32%|███▏      | 4533/14220 [00:57<01:12, 133.82it/s]Batches:  32%|███▏      | 4548/14220 [00:57<01:11, 135.84it/s]Batches:  32%|███▏      | 4563/14220 [00:57<01:10, 137.29it/s]Batches:  32%|███▏      | 4577/14220 [00:57<01:11, 134.08it/s]Batches:  32%|███▏      | 4591/14220 [00:58<01:12, 133.67it/s]Batches:  32%|███▏      | 4605/14220 [00:58<01:10, 135.44it/s]Batches:  32%|███▏      | 4620/14220 [00:58<01:10, 137.13it/s]Batches:  33%|███▎      | 4635/14220 [00:58<01:09, 138.52it/s]Batches:  33%|███▎      | 4649/14220 [00:58<01:13, 130.67it/s]Batches:  33%|███▎      | 4663/14220 [00:58<01:16, 125.57it/s]Batches:  33%|███▎      | 4677/14220 [00:58<01:13, 128.99it/s]Batches:  33%|███▎      | 4691/14220 [00:58<01:12, 131.16it/s]Batches:  33%|███▎      | 4705/14220 [00:58<01:12, 131.17it/s]Batches:  33%|███▎      | 4719/14220 [00:59<01:12, 131.50it/s]Batches:  33%|███▎      | 4733/14220 [00:59<01:11, 132.99it/s]Batches:  33%|███▎      | 4748/14220 [00:59<01:09, 135.73it/s]Batches:  33%|███▎      | 4763/14220 [00:59<01:08, 137.55it/s]Batches:  34%|███▎      | 4778/14220 [00:59<01:08, 138.32it/s]Batches:  34%|███▎      | 4792/14220 [00:59<01:08, 137.18it/s]Batches:  34%|███▍      | 4807/14220 [00:59<01:07, 138.89it/s]Batches:  34%|███▍      | 4821/14220 [00:59<01:11, 131.54it/s]Batches:  34%|███▍      | 4835/14220 [00:59<01:10, 133.33it/s]Batches:  34%|███▍      | 4849/14220 [01:00<01:09, 134.59it/s]Batches:  34%|███▍      | 4864/14220 [01:00<01:08, 136.72it/s]Batches:  34%|███▍      | 4878/14220 [01:00<01:08, 136.42it/s]Batches:  34%|███▍      | 4892/14220 [01:00<01:07, 137.44it/s]Batches:  35%|███▍      | 4906/14220 [01:00<01:07, 138.00it/s]Batches:  35%|███▍      | 4921/14220 [01:00<01:06, 139.18it/s]Batches:  35%|███▍      | 4935/14220 [01:00<01:08, 136.50it/s]Batches:  35%|███▍      | 4949/14220 [01:00<01:07, 137.33it/s]Batches:  35%|███▍      | 4963/14220 [01:00<01:07, 138.03it/s]Batches:  35%|███▌      | 4978/14220 [01:00<01:06, 138.60it/s]Batches:  35%|███▌      | 4992/14220 [01:01<01:07, 136.94it/s]Batches:  35%|███▌      | 5006/14220 [01:01<01:10, 130.96it/s]Batches:  35%|███▌      | 5021/14220 [01:01<01:08, 134.12it/s]Batches:  35%|███▌      | 5036/14220 [01:01<01:07, 136.17it/s]Batches:  36%|███▌      | 5050/14220 [01:01<01:06, 137.17it/s]Batches:  36%|███▌      | 5065/14220 [01:01<01:05, 138.95it/s]Batches:  36%|███▌      | 5080/14220 [01:01<01:05, 140.55it/s]Batches:  36%|███▌      | 5095/14220 [01:01<01:04, 141.89it/s]Batches:  36%|███▌      | 5110/14220 [01:01<01:04, 141.04it/s]Batches:  36%|███▌      | 5125/14220 [01:01<01:04, 140.90it/s]Batches:  36%|███▌      | 5140/14220 [01:02<01:04, 139.94it/s]Batches:  36%|███▋      | 5155/14220 [01:02<01:04, 141.26it/s]Batches:  36%|███▋      | 5170/14220 [01:02<01:03, 141.74it/s]Batches:  36%|███▋      | 5185/14220 [01:02<01:04, 140.98it/s]Batches:  37%|███▋      | 5200/14220 [01:02<01:03, 142.10it/s]Batches:  37%|███▋      | 5215/14220 [01:02<01:03, 141.75it/s]Batches:  37%|███▋      | 5230/14220 [01:02<01:03, 141.38it/s]Batches:  37%|███▋      | 5245/14220 [01:02<01:03, 141.21it/s]Batches:  37%|███▋      | 5260/14220 [01:02<01:02, 142.29it/s]Batches:  37%|███▋      | 5275/14220 [01:03<01:02, 143.15it/s]Batches:  37%|███▋      | 5290/14220 [01:03<01:03, 140.65it/s]Batches:  37%|███▋      | 5305/14220 [01:03<01:03, 139.98it/s]Batches:  37%|███▋      | 5320/14220 [01:03<01:03, 140.37it/s]Batches:  38%|███▊      | 5335/14220 [01:03<01:03, 140.08it/s]Batches:  38%|███▊      | 5350/14220 [01:03<01:02, 141.89it/s]Batches:  38%|███▊      | 5365/14220 [01:03<01:06, 134.15it/s]Batches:  38%|███▊      | 5379/14220 [01:03<01:07, 130.48it/s]Batches:  38%|███▊      | 5394/14220 [01:03<01:06, 133.67it/s]Batches:  38%|███▊      | 5408/14220 [01:04<01:05, 133.99it/s]Batches:  38%|███▊      | 5423/14220 [01:04<01:04, 136.17it/s]Batches:  38%|███▊      | 5438/14220 [01:04<01:02, 139.58it/s]Batches:  38%|███▊      | 5453/14220 [01:04<01:01, 141.67it/s]Batches:  38%|███▊      | 5468/14220 [01:04<01:01, 143.34it/s]Batches:  39%|███▊      | 5483/14220 [01:04<01:01, 142.23it/s]Batches:  39%|███▊      | 5498/14220 [01:04<01:01, 142.17it/s]Batches:  39%|███▉      | 5513/14220 [01:04<01:01, 142.47it/s]Batches:  39%|███▉      | 5528/14220 [01:04<01:00, 143.43it/s]Batches:  39%|███▉      | 5543/14220 [01:04<01:03, 136.70it/s]Batches:  39%|███▉      | 5557/14220 [01:05<01:03, 137.27it/s]Batches:  39%|███▉      | 5572/14220 [01:05<01:02, 138.86it/s]Batches:  39%|███▉      | 5587/14220 [01:05<01:01, 140.06it/s]Batches:  39%|███▉      | 5602/14220 [01:05<01:00, 141.39it/s]Batches:  40%|███▉      | 5617/14220 [01:05<01:00, 142.95it/s]Batches:  40%|███▉      | 5632/14220 [01:05<00:59, 144.43it/s]Batches:  40%|███▉      | 5647/14220 [01:05<00:58, 145.55it/s]Batches:  40%|███▉      | 5662/14220 [01:05<00:59, 143.93it/s]Batches:  40%|███▉      | 5677/14220 [01:05<00:59, 143.85it/s]Batches:  40%|████      | 5692/14220 [01:06<00:58, 145.03it/s]Batches:  40%|████      | 5707/14220 [01:06<00:58, 145.74it/s]Batches:  40%|████      | 5722/14220 [01:06<00:59, 143.62it/s]Batches:  40%|████      | 5737/14220 [01:06<01:01, 138.52it/s]Batches:  40%|████      | 5753/14220 [01:06<00:59, 141.97it/s]Batches:  41%|████      | 5768/14220 [01:06<00:58, 143.60it/s]Batches:  41%|████      | 5783/14220 [01:06<00:58, 144.36it/s]Batches:  41%|████      | 5798/14220 [01:06<00:57, 145.94it/s]Batches:  41%|████      | 5813/14220 [01:06<00:57, 147.00it/s]Batches:  41%|████      | 5829/14220 [01:06<00:56, 148.65it/s]Batches:  41%|████      | 5844/14220 [01:07<00:56, 148.06it/s]Batches:  41%|████      | 5859/14220 [01:07<00:56, 147.70it/s]Batches:  41%|████▏     | 5874/14220 [01:07<00:57, 144.43it/s]Batches:  41%|████▏     | 5889/14220 [01:07<00:57, 143.67it/s]Batches:  42%|████▏     | 5904/14220 [01:07<00:57, 144.87it/s]Batches:  42%|████▏     | 5919/14220 [01:07<01:01, 135.44it/s]Batches:  42%|████▏     | 5934/14220 [01:07<00:59, 138.62it/s]Batches:  42%|████▏     | 5950/14220 [01:07<00:58, 141.99it/s]Batches:  42%|████▏     | 5965/14220 [01:07<00:57, 143.07it/s]Batches:  42%|████▏     | 5980/14220 [01:08<00:57, 144.30it/s]Batches:  42%|████▏     | 5995/14220 [01:08<00:57, 143.35it/s]Batches:  42%|████▏     | 6010/14220 [01:08<00:56, 144.84it/s]Batches:  42%|████▏     | 6025/14220 [01:08<00:56, 144.81it/s]Batches:  42%|████▏     | 6040/14220 [01:08<00:55, 146.19it/s]Batches:  43%|████▎     | 6056/14220 [01:08<00:55, 148.22it/s]Batches:  43%|████▎     | 6071/14220 [01:08<00:55, 147.38it/s]Batches:  43%|████▎     | 6086/14220 [01:08<00:55, 147.75it/s]Batches:  43%|████▎     | 6101/14220 [01:08<00:55, 147.19it/s]Batches:  43%|████▎     | 6116/14220 [01:08<00:57, 141.82it/s]Batches:  43%|████▎     | 6132/14220 [01:09<00:55, 145.23it/s]Batches:  43%|████▎     | 6147/14220 [01:09<00:55, 146.50it/s]Batches:  43%|████▎     | 6162/14220 [01:09<00:55, 146.32it/s]Batches:  43%|████▎     | 6178/14220 [01:09<00:54, 147.78it/s]Batches:  44%|████▎     | 6193/14220 [01:09<00:55, 145.66it/s]Batches:  44%|████▎     | 6208/14220 [01:09<00:54, 146.16it/s]Batches:  44%|████▍     | 6223/14220 [01:09<00:54, 145.54it/s]Batches:  44%|████▍     | 6238/14220 [01:09<00:54, 146.12it/s]Batches:  44%|████▍     | 6254/14220 [01:09<00:54, 147.47it/s]Batches:  44%|████▍     | 6270/14220 [01:10<00:53, 149.08it/s]Batches:  44%|████▍     | 6285/14220 [01:10<00:53, 149.02it/s]Batches:  44%|████▍     | 6300/14220 [01:10<00:55, 141.48it/s]Batches:  44%|████▍     | 6315/14220 [01:10<00:57, 137.10it/s]Batches:  45%|████▍     | 6330/14220 [01:10<00:56, 139.98it/s]Batches:  45%|████▍     | 6346/14220 [01:10<00:54, 143.85it/s]Batches:  45%|████▍     | 6361/14220 [01:10<00:54, 144.99it/s]Batches:  45%|████▍     | 6376/14220 [01:10<00:53, 145.74it/s]Batches:  45%|████▍     | 6391/14220 [01:10<00:53, 145.88it/s]Batches:  45%|████▌     | 6406/14220 [01:10<00:53, 146.45it/s]Batches:  45%|████▌     | 6422/14220 [01:11<00:52, 148.56it/s]Batches:  45%|████▌     | 6437/14220 [01:11<00:53, 145.88it/s]Batches:  45%|████▌     | 6452/14220 [01:11<00:53, 145.37it/s]Batches:  45%|████▌     | 6467/14220 [01:11<00:53, 145.61it/s]Batches:  46%|████▌     | 6482/14220 [01:11<00:55, 138.81it/s]Batches:  46%|████▌     | 6497/14220 [01:11<00:54, 141.33it/s]Batches:  46%|████▌     | 6513/14220 [01:11<00:53, 143.93it/s]Batches:  46%|████▌     | 6528/14220 [01:11<00:53, 144.99it/s]Batches:  46%|████▌     | 6544/14220 [01:11<00:52, 147.08it/s]Batches:  46%|████▌     | 6560/14220 [01:12<00:51, 148.65it/s]Batches:  46%|████▌     | 6575/14220 [01:12<00:51, 148.79it/s]Batches:  46%|████▋     | 6591/14220 [01:12<00:50, 150.06it/s]Batches:  46%|████▋     | 6607/14220 [01:12<00:50, 151.10it/s]Batches:  47%|████▋     | 6623/14220 [01:12<00:49, 153.05it/s]Batches:  47%|████▋     | 6639/14220 [01:12<00:49, 152.50it/s]Batches:  47%|████▋     | 6655/14220 [01:12<00:49, 151.79it/s]Batches:  47%|████▋     | 6671/14220 [01:12<00:50, 148.76it/s]Batches:  47%|████▋     | 6686/14220 [01:12<00:52, 142.34it/s]Batches:  47%|████▋     | 6702/14220 [01:12<00:51, 144.89it/s]Batches:  47%|████▋     | 6718/14220 [01:13<00:50, 147.42it/s]Batches:  47%|████▋     | 6734/14220 [01:13<00:49, 150.15it/s]Batches:  47%|████▋     | 6750/14220 [01:13<00:48, 152.60it/s]Batches:  48%|████▊     | 6766/14220 [01:13<00:49, 151.17it/s]Batches:  48%|████▊     | 6782/14220 [01:13<00:49, 151.29it/s]Batches:  48%|████▊     | 6798/14220 [01:13<00:48, 152.14it/s]Batches:  48%|████▊     | 6814/14220 [01:13<00:48, 153.25it/s]Batches:  48%|████▊     | 6830/14220 [01:13<00:47, 154.70it/s]Batches:  48%|████▊     | 6846/14220 [01:13<00:47, 154.49it/s]Batches:  48%|████▊     | 6862/14220 [01:14<00:50, 144.29it/s]Batches:  48%|████▊     | 6878/14220 [01:14<00:50, 146.74it/s]Batches:  48%|████▊     | 6894/14220 [01:14<00:49, 148.91it/s]Batches:  49%|████▊     | 6909/14220 [01:14<00:49, 148.67it/s]Batches:  49%|████▊     | 6925/14220 [01:14<00:48, 150.82it/s]Batches:  49%|████▉     | 6941/14220 [01:14<00:47, 152.89it/s]Batches:  49%|████▉     | 6957/14220 [01:14<00:47, 151.80it/s]Batches:  49%|████▉     | 6973/14220 [01:14<00:47, 151.09it/s]Batches:  49%|████▉     | 6989/14220 [01:14<00:47, 151.32it/s]Batches:  49%|████▉     | 7005/14220 [01:14<00:47, 153.33it/s]Batches:  49%|████▉     | 7021/14220 [01:15<00:46, 154.49it/s]Batches:  49%|████▉     | 7037/14220 [01:15<00:46, 154.83it/s]Batches:  50%|████▉     | 7053/14220 [01:15<00:49, 144.69it/s]Batches:  50%|████▉     | 7068/14220 [01:15<00:49, 145.55it/s]Batches:  50%|████▉     | 7084/14220 [01:15<00:47, 149.03it/s]Batches:  50%|████▉     | 7099/14220 [01:15<00:48, 148.24it/s]Batches:  50%|█████     | 7114/14220 [01:15<00:47, 148.64it/s]Batches:  50%|█████     | 7130/14220 [01:15<00:46, 151.39it/s]Batches:  50%|█████     | 7146/14220 [01:15<00:46, 153.56it/s]Batches:  50%|█████     | 7163/14220 [01:16<00:45, 155.43it/s]Batches:  50%|█████     | 7179/14220 [01:16<00:45, 154.17it/s]Batches:  51%|█████     | 7195/14220 [01:16<00:45, 154.89it/s]Batches:  51%|█████     | 7211/14220 [01:16<00:45, 155.45it/s]Batches:  51%|█████     | 7227/14220 [01:16<00:45, 154.15it/s]Batches:  51%|█████     | 7243/14220 [01:16<00:45, 152.67it/s]Batches:  51%|█████     | 7259/14220 [01:16<00:47, 145.32it/s]Batches:  51%|█████     | 7275/14220 [01:16<00:46, 148.86it/s]Batches:  51%|█████▏    | 7291/14220 [01:16<00:46, 149.70it/s]Batches:  51%|█████▏    | 7307/14220 [01:16<00:45, 151.87it/s]Batches:  51%|█████▏    | 7323/14220 [01:17<00:44, 153.76it/s]Batches:  52%|█████▏    | 7340/14220 [01:17<00:44, 156.17it/s]Batches:  52%|█████▏    | 7356/14220 [01:17<00:45, 152.22it/s]Batches:  52%|█████▏    | 7372/14220 [01:17<00:45, 151.34it/s]Batches:  52%|█████▏    | 7388/14220 [01:17<00:44, 152.51it/s]Batches:  52%|█████▏    | 7405/14220 [01:17<00:43, 154.99it/s]Batches:  52%|█████▏    | 7422/14220 [01:17<00:43, 156.81it/s]Batches:  52%|█████▏    | 7438/14220 [01:17<00:44, 153.80it/s]Batches:  52%|█████▏    | 7454/14220 [01:17<00:45, 147.48it/s]Batches:  53%|█████▎    | 7470/14220 [01:18<00:44, 150.52it/s]Batches:  53%|█████▎    | 7487/14220 [01:18<00:43, 153.90it/s]Batches:  53%|█████▎    | 7503/14220 [01:18<00:43, 154.96it/s]Batches:  53%|█████▎    | 7519/14220 [01:18<00:42, 156.21it/s]Batches:  53%|█████▎    | 7535/14220 [01:18<00:42, 156.66it/s]Batches:  53%|█████▎    | 7551/14220 [01:18<00:43, 154.97it/s]Batches:  53%|█████▎    | 7567/14220 [01:18<00:43, 154.03it/s]Batches:  53%|█████▎    | 7583/14220 [01:18<00:43, 153.27it/s]Batches:  53%|█████▎    | 7600/14220 [01:18<00:42, 156.06it/s]Batches:  54%|█████▎    | 7617/14220 [01:18<00:41, 158.50it/s]Batches:  54%|█████▎    | 7634/14220 [01:19<00:41, 159.30it/s]Batches:  54%|█████▍    | 7650/14220 [01:19<00:43, 152.70it/s]Batches:  54%|█████▍    | 7666/14220 [01:19<00:43, 152.20it/s]Batches:  54%|█████▍    | 7683/14220 [01:19<00:42, 155.62it/s]Batches:  54%|█████▍    | 7700/14220 [01:19<00:41, 157.17it/s]Batches:  54%|█████▍    | 7717/14220 [01:19<00:40, 159.36it/s]Batches:  54%|█████▍    | 7734/14220 [01:19<00:40, 160.47it/s]Batches:  55%|█████▍    | 7751/14220 [01:19<00:39, 162.13it/s]Batches:  55%|█████▍    | 7768/14220 [01:19<00:39, 162.93it/s]Batches:  55%|█████▍    | 7785/14220 [01:20<00:39, 161.92it/s]Batches:  55%|█████▍    | 7802/14220 [01:20<00:39, 162.66it/s]Batches:  55%|█████▍    | 7819/14220 [01:20<00:39, 163.96it/s]Batches:  55%|█████▌    | 7836/14220 [01:20<00:38, 164.82it/s]Batches:  55%|█████▌    | 7853/14220 [01:20<00:39, 160.97it/s]Batches:  55%|█████▌    | 7870/14220 [01:20<00:41, 154.61it/s]Batches:  55%|█████▌    | 7886/14220 [01:20<00:42, 150.16it/s]Batches:  56%|█████▌    | 7903/14220 [01:20<00:41, 153.96it/s]Batches:  56%|█████▌    | 7919/14220 [01:20<00:41, 153.42it/s]Batches:  56%|█████▌    | 7936/14220 [01:20<00:40, 156.85it/s]Batches:  56%|█████▌    | 7953/14220 [01:21<00:39, 158.77it/s]Batches:  56%|█████▌    | 7969/14220 [01:21<00:39, 157.01it/s]Batches:  56%|█████▌    | 7985/14220 [01:21<00:39, 157.12it/s]Batches:  56%|█████▋    | 8002/14220 [01:21<00:38, 159.63it/s]Batches:  56%|█████▋    | 8019/14220 [01:21<00:38, 161.67it/s]Batches:  57%|█████▋    | 8036/14220 [01:21<00:37, 163.24it/s]Batches:  57%|█████▋    | 8053/14220 [01:21<00:38, 161.88it/s]Batches:  57%|█████▋    | 8070/14220 [01:21<00:40, 153.00it/s]Batches:  57%|█████▋    | 8086/14220 [01:21<00:41, 149.45it/s]Batches:  57%|█████▋    | 8103/14220 [01:22<00:39, 154.95it/s]Batches:  57%|█████▋    | 8119/14220 [01:22<00:39, 156.04it/s]Batches:  57%|█████▋    | 8136/14220 [01:22<00:38, 158.99it/s]Batches:  57%|█████▋    | 8153/14220 [01:22<00:37, 162.14it/s]Batches:  57%|█████▋    | 8170/14220 [01:22<00:36, 163.99it/s]Batches:  58%|█████▊    | 8187/14220 [01:22<00:37, 162.92it/s]Batches:  58%|█████▊    | 8204/14220 [01:22<00:36, 164.22it/s]Batches:  58%|█████▊    | 8221/14220 [01:22<00:36, 164.94it/s]Batches:  58%|█████▊    | 8238/14220 [01:22<00:35, 166.24it/s]Batches:  58%|█████▊    | 8255/14220 [01:22<00:35, 166.14it/s]Batches:  58%|█████▊    | 8272/14220 [01:23<00:37, 160.70it/s]Batches:  58%|█████▊    | 8289/14220 [01:23<00:39, 148.31it/s]Batches:  58%|█████▊    | 8306/14220 [01:23<00:38, 153.90it/s]Batches:  59%|█████▊    | 8323/14220 [01:23<00:37, 157.50it/s]Batches:  59%|█████▊    | 8341/14220 [01:23<00:36, 161.59it/s]Batches:  59%|█████▉    | 8359/14220 [01:23<00:35, 164.21it/s]Batches:  59%|█████▉    | 8376/14220 [01:23<00:35, 165.36it/s]Batches:  59%|█████▉    | 8393/14220 [01:23<00:35, 163.53it/s]Batches:  59%|█████▉    | 8410/14220 [01:23<00:35, 165.20it/s]Batches:  59%|█████▉    | 8428/14220 [01:24<00:34, 167.21it/s]Batches:  59%|█████▉    | 8445/14220 [01:24<00:34, 167.82it/s]Batches:  60%|█████▉    | 8462/14220 [01:24<00:34, 167.67it/s]Batches:  60%|█████▉    | 8479/14220 [01:24<00:34, 165.37it/s]Batches:  60%|█████▉    | 8496/14220 [01:24<00:36, 157.68it/s]Batches:  60%|█████▉    | 8512/14220 [01:24<00:37, 152.18it/s]Batches:  60%|█████▉    | 8528/14220 [01:24<00:37, 153.72it/s]Batches:  60%|██████    | 8545/14220 [01:24<00:35, 157.96it/s]Batches:  60%|██████    | 8562/14220 [01:24<00:35, 161.32it/s]Batches:  60%|██████    | 8579/14220 [01:24<00:34, 163.83it/s]Batches:  60%|██████    | 8596/14220 [01:25<00:34, 164.97it/s]Batches:  61%|██████    | 8613/14220 [01:25<00:33, 165.95it/s]Batches:  61%|██████    | 8631/14220 [01:25<00:33, 167.13it/s]Batches:  61%|██████    | 8648/14220 [01:25<00:33, 167.14it/s]Batches:  61%|██████    | 8665/14220 [01:25<00:33, 166.41it/s]Batches:  61%|██████    | 8682/14220 [01:25<00:33, 165.75it/s]Batches:  61%|██████    | 8699/14220 [01:25<00:35, 157.39it/s]Batches:  61%|██████▏   | 8715/14220 [01:25<00:35, 153.51it/s]Batches:  61%|██████▏   | 8731/14220 [01:25<00:35, 154.41it/s]Batches:  62%|██████▏   | 8748/14220 [01:26<00:34, 157.15it/s]Batches:  62%|██████▏   | 8764/14220 [01:26<00:35, 153.29it/s]Batches:  62%|██████▏   | 8782/14220 [01:26<00:34, 159.67it/s]Batches:  62%|██████▏   | 8799/14220 [01:26<00:33, 161.51it/s]Batches:  62%|██████▏   | 8817/14220 [01:26<00:32, 164.60it/s]Batches:  62%|██████▏   | 8834/14220 [01:26<00:32, 165.98it/s]Batches:  62%|██████▏   | 8852/14220 [01:26<00:31, 167.75it/s]Batches:  62%|██████▏   | 8870/14220 [01:26<00:31, 168.96it/s]Batches:  62%|██████▏   | 8887/14220 [01:26<00:31, 167.93it/s]Batches:  63%|██████▎   | 8904/14220 [01:26<00:32, 163.42it/s]Batches:  63%|██████▎   | 8921/14220 [01:27<00:32, 161.65it/s]Batches:  63%|██████▎   | 8938/14220 [01:27<00:32, 163.70it/s]Batches:  63%|██████▎   | 8956/14220 [01:27<00:31, 166.57it/s]Batches:  63%|██████▎   | 8973/14220 [01:27<00:31, 164.13it/s]Batches:  63%|██████▎   | 8991/14220 [01:27<00:31, 167.47it/s]Batches:  63%|██████▎   | 9009/14220 [01:27<00:31, 168.09it/s]Batches:  63%|██████▎   | 9026/14220 [01:27<00:31, 167.12it/s]Batches:  64%|██████▎   | 9044/14220 [01:27<00:30, 168.72it/s]Batches:  64%|██████▎   | 9062/14220 [01:27<00:30, 170.79it/s]Batches:  64%|██████▍   | 9080/14220 [01:28<00:30, 169.21it/s]Batches:  64%|██████▍   | 9098/14220 [01:28<00:30, 170.32it/s]Batches:  64%|██████▍   | 9116/14220 [01:28<00:30, 169.54it/s]Batches:  64%|██████▍   | 9133/14220 [01:28<00:31, 162.65it/s]Batches:  64%|██████▍   | 9150/14220 [01:28<00:31, 162.79it/s]Batches:  64%|██████▍   | 9167/14220 [01:28<00:32, 157.72it/s]Batches:  65%|██████▍   | 9185/14220 [01:28<00:30, 163.10it/s]Batches:  65%|██████▍   | 9203/14220 [01:28<00:29, 167.30it/s]Batches:  65%|██████▍   | 9221/14220 [01:28<00:29, 168.18it/s]Batches:  65%|██████▍   | 9239/14220 [01:28<00:29, 170.34it/s]Batches:  65%|██████▌   | 9257/14220 [01:29<00:28, 171.85it/s]Batches:  65%|██████▌   | 9275/14220 [01:29<00:28, 171.26it/s]Batches:  65%|██████▌   | 9293/14220 [01:29<00:28, 170.48it/s]Batches:  65%|██████▌   | 9311/14220 [01:29<00:28, 171.65it/s]Batches:  66%|██████▌   | 9329/14220 [01:29<00:28, 173.87it/s]Batches:  66%|██████▌   | 9347/14220 [01:29<00:29, 165.72it/s]Batches:  66%|██████▌   | 9364/14220 [01:29<00:31, 156.51it/s]Batches:  66%|██████▌   | 9381/14220 [01:29<00:30, 159.57it/s]Batches:  66%|██████▌   | 9399/14220 [01:29<00:29, 163.63it/s]Batches:  66%|██████▌   | 9417/14220 [01:30<00:29, 165.57it/s]Batches:  66%|██████▋   | 9434/14220 [01:30<00:28, 166.05it/s]Batches:  66%|██████▋   | 9452/14220 [01:30<00:28, 167.59it/s]Batches:  67%|██████▋   | 9469/14220 [01:30<00:28, 168.08it/s]Batches:  67%|██████▋   | 9487/14220 [01:30<00:27, 169.89it/s]Batches:  67%|██████▋   | 9505/14220 [01:30<00:27, 171.99it/s]Batches:  67%|██████▋   | 9523/14220 [01:30<00:26, 174.17it/s]Batches:  67%|██████▋   | 9541/14220 [01:30<00:27, 172.43it/s]Batches:  67%|██████▋   | 9559/14220 [01:30<00:26, 173.20it/s]Batches:  67%|██████▋   | 9577/14220 [01:31<00:28, 163.86it/s]Batches:  67%|██████▋   | 9595/14220 [01:31<00:27, 167.00it/s]Batches:  68%|██████▊   | 9613/14220 [01:31<00:27, 168.28it/s]Batches:  68%|██████▊   | 9631/14220 [01:31<00:26, 170.70it/s]Batches:  68%|██████▊   | 9649/14220 [01:31<00:26, 172.61it/s]Batches:  68%|██████▊   | 9667/14220 [01:31<00:26, 171.63it/s]Batches:  68%|██████▊   | 9685/14220 [01:31<00:26, 172.98it/s]Batches:  68%|██████▊   | 9703/14220 [01:31<00:26, 171.48it/s]Batches:  68%|██████▊   | 9721/14220 [01:31<00:26, 170.21it/s]Batches:  68%|██████▊   | 9739/14220 [01:31<00:26, 171.61it/s]Batches:  69%|██████▊   | 9758/14220 [01:32<00:25, 174.59it/s]Batches:  69%|██████▊   | 9776/14220 [01:32<00:25, 173.80it/s]Batches:  69%|██████▉   | 9794/14220 [01:32<00:27, 158.82it/s]Batches:  69%|██████▉   | 9811/14220 [01:32<00:27, 159.83it/s]Batches:  69%|██████▉   | 9829/14220 [01:32<00:26, 162.91it/s]Batches:  69%|██████▉   | 9847/14220 [01:32<00:26, 166.20it/s]Batches:  69%|██████▉   | 9865/14220 [01:32<00:25, 168.84it/s]Batches:  70%|██████▉   | 9883/14220 [01:32<00:25, 171.53it/s]Batches:  70%|██████▉   | 9902/14220 [01:32<00:24, 174.61it/s]Batches:  70%|██████▉   | 9920/14220 [01:33<00:24, 174.57it/s]Batches:  70%|██████▉   | 9938/14220 [01:33<00:24, 175.63it/s]Batches:  70%|███████   | 9957/14220 [01:33<00:23, 178.55it/s]Batches:  70%|███████   | 9975/14220 [01:33<00:24, 176.84it/s]Batches:  70%|███████   | 9993/14220 [01:33<00:24, 175.17it/s]Batches:  70%|███████   | 10011/14220 [01:33<00:25, 165.36it/s]Batches:  71%|███████   | 10028/14220 [01:33<00:26, 158.24it/s]Batches:  71%|███████   | 10046/14220 [01:33<00:25, 163.61it/s]Batches:  71%|███████   | 10064/14220 [01:33<00:24, 167.07it/s]Batches:  71%|███████   | 10083/14220 [01:33<00:24, 171.38it/s]Batches:  71%|███████   | 10101/14220 [01:34<00:23, 171.96it/s]Batches:  71%|███████   | 10119/14220 [01:34<00:23, 174.19it/s]Batches:  71%|███████▏  | 10137/14220 [01:34<00:23, 173.52it/s]Batches:  71%|███████▏  | 10156/14220 [01:34<00:23, 175.67it/s]Batches:  72%|███████▏  | 10174/14220 [01:34<00:22, 176.14it/s]Batches:  72%|███████▏  | 10193/14220 [01:34<00:22, 177.94it/s]Batches:  72%|███████▏  | 10211/14220 [01:34<00:22, 178.15it/s]Batches:  72%|███████▏  | 10229/14220 [01:34<00:23, 168.01it/s]Batches:  72%|███████▏  | 10247/14220 [01:34<00:23, 169.74it/s]Batches:  72%|███████▏  | 10266/14220 [01:35<00:22, 173.28it/s]Batches:  72%|███████▏  | 10284/14220 [01:35<00:22, 175.01it/s]Batches:  72%|███████▏  | 10303/14220 [01:35<00:22, 177.59it/s]Batches:  73%|███████▎  | 10321/14220 [01:35<00:22, 175.46it/s]Batches:  73%|███████▎  | 10339/14220 [01:35<00:21, 176.69it/s]Batches:  73%|███████▎  | 10358/14220 [01:35<00:21, 177.86it/s]Batches:  73%|███████▎  | 10376/14220 [01:35<00:21, 178.15it/s]Batches:  73%|███████▎  | 10395/14220 [01:35<00:21, 180.38it/s]Batches:  73%|███████▎  | 10414/14220 [01:35<00:21, 180.42it/s]Batches:  73%|███████▎  | 10433/14220 [01:35<00:20, 182.75it/s]Batches:  74%|███████▎  | 10452/14220 [01:36<00:20, 179.78it/s]Batches:  74%|███████▎  | 10470/14220 [01:36<00:21, 172.54it/s]Batches:  74%|███████▍  | 10489/14220 [01:36<00:21, 175.76it/s]Batches:  74%|███████▍  | 10507/14220 [01:36<00:21, 175.69it/s]Batches:  74%|███████▍  | 10525/14220 [01:36<00:20, 176.21it/s]Batches:  74%|███████▍  | 10543/14220 [01:36<00:20, 176.64it/s]Batches:  74%|███████▍  | 10562/14220 [01:36<00:20, 179.74it/s]Batches:  74%|███████▍  | 10581/14220 [01:36<00:20, 180.63it/s]Batches:  75%|███████▍  | 10600/14220 [01:36<00:19, 181.61it/s]Batches:  75%|███████▍  | 10619/14220 [01:37<00:19, 182.14it/s]Batches:  75%|███████▍  | 10638/14220 [01:37<00:19, 183.96it/s]Batches:  75%|███████▍  | 10657/14220 [01:37<00:19, 184.57it/s]Batches:  75%|███████▌  | 10676/14220 [01:37<00:19, 183.26it/s]Batches:  75%|███████▌  | 10695/14220 [01:37<00:20, 170.77it/s]Batches:  75%|███████▌  | 10714/14220 [01:37<00:20, 174.68it/s]Batches:  75%|███████▌  | 10733/14220 [01:37<00:19, 177.44it/s]Batches:  76%|███████▌  | 10752/14220 [01:37<00:19, 179.71it/s]Batches:  76%|███████▌  | 10771/14220 [01:37<00:19, 180.25it/s]Batches:  76%|███████▌  | 10791/14220 [01:37<00:18, 183.36it/s]Batches:  76%|███████▌  | 10810/14220 [01:38<00:18, 182.79it/s]Batches:  76%|███████▌  | 10829/14220 [01:38<00:18, 182.48it/s]Batches:  76%|███████▋  | 10848/14220 [01:38<00:18, 183.95it/s]Batches:  76%|███████▋  | 10868/14220 [01:38<00:18, 186.09it/s]Batches:  77%|███████▋  | 10888/14220 [01:38<00:17, 187.15it/s]Batches:  77%|███████▋  | 10907/14220 [01:38<00:17, 185.94it/s]Batches:  77%|███████▋  | 10926/14220 [01:38<00:18, 174.61it/s]Batches:  77%|███████▋  | 10944/14220 [01:38<00:19, 168.73it/s]Batches:  77%|███████▋  | 10964/14220 [01:38<00:18, 175.25it/s]Batches:  77%|███████▋  | 10983/14220 [01:39<00:18, 177.88it/s]Batches:  77%|███████▋  | 11002/14220 [01:39<00:17, 179.73it/s]Batches:  78%|███████▊  | 11021/14220 [01:39<00:17, 182.63it/s]Batches:  78%|███████▊  | 11040/14220 [01:39<00:17, 181.89it/s]Batches:  78%|███████▊  | 11059/14220 [01:39<00:17, 181.33it/s]Batches:  78%|███████▊  | 11078/14220 [01:39<00:17, 183.02it/s]Batches:  78%|███████▊  | 11098/14220 [01:39<00:16, 185.11it/s]Batches:  78%|███████▊  | 11118/14220 [01:39<00:16, 187.98it/s]Batches:  78%|███████▊  | 11137/14220 [01:39<00:16, 188.06it/s]Batches:  78%|███████▊  | 11156/14220 [01:39<00:16, 185.18it/s]Batches:  79%|███████▊  | 11175/14220 [01:40<00:17, 176.84it/s]Batches:  79%|███████▊  | 11193/14220 [01:40<00:17, 177.42it/s]Batches:  79%|███████▉  | 11211/14220 [01:40<00:17, 171.60it/s]Batches:  79%|███████▉  | 11231/14220 [01:40<00:16, 178.81it/s]Batches:  79%|███████▉  | 11250/14220 [01:40<00:16, 182.02it/s]Batches:  79%|███████▉  | 11269/14220 [01:40<00:16, 183.75it/s]Batches:  79%|███████▉  | 11289/14220 [01:40<00:15, 186.59it/s]Batches:  80%|███████▉  | 11309/14220 [01:40<00:15, 188.74it/s]Batches:  80%|███████▉  | 11330/14220 [01:40<00:15, 192.12it/s]Batches:  80%|███████▉  | 11350/14220 [01:41<00:14, 193.76it/s]Batches:  80%|███████▉  | 11370/14220 [01:41<00:15, 188.61it/s]Batches:  80%|████████  | 11389/14220 [01:41<00:15, 187.39it/s]Batches:  80%|████████  | 11409/14220 [01:41<00:14, 189.77it/s]Batches:  80%|████████  | 11428/14220 [01:41<00:15, 177.48it/s]Batches:  80%|████████  | 11446/14220 [01:41<00:16, 171.66it/s]Batches:  81%|████████  | 11465/14220 [01:41<00:15, 176.17it/s]Batches:  81%|████████  | 11485/14220 [01:41<00:15, 182.05it/s]Batches:  81%|████████  | 11505/14220 [01:41<00:14, 186.97it/s]Batches:  81%|████████  | 11525/14220 [01:41<00:14, 189.71it/s]Batches:  81%|████████  | 11545/14220 [01:42<00:13, 192.58it/s]Batches:  81%|████████▏ | 11565/14220 [01:42<00:13, 193.83it/s]Batches:  81%|████████▏ | 11585/14220 [01:42<00:13, 195.56it/s]Batches:  82%|████████▏ | 11605/14220 [01:42<00:13, 195.64it/s]Batches:  82%|████████▏ | 11625/14220 [01:42<00:13, 193.71it/s]Batches:  82%|████████▏ | 11645/14220 [01:42<00:13, 193.35it/s]Batches:  82%|████████▏ | 11665/14220 [01:42<00:13, 194.14it/s]Batches:  82%|████████▏ | 11685/14220 [01:42<00:12, 195.49it/s]Batches:  82%|████████▏ | 11705/14220 [01:42<00:13, 193.37it/s]Batches:  82%|████████▏ | 11725/14220 [01:43<00:13, 191.42it/s]Batches:  83%|████████▎ | 11745/14220 [01:43<00:12, 190.51it/s]Batches:  83%|████████▎ | 11766/14220 [01:43<00:12, 194.52it/s]Batches:  83%|████████▎ | 11786/14220 [01:43<00:12, 195.47it/s]Batches:  83%|████████▎ | 11806/14220 [01:43<00:12, 195.75it/s]Batches:  83%|████████▎ | 11826/14220 [01:43<00:12, 194.12it/s]Batches:  83%|████████▎ | 11847/14220 [01:43<00:12, 195.66it/s]Batches:  83%|████████▎ | 11868/14220 [01:43<00:11, 197.83it/s]Batches:  84%|████████▎ | 11889/14220 [01:43<00:11, 198.91it/s]Batches:  84%|████████▎ | 11909/14220 [01:43<00:11, 196.24it/s]Batches:  84%|████████▍ | 11929/14220 [01:44<00:11, 197.28it/s]Batches:  84%|████████▍ | 11949/14220 [01:44<00:12, 187.13it/s]Batches:  84%|████████▍ | 11969/14220 [01:44<00:11, 189.25it/s]Batches:  84%|████████▍ | 11990/14220 [01:44<00:11, 192.69it/s]Batches:  84%|████████▍ | 12010/14220 [01:44<00:11, 191.41it/s]Batches:  85%|████████▍ | 12031/14220 [01:44<00:11, 196.06it/s]Batches:  85%|████████▍ | 12051/14220 [01:44<00:11, 194.31it/s]Batches:  85%|████████▍ | 12071/14220 [01:44<00:11, 194.64it/s]Batches:  85%|████████▌ | 12091/14220 [01:44<00:10, 194.53it/s]Batches:  85%|████████▌ | 12111/14220 [01:44<00:10, 194.57it/s]Batches:  85%|████████▌ | 12131/14220 [01:45<00:10, 196.11it/s]Batches:  85%|████████▌ | 12151/14220 [01:45<00:10, 195.44it/s]Batches:  86%|████████▌ | 12171/14220 [01:45<00:10, 196.77it/s]Batches:  86%|████████▌ | 12191/14220 [01:45<00:10, 187.05it/s]Batches:  86%|████████▌ | 12211/14220 [01:45<00:10, 189.09it/s]Batches:  86%|████████▌ | 12231/14220 [01:45<00:10, 190.18it/s]Batches:  86%|████████▌ | 12251/14220 [01:45<00:10, 192.32it/s]Batches:  86%|████████▋ | 12272/14220 [01:45<00:09, 197.15it/s]Batches:  86%|████████▋ | 12293/14220 [01:45<00:09, 200.23it/s]Batches:  87%|████████▋ | 12314/14220 [01:46<00:09, 201.96it/s]Batches:  87%|████████▋ | 12335/14220 [01:46<00:09, 203.87it/s]Batches:  87%|████████▋ | 12356/14220 [01:46<00:09, 205.30it/s]Batches:  87%|████████▋ | 12377/14220 [01:46<00:09, 203.60it/s]Batches:  87%|████████▋ | 12398/14220 [01:46<00:09, 201.92it/s]Batches:  87%|████████▋ | 12419/14220 [01:46<00:08, 201.54it/s]Batches:  87%|████████▋ | 12440/14220 [01:46<00:08, 200.45it/s]Batches:  88%|████████▊ | 12461/14220 [01:46<00:09, 192.05it/s]Batches:  88%|████████▊ | 12482/14220 [01:46<00:08, 194.96it/s]Batches:  88%|████████▊ | 12503/14220 [01:46<00:08, 197.52it/s]Batches:  88%|████████▊ | 12524/14220 [01:47<00:08, 200.67it/s]Batches:  88%|████████▊ | 12546/14220 [01:47<00:08, 203.73it/s]Batches:  88%|████████▊ | 12567/14220 [01:47<00:08, 201.93it/s]Batches:  89%|████████▊ | 12588/14220 [01:47<00:08, 201.49it/s]Batches:  89%|████████▊ | 12609/14220 [01:47<00:07, 203.66it/s]Batches:  89%|████████▉ | 12631/14220 [01:47<00:07, 206.34it/s]Batches:  89%|████████▉ | 12652/14220 [01:47<00:07, 206.74it/s]Batches:  89%|████████▉ | 12674/14220 [01:47<00:07, 208.88it/s]Batches:  89%|████████▉ | 12696/14220 [01:47<00:07, 210.46it/s]Batches:  89%|████████▉ | 12718/14220 [01:47<00:07, 211.99it/s]Batches:  90%|████████▉ | 12740/14220 [01:48<00:07, 210.41it/s]Batches:  90%|████████▉ | 12762/14220 [01:48<00:06, 210.30it/s]Batches:  90%|████████▉ | 12784/14220 [01:48<00:06, 211.50it/s]Batches:  90%|█████████ | 12806/14220 [01:48<00:06, 210.93it/s]Batches:  90%|█████████ | 12828/14220 [01:48<00:06, 212.29it/s]Batches:  90%|█████████ | 12850/14220 [01:48<00:06, 211.16it/s]Batches:  91%|█████████ | 12872/14220 [01:48<00:06, 212.02it/s]Batches:  91%|█████████ | 12894/14220 [01:48<00:06, 214.27it/s]Batches:  91%|█████████ | 12916/14220 [01:48<00:06, 214.87it/s]Batches:  91%|█████████ | 12938/14220 [01:49<00:06, 213.29it/s]Batches:  91%|█████████ | 12960/14220 [01:49<00:06, 209.42it/s]Batches:  91%|█████████▏| 12982/14220 [01:49<00:05, 212.15it/s]Batches:  91%|█████████▏| 13004/14220 [01:49<00:06, 200.33it/s]Batches:  92%|█████████▏| 13026/14220 [01:49<00:05, 203.46it/s]Batches:  92%|█████████▏| 13049/14220 [01:49<00:05, 208.44it/s]Batches:  92%|█████████▏| 13072/14220 [01:49<00:05, 212.26it/s]Batches:  92%|█████████▏| 13095/14220 [01:49<00:05, 215.68it/s]Batches:  92%|█████████▏| 13117/14220 [01:49<00:05, 214.87it/s]Batches:  92%|█████████▏| 13140/14220 [01:49<00:05, 213.92it/s]Batches:  93%|█████████▎| 13163/14220 [01:50<00:04, 216.42it/s]Batches:  93%|█████████▎| 13186/14220 [01:50<00:04, 218.57it/s]Batches:  93%|█████████▎| 13208/14220 [01:50<00:04, 218.88it/s]Batches:  93%|█████████▎| 13230/14220 [01:50<00:04, 218.90it/s]Batches:  93%|█████████▎| 13253/14220 [01:50<00:04, 219.73it/s]Batches:  93%|█████████▎| 13275/14220 [01:50<00:04, 208.37it/s]Batches:  94%|█████████▎| 13296/14220 [01:50<00:04, 201.59it/s]Batches:  94%|█████████▎| 13318/14220 [01:50<00:04, 206.78it/s]Batches:  94%|█████████▍| 13341/14220 [01:50<00:04, 213.20it/s]Batches:  94%|█████████▍| 13364/14220 [01:51<00:03, 217.43it/s]Batches:  94%|█████████▍| 13386/14220 [01:51<00:03, 217.45it/s]Batches:  94%|█████████▍| 13409/14220 [01:51<00:03, 219.38it/s]Batches:  94%|█████████▍| 13432/14220 [01:51<00:03, 222.22it/s]Batches:  95%|█████████▍| 13456/14220 [01:51<00:03, 225.00it/s]Batches:  95%|█████████▍| 13480/14220 [01:51<00:03, 227.19it/s]Batches:  95%|█████████▍| 13503/14220 [01:51<00:03, 225.32it/s]Batches:  95%|█████████▌| 13527/14220 [01:51<00:03, 226.87it/s]Batches:  95%|█████████▌| 13550/14220 [01:51<00:02, 225.62it/s]Batches:  95%|█████████▌| 13573/14220 [01:51<00:02, 217.95it/s]Batches:  96%|█████████▌| 13596/14220 [01:52<00:02, 219.05it/s]Batches:  96%|█████████▌| 13618/14220 [01:52<00:02, 210.57it/s]Batches:  96%|█████████▌| 13642/14220 [01:52<00:02, 218.69it/s]Batches:  96%|█████████▌| 13666/14220 [01:52<00:02, 223.50it/s]Batches:  96%|█████████▋| 13689/14220 [01:52<00:02, 221.96it/s]Batches:  96%|█████████▋| 13713/14220 [01:52<00:02, 226.36it/s]Batches:  97%|█████████▋| 13738/14220 [01:52<00:02, 232.15it/s]Batches:  97%|█████████▋| 13764/14220 [01:52<00:01, 237.81it/s]Batches:  97%|█████████▋| 13788/14220 [01:52<00:01, 233.31it/s]Batches:  97%|█████████▋| 13814/14220 [01:53<00:01, 238.70it/s]Batches:  97%|█████████▋| 13841/14220 [01:53<00:01, 245.57it/s]Batches:  98%|█████████▊| 13868/14220 [01:53<00:01, 251.92it/s]Batches:  98%|█████████▊| 13894/14220 [01:53<00:01, 237.67it/s]Batches:  98%|█████████▊| 13922/14220 [01:53<00:01, 248.06it/s]Batches:  98%|█████████▊| 13947/14220 [01:53<00:01, 244.52it/s]Batches:  98%|█████████▊| 13973/14220 [01:53<00:00, 248.46it/s]Batches:  98%|█████████▊| 13998/14220 [01:53<00:00, 242.77it/s]Batches:  99%|█████████▊| 14028/14220 [01:53<00:00, 257.11it/s]Batches:  99%|█████████▉| 14059/14220 [01:53<00:00, 270.58it/s]Batches:  99%|█████████▉| 14087/14220 [01:54<00:00, 271.43it/s]Batches:  99%|█████████▉| 14117/14220 [01:54<00:00, 277.37it/s]Batches:  99%|█████████▉| 14145/14220 [01:54<00:00, 259.17it/s]Batches: 100%|█████████▉| 14172/14220 [01:54<00:00, 256.52it/s]Batches: 100%|█████████▉| 14207/14220 [01:54<00:00, 276.17it/s]Batches: 100%|██████████| 14220/14220 [01:54<00:00, 123.98it/s]
+2025-09-28 11:36:06,904 - BERTopic - Embedding - Completed ✓
+2025-09-28 11:36:06,905 - BERTopic - Guided - Find embeddings highly related to seeded topics.
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.28it/s]
+2025-09-28 11:36:09,768 - BERTopic - Guided - Completed ✓
+2025-09-28 11:36:09,768 - BERTopic - Dimensionality - Fitting the dimensionality reduction algorithm
+UMAP(low_memory=False, min_dist=0.01, n_components=58, n_jobs=1, n_neighbors=103, random_state=42, verbose=True)
+Sun Sep 28 11:36:10 2025 Construct fuzzy simplicial set
+Sun Sep 28 11:36:11 2025 Finding Nearest Neighbors
+Sun Sep 28 11:36:11 2025 Building RP forest with 39 trees
+Sun Sep 28 11:36:48 2025 NN descent for 19 iterations
+	 1  /  19
+	 2  /  19
+	 3  /  19
+	 4  /  19
+	 5  /  19
+	 6  /  19
+	 7  /  19
+	Stopping threshold met -- exiting after 7 iterations
+Sun Sep 28 11:47:11 2025 Finished Nearest Neighbor Search
+Sun Sep 28 11:47:41 2025 Construct embedding
+Epochs completed:   0%|            0/200 [00:00]	completed  0  /  200 epochs
+Epochs completed:   0%|            1/200 [00:00]Epochs completed:   1%|            2/200 [00:02]Epochs completed:   2%| ▏          3/200 [00:08]Epochs completed:   2%| ▏          4/200 [00:15]Epochs completed:   2%| ▎          5/200 [00:24]Epochs completed:   3%| ▎          6/200 [00:33]Epochs completed:   4%| ▎          7/200 [00:43]Epochs completed:   4%| ▍          8/200 [00:54]Epochs completed:   4%| ▍          9/200 [01:06]Epochs completed:   5%| ▌          10/200 [01:18]Epochs completed:   6%| ▌          11/200 [01:31]Epochs completed:   6%| ▌          12/200 [01:45]Epochs completed:   6%| ▋          13/200 [01:58]Epochs completed:   7%| ▋          14/200 [02:13]Epochs completed:   8%| ▊          15/200 [02:27]Epochs completed:   8%| ▊          16/200 [02:41]Epochs completed:   8%| ▊          17/200 [02:56]Epochs completed:   9%| ▉          18/200 [03:11]Epochs completed:  10%| ▉          19/200 [03:25]Epochs completed:  10%| █          20/200 [03:40]	completed  20  /  200 epochs
+Epochs completed:  10%| █          21/200 [03:55]Epochs completed:  11%| █          22/200 [04:10]Epochs completed:  12%| █▏         23/200 [04:25]Epochs completed:  12%| █▏         24/200 [04:40]Epochs completed:  12%| █▎         25/200 [04:55]Epochs completed:  13%| █▎         26/200 [05:10]Epochs completed:  14%| █▎         27/200 [05:25]Epochs completed:  14%| █▍         28/200 [05:40]Epochs completed:  14%| █▍         29/200 [05:55]Epochs completed:  15%| █▌         30/200 [06:10]Epochs completed:  16%| █▌         31/200 [06:25]Epochs completed:  16%| █▌         32/200 [06:40]Epochs completed:  16%| █▋         33/200 [06:56]Epochs completed:  17%| █▋         34/200 [07:11]Epochs completed:  18%| █▊         35/200 [07:26]Epochs completed:  18%| █▊         36/200 [07:42]Epochs completed:  18%| █▊         37/200 [07:57]Epochs completed:  19%| █▉         38/200 [08:12]Epochs completed:  20%| █▉         39/200 [08:27]Epochs completed:  20%| ██         40/200 [08:42]	completed  40  /  200 epochs
+Epochs completed:  20%| ██         41/200 [08:58]Epochs completed:  21%| ██         42/200 [09:13]Epochs completed:  22%| ██▏        43/200 [09:28]Epochs completed:  22%| ██▏        44/200 [09:44]Epochs completed:  22%| ██▎        45/200 [09:59]Epochs completed:  23%| ██▎        46/200 [10:14]Epochs completed:  24%| ██▎        47/200 [10:29]Epochs completed:  24%| ██▍        48/200 [10:45]Epochs completed:  24%| ██▍        49/200 [11:00]Epochs completed:  25%| ██▌        50/200 [11:15]Epochs completed:  26%| ██▌        51/200 [11:31]Epochs completed:  26%| ██▌        52/200 [11:46]Epochs completed:  26%| ██▋        53/200 [12:01]Epochs completed:  27%| ██▋        54/200 [12:17]Epochs completed:  28%| ██▊        55/200 [12:32]Epochs completed:  28%| ██▊        56/200 [12:47]Epochs completed:  28%| ██▊        57/200 [13:03]Epochs completed:  29%| ██▉        58/200 [13:18]Epochs completed:  30%| ██▉        59/200 [13:33]Epochs completed:  30%| ███        60/200 [13:49]	completed  60  /  200 epochs
+Epochs completed:  30%| ███        61/200 [14:04]Epochs completed:  31%| ███        62/200 [14:19]Epochs completed:  32%| ███▏       63/200 [14:35]Epochs completed:  32%| ███▏       64/200 [14:50]Epochs completed:  32%| ███▎       65/200 [15:05]Epochs completed:  33%| ███▎       66/200 [15:21]Epochs completed:  34%| ███▎       67/200 [15:36]Epochs completed:  34%| ███▍       68/200 [15:51]Epochs completed:  34%| ███▍       69/200 [16:07]Epochs completed:  35%| ███▌       70/200 [16:22]Epochs completed:  36%| ███▌       71/200 [16:37]Epochs completed:  36%| ███▌       72/200 [16:53]Epochs completed:  36%| ███▋       73/200 [17:08]Epochs completed:  37%| ███▋       74/200 [17:23]Epochs completed:  38%| ███▊       75/200 [17:39]Epochs completed:  38%| ███▊       76/200 [17:54]Epochs completed:  38%| ███▊       77/200 [18:10]Epochs completed:  39%| ███▉       78/200 [18:25]Epochs completed:  40%| ███▉       79/200 [18:41]Epochs completed:  40%| ████       80/200 [18:56]	completed  80  /  200 epochs
+Epochs completed:  40%| ████       81/200 [19:11]Epochs completed:  41%| ████       82/200 [19:27]Epochs completed:  42%| ████▏      83/200 [19:42]Epochs completed:  42%| ████▏      84/200 [19:58]Epochs completed:  42%| ████▎      85/200 [20:13]Epochs completed:  43%| ████▎      86/200 [20:28]Epochs completed:  44%| ████▎      87/200 [20:44]Epochs completed:  44%| ████▍      88/200 [20:59]Epochs completed:  44%| ████▍      89/200 [21:15]Epochs completed:  45%| ████▌      90/200 [21:30]Epochs completed:  46%| ████▌      91/200 [21:45]Epochs completed:  46%| ████▌      92/200 [22:01]Epochs completed:  46%| ████▋      93/200 [22:16]Epochs completed:  47%| ████▋      94/200 [22:32]Epochs completed:  48%| ████▊      95/200 [22:47]Epochs completed:  48%| ████▊      96/200 [23:02]Epochs completed:  48%| ████▊      97/200 [23:18]Epochs completed:  49%| ████▉      98/200 [23:33]Epochs completed:  50%| ████▉      99/200 [23:49]Epochs completed:  50%| █████      100/200 [24:04]	completed  100  /  200 epochs
+Epochs completed:  50%| █████      101/200 [24:20]Epochs completed:  51%| █████      102/200 [24:35]Epochs completed:  52%| █████▏     103/200 [24:51]Epochs completed:  52%| █████▏     104/200 [25:06]Epochs completed:  52%| █████▎     105/200 [25:21]Epochs completed:  53%| █████▎     106/200 [25:37]Epochs completed:  54%| █████▎     107/200 [25:52]Epochs completed:  54%| █████▍     108/200 [26:08]Epochs completed:  55%| █████▍     109/200 [26:23]Epochs completed:  55%| █████▌     110/200 [26:38]Epochs completed:  56%| █████▌     111/200 [26:54]Epochs completed:  56%| █████▌     112/200 [27:09]Epochs completed:  56%| █████▋     113/200 [27:25]Epochs completed:  57%| █████▋     114/200 [27:40]Epochs completed:  57%| █████▊     115/200 [27:56]Epochs completed:  58%| █████▊     116/200 [28:11]Epochs completed:  58%| █████▊     117/200 [28:26]Epochs completed:  59%| █████▉     118/200 [28:42]Epochs completed:  60%| █████▉     119/200 [28:57]Epochs completed:  60%| ██████     120/200 [29:13]	completed  120  /  200 epochs
+Epochs completed:  60%| ██████     121/200 [29:28]Epochs completed:  61%| ██████     122/200 [29:43]Epochs completed:  62%| ██████▏    123/200 [29:59]Epochs completed:  62%| ██████▏    124/200 [30:14]Epochs completed:  62%| ██████▎    125/200 [30:30]Epochs completed:  63%| ██████▎    126/200 [30:45]Epochs completed:  64%| ██████▎    127/200 [31:01]Epochs completed:  64%| ██████▍    128/200 [31:16]Epochs completed:  64%| ██████▍    129/200 [31:31]Epochs completed:  65%| ██████▌    130/200 [31:47]Epochs completed:  66%| ██████▌    131/200 [32:02]Epochs completed:  66%| ██████▌    132/200 [32:18]Epochs completed:  66%| ██████▋    133/200 [32:33]Epochs completed:  67%| ██████▋    134/200 [32:49]Epochs completed:  68%| ██████▊    135/200 [33:04]Epochs completed:  68%| ██████▊    136/200 [33:19]Epochs completed:  68%| ██████▊    137/200 [33:35]Epochs completed:  69%| ██████▉    138/200 [33:50]Epochs completed:  70%| ██████▉    139/200 [34:06]Epochs completed:  70%| ███████    140/200 [34:21]	completed  140  /  200 epochs
+Epochs completed:  70%| ███████    141/200 [34:37]Epochs completed:  71%| ███████    142/200 [34:52]Epochs completed:  72%| ███████▏   143/200 [35:07]Epochs completed:  72%| ███████▏   144/200 [35:23]Epochs completed:  72%| ███████▎   145/200 [35:38]Epochs completed:  73%| ███████▎   146/200 [35:54]Epochs completed:  74%| ███████▎   147/200 [36:09]Epochs completed:  74%| ███████▍   148/200 [36:24]Epochs completed:  74%| ███████▍   149/200 [36:40]Epochs completed:  75%| ███████▌   150/200 [36:55]Epochs completed:  76%| ███████▌   151/200 [37:11]Epochs completed:  76%| ███████▌   152/200 [37:26]Epochs completed:  76%| ███████▋   153/200 [37:41]Epochs completed:  77%| ███████▋   154/200 [37:57]Epochs completed:  78%| ███████▊   155/200 [38:12]Epochs completed:  78%| ███████▊   156/200 [38:27]Epochs completed:  78%| ███████▊   157/200 [38:43]Epochs completed:  79%| ███████▉   158/200 [38:58]Epochs completed:  80%| ███████▉   159/200 [39:14]Epochs completed:  80%| ████████   160/200 [39:29]	completed  160  /  200 epochs
+Epochs completed:  80%| ████████   161/200 [39:44]Epochs completed:  81%| ████████   162/200 [40:00]Epochs completed:  82%| ████████▏  163/200 [40:15]Epochs completed:  82%| ████████▏  164/200 [40:30]Epochs completed:  82%| ████████▎  165/200 [40:46]Epochs completed:  83%| ████████▎  166/200 [41:01]Epochs completed:  84%| ████████▎  167/200 [41:16]Epochs completed:  84%| ████████▍  168/200 [41:32]Epochs completed:  84%| ████████▍  169/200 [41:47]Epochs completed:  85%| ████████▌  170/200 [42:02]Epochs completed:  86%| ████████▌  171/200 [42:18]Epochs completed:  86%| ████████▌  172/200 [42:33]Epochs completed:  86%| ████████▋  173/200 [42:48]Epochs completed:  87%| ████████▋  174/200 [43:04]Epochs completed:  88%| ████████▊  175/200 [43:19]Epochs completed:  88%| ████████▊  176/200 [43:34]Epochs completed:  88%| ████████▊  177/200 [43:50]Epochs completed:  89%| ████████▉  178/200 [44:05]Epochs completed:  90%| ████████▉  179/200 [44:20]Epochs completed:  90%| █████████  180/200 [44:36]	completed  180  /  200 epochs
+Epochs completed:  90%| █████████  181/200 [44:51]Epochs completed:  91%| █████████  182/200 [45:06]Epochs completed:  92%| █████████▏ 183/200 [45:21]Epochs completed:  92%| █████████▏ 184/200 [45:37]Epochs completed:  92%| █████████▎ 185/200 [45:52]Epochs completed:  93%| █████████▎ 186/200 [46:07]Epochs completed:  94%| █████████▎ 187/200 [46:23]Epochs completed:  94%| █████████▍ 188/200 [46:38]Epochs completed:  94%| █████████▍ 189/200 [46:53]Epochs completed:  95%| █████████▌ 190/200 [47:08]Epochs completed:  96%| █████████▌ 191/200 [47:24]Epochs completed:  96%| █████████▌ 192/200 [47:39]Epochs completed:  96%| █████████▋ 193/200 [47:54]Epochs completed:  97%| █████████▋ 194/200 [48:10]Epochs completed:  98%| █████████▊ 195/200 [48:25]Epochs completed:  98%| █████████▊ 196/200 [48:40]Epochs completed:  98%| █████████▊ 197/200 [48:55]Epochs completed:  99%| █████████▉ 198/200 [49:11]Epochs completed: 100%| █████████▉ 199/200 [49:26]Epochs completed: 100%| ██████████ 200/200 [49:41]Epochs completed: 100%| ██████████ 200/200 [49:41]
+Sun Sep 28 12:43:42 2025 Finished embedding
+2025-09-28 12:43:45,046 - BERTopic - Dimensionality - Completed ✓
+2025-09-28 12:43:45,115 - BERTopic - Cluster - Start clustering the reduced embeddings
+/var/spool/slurmd/job24062698/slurm_script: line 38: 20908 Killed                  python3 -u ./src/bertopic/bertopic_analyzer.py -f ./results/csv/ -n total -c 1 -mp /scratch/nicolasal97/gec_extractor/results/models
+Script finished successfully
+[2025-09-28T17:34:44.391] error: Detected 1 oom_kill event in StepId=24062698.batch. Some of the step tasks have been OOM Killed.

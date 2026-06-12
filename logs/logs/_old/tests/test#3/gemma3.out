@@ -1,0 +1,639 @@
+Loaded 288 OCR results
+Starting multithreaded LLM postprocessing...
+Models to process: ['gemma3']
+
+============================================================
+Starting multithreaded processing for model: gemma3
+Total OCR results to process: 288
+Using 64 worker threads
+============================================================
+✓ Progress: 1/288 (0.3%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 203.43s
+✓ Progress: 2/288 (0.7%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 213.98s
+✓ Progress: 3/288 (1.0%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 30.22s
+✓ Progress: 4/288 (1.4%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 251.25s
+✓ Progress: 5/288 (1.7%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 100.81s
+✓ Progress: 6/288 (2.1%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 96.76s
+✓ Progress: 7/288 (2.4%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 84.92s
+✓ Progress: 8/288 (2.8%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 53.3s
+✓ Progress: 9/288 (3.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 87.58s
+✓ Progress: 10/288 (3.5%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 72.05s
+✓ Progress: 11/288 (3.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 101.52s
+✓ Progress: 12/288 (4.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 173.15s
+✓ Progress: 13/288 (4.5%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 45.76s
+✓ Progress: 14/288 (4.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 105.07s
+✓ Progress: 15/288 (5.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 142.88s
+✓ Progress: 16/288 (5.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 108.18s
+✓ Progress: 17/288 (5.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 51.46s
+✓ Progress: 18/288 (6.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 157.99s
+✓ Progress: 19/288 (6.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 67.74s
+✓ Progress: 20/288 (6.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 42.99s
+✓ Progress: 21/288 (7.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 59.57s
+✓ Progress: 22/288 (7.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 54.51s
+✓ Progress: 23/288 (8.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 91.82s
+✓ Progress: 24/288 (8.3%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 124.66s
+✓ Progress: 25/288 (8.7%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 73.48s
+✓ Progress: 26/288 (9.0%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 54.15s
+✓ Progress: 27/288 (9.4%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 134.16s
+✓ Progress: 28/288 (9.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 182.62s
+✓ Progress: 29/288 (10.1%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 152.83s
+✓ Progress: 30/288 (10.4%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 25.86s
+✓ Progress: 31/288 (10.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 151.22s
+✓ Progress: 32/288 (11.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 72.56s
+✓ Progress: 33/288 (11.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 119.4s
+✓ Progress: 34/288 (11.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 108.89s
+✓ Progress: 35/288 (12.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 275.12s
+✓ Progress: 36/288 (12.5%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 205.92s
+✓ Progress: 37/288 (12.8%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 393.32s
+✗ Progress: 38/288 (13.2%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 39/288 (13.5%) - Failed gestion#2019-07-12#01.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 40/288 (13.9%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: connection refused (status code: 500)
+✓ Progress: 41/288 (14.2%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 70.16s
+✓ Progress: 42/288 (14.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 83.67s
+✓ Progress: 43/288 (14.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 24.39s
+✓ Progress: 44/288 (15.3%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 113.42s
+✓ Progress: 45/288 (15.6%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 39.94s
+✓ Progress: 46/288 (16.0%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 61.96s
+✓ Progress: 47/288 (16.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 74.39s
+✓ Progress: 48/288 (16.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 139.09s
+✓ Progress: 49/288 (17.0%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 129.66s
+✓ Progress: 50/288 (17.4%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 339.42s
+✓ Progress: 51/288 (17.7%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 132.36s
+✗ Progress: 52/288 (18.1%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 53/288 (18.4%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:38077/health": read tcp 127.0.0.1:35840->127.0.0.1:38077: read: connection reset by peer (status code: 500)
+✗ Progress: 54/288 (18.8%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✓ Progress: 55/288 (19.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 54.37s
+✓ Progress: 56/288 (19.4%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 69.95s
+✓ Progress: 57/288 (19.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 202.36s
+✓ Progress: 58/288 (20.1%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 336.71s
+✓ Progress: 59/288 (20.5%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 211.87s
+✓ Progress: 60/288 (20.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 244.6s
+✓ Progress: 61/288 (21.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 211.09s
+✓ Progress: 62/288 (21.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 178.95s
+✓ Progress: 63/288 (21.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 165.91s
+✓ Progress: 64/288 (22.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 28.85s
+✓ Progress: 65/288 (22.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 73.05s
+✓ Progress: 66/288 (22.9%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 212.3s
+✓ Progress: 67/288 (23.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 188.66s
+✓ Progress: 68/288 (23.6%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 86.18s
+✓ Progress: 69/288 (24.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 120.5s
+✓ Progress: 70/288 (24.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 133.53s
+✓ Progress: 71/288 (24.7%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 229.49s
+✓ Progress: 72/288 (25.0%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 193.5s
+✓ Progress: 73/288 (25.3%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 178.84s
+✓ Progress: 74/288 (25.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 162.29s
+✓ Progress: 75/288 (26.0%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 62.91s
+✓ Progress: 76/288 (26.4%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 103.33s
+✓ Progress: 77/288 (26.7%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 254.16s
+✓ Progress: 78/288 (27.1%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 396.41s
+✓ Progress: 79/288 (27.4%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 213.18s
+✓ Progress: 80/288 (27.8%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 79.77s
+✓ Progress: 81/288 (28.1%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 85.92s
+✓ Progress: 82/288 (28.5%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 136.38s
+✓ Progress: 83/288 (28.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 214.74s
+✓ Progress: 84/288 (29.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 224.03s
+✓ Progress: 85/288 (29.5%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 289.71s
+✓ Progress: 86/288 (29.9%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 2831.5s
+✓ Progress: 87/288 (30.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 118.92s
+✓ Progress: 88/288 (30.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 72.11s
+✓ Progress: 89/288 (30.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 78.24s
+✓ Progress: 90/288 (31.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 372.05s
+✓ Progress: 91/288 (31.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 24.3s
+✓ Progress: 92/288 (31.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 27.47s
+✓ Progress: 93/288 (32.3%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 113.02s
+✓ Progress: 94/288 (32.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 94.44s
+✗ Progress: 95/288 (33.0%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 96/288 (33.3%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 97/288 (33.7%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:37817/health": read tcp 127.0.0.1:54746->127.0.0.1:37817: read: connection reset by peer (status code: 500)
+✗ Progress: 98/288 (34.0%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 99/288 (34.4%) - Failed gestion#2019-07-12#01.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:43135/health": read tcp 127.0.0.1:51646->127.0.0.1:43135: read: connection reset by peer (status code: 500)
+✗ Progress: 100/288 (34.7%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✓ Progress: 101/288 (35.1%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 105.33s
+✓ Progress: 102/288 (35.4%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 116.0s
+✓ Progress: 103/288 (35.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 51.3s
+✓ Progress: 104/288 (36.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 238.73s
+✓ Progress: 105/288 (36.5%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 138.56s
+✓ Progress: 106/288 (36.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 183.53s
+✓ Progress: 107/288 (37.2%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 68.11s
+✓ Progress: 108/288 (37.5%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 146.33s
+✗ Progress: 109/288 (37.8%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 110/288 (38.2%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:32809/health": read tcp 127.0.0.1:34300->127.0.0.1:32809: read: connection reset by peer (status code: 500)
+✗ Progress: 111/288 (38.5%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✓ Progress: 112/288 (38.9%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 113.69s
+✓ Progress: 113/288 (39.2%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 201.14s
+✓ Progress: 114/288 (39.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 125.99s
+✓ Progress: 115/288 (39.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 107.84s
+✓ Progress: 116/288 (40.3%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 154.22s
+✓ Progress: 117/288 (40.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 227.26s
+✓ Progress: 118/288 (41.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 187.96s
+✓ Progress: 119/288 (41.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 122.84s
+✓ Progress: 120/288 (41.7%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 123.96s
+✓ Progress: 121/288 (42.0%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 182.5s
+✓ Progress: 122/288 (42.4%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 287.38s
+✓ Progress: 123/288 (42.7%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 314.47s
+✓ Progress: 124/288 (43.1%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 1227.29s
+✓ Progress: 125/288 (43.4%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 329.38s
+✓ Progress: 126/288 (43.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 170.18s
+✓ Progress: 127/288 (44.1%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 135.54s
+✓ Progress: 128/288 (44.4%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 97.13s
+✓ Progress: 129/288 (44.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 131.81s
+✓ Progress: 130/288 (45.1%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 141.87s
+✓ Progress: 131/288 (45.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 204.71s
+✓ Progress: 132/288 (45.8%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 136.19s
+✓ Progress: 133/288 (46.2%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 107.15s
+✓ Progress: 134/288 (46.5%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 155.64s
+✓ Progress: 135/288 (46.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 164.39s
+✗ Progress: 136/288 (47.2%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 137/288 (47.6%) - Failed gestion#2019-07-12#01.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:43795/health": read tcp 127.0.0.1:44168->127.0.0.1:43795: read: connection reset by peer (status code: 500)
+✗ Progress: 138/288 (47.9%) - Failed gestion#2019-07-12#01.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 139/288 (48.3%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 140/288 (48.6%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 141/288 (49.0%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:43101/health": read tcp 127.0.0.1:50438->127.0.0.1:43101: read: connection reset by peer (status code: 500)
+✓ Progress: 142/288 (49.3%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 38.85s
+✓ Progress: 143/288 (49.7%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 40.42s
+✓ Progress: 144/288 (50.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 109.4s
+✓ Progress: 145/288 (50.3%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 86.77s
+✓ Progress: 146/288 (50.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 132.49s
+✓ Progress: 147/288 (51.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 72.86s
+✗ Progress: 148/288 (51.4%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 149/288 (51.7%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 150/288 (52.1%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:44305/health": read tcp 127.0.0.1:54730->127.0.0.1:44305: read: connection reset by peer (status code: 500)
+✓ Progress: 151/288 (52.4%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 64.06s
+✓ Progress: 152/288 (52.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 147.12s
+✓ Progress: 153/288 (53.1%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 174.43s
+✓ Progress: 154/288 (53.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 199.45s
+✓ Progress: 155/288 (53.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 145.58s
+✓ Progress: 156/288 (54.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 182.44s
+✓ Progress: 157/288 (54.5%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 23.3s
+✓ Progress: 158/288 (54.9%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 45.7s
+✓ Progress: 159/288 (55.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 157.51s
+✓ Progress: 160/288 (55.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 69.88s
+✓ Progress: 161/288 (55.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 126.25s
+✓ Progress: 162/288 (56.2%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 91.13s
+✓ Progress: 163/288 (56.6%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 135.94s
+✓ Progress: 164/288 (56.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 192.46s
+✗ Progress: 165/288 (57.3%) - Failed gestion#2019-07-12#01.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 166/288 (57.6%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 167/288 (58.0%) - Failed gestion#2019-07-12#01.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:37089/health": read tcp 127.0.0.1:38044->127.0.0.1:37089: read: connection reset by peer (status code: 500)
+✓ Progress: 168/288 (58.3%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 124.0s
+✓ Progress: 169/288 (58.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 222.54s
+✗ Progress: 170/288 (59.0%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 171/288 (59.4%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:44843/health": read tcp 127.0.0.1:54196->127.0.0.1:44843: read: connection reset by peer (status code: 500)
+✗ Progress: 172/288 (59.7%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✓ Progress: 173/288 (60.1%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 46.33s
+✓ Progress: 174/288 (60.4%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 74.67s
+✓ Progress: 175/288 (60.8%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 92.05s
+✓ Progress: 176/288 (61.1%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 138.87s
+✓ Progress: 177/288 (61.5%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 148.91s
+✓ Progress: 178/288 (61.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 202.9s
+✓ Progress: 179/288 (62.2%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 81.79s
+✓ Progress: 180/288 (62.5%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 68.83s
+✓ Progress: 181/288 (62.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 162.38s
+✓ Progress: 182/288 (63.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 188.17s
+✓ Progress: 183/288 (63.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 77.06s
+✓ Progress: 184/288 (63.9%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 41.21s
+✓ Progress: 185/288 (64.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 386.72s
+✓ Progress: 186/288 (64.6%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 137.16s
+✓ Progress: 187/288 (64.9%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 235.28s
+✓ Progress: 188/288 (65.3%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 152.49s
+✓ Progress: 189/288 (65.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 266.94s
+✓ Progress: 190/288 (66.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 251.24s
+✓ Progress: 191/288 (66.3%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 203.88s
+✓ Progress: 192/288 (66.7%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 69.37s
+✓ Progress: 193/288 (67.0%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 187.83s
+✗ Progress: 194/288 (67.4%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 195/288 (67.7%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: health resp: Get "http://127.0.0.1:44773/health": read tcp 127.0.0.1:44408->127.0.0.1:44773: read: connection reset by peer (status code: 500)
+✗ Progress: 196/288 (68.1%) - Failed gestion#2017-05-15#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✓ Progress: 197/288 (68.4%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 64.48s
+✓ Progress: 198/288 (68.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 78.63s
+✓ Progress: 199/288 (69.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 76.61s
+✓ Progress: 200/288 (69.4%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 87.2s
+✓ Progress: 201/288 (69.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 178.63s
+✓ Progress: 202/288 (70.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 56.17s
+✓ Progress: 203/288 (70.5%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 204.5s
+✓ Progress: 204/288 (70.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 224.5s
+✓ Progress: 205/288 (71.2%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 86.85s
+✓ Progress: 206/288 (71.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 87.59s
+✓ Progress: 207/288 (71.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 488.32s
+✓ Progress: 208/288 (72.2%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 175.72s
+✓ Progress: 209/288 (72.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 102.15s
+✓ Progress: 210/288 (72.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 135.29s
+✓ Progress: 211/288 (73.3%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 70.6s
+✓ Progress: 212/288 (73.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 91.99s
+✓ Progress: 213/288 (74.0%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 140.34s
+✓ Progress: 214/288 (74.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 137.47s
+✓ Progress: 215/288 (74.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 132.19s
+✓ Progress: 216/288 (75.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 156.41s
+✓ Progress: 217/288 (75.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 155.86s
+✓ Progress: 218/288 (75.7%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 105.75s
+✓ Progress: 219/288 (76.0%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 66.59s
+✓ Progress: 220/288 (76.4%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 65.96s
+✓ Progress: 221/288 (76.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 159.39s
+✓ Progress: 222/288 (77.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 148.29s
+✓ Progress: 223/288 (77.4%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 40.44s
+✓ Progress: 224/288 (77.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 64.81s
+✓ Progress: 225/288 (78.1%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 245.98s
+✓ Progress: 226/288 (78.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 293.39s
+✓ Progress: 227/288 (78.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 182.26s
+✓ Progress: 228/288 (79.2%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 152.95s
+✓ Progress: 229/288 (79.5%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 94.44s
+✓ Progress: 230/288 (79.9%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 227.57s
+✓ Progress: 231/288 (80.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 398.86s
+✓ Progress: 232/288 (80.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 303.11s
+✓ Progress: 233/288 (80.9%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 168.5s
+✓ Progress: 234/288 (81.2%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 2059.1s
+✓ Progress: 235/288 (81.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 138.85s
+✓ Progress: 236/288 (81.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 89.47s
+✓ Progress: 237/288 (82.3%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 115.14s
+✓ Progress: 238/288 (82.6%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 61.06s
+✓ Progress: 239/288 (83.0%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 87.71s
+✓ Progress: 240/288 (83.3%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 166.3s
+✓ Progress: 241/288 (83.7%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 121.64s
+✓ Progress: 242/288 (84.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 93.17s
+✓ Progress: 243/288 (84.4%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 114.39s
+✓ Progress: 244/288 (84.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 75.48s
+✓ Progress: 245/288 (85.1%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 36.3s
+✓ Progress: 246/288 (85.4%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 174.76s
+✓ Progress: 247/288 (85.8%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 135.46s
+✓ Progress: 248/288 (86.1%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 165.06s
+✓ Progress: 249/288 (86.5%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 35.89s
+✓ Progress: 250/288 (86.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 162.03s
+✓ Progress: 251/288 (87.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 162.59s
+✓ Progress: 252/288 (87.5%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 149.09s
+✓ Progress: 253/288 (87.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 217.94s
+✓ Progress: 254/288 (88.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 92.62s
+✗ Progress: 255/288 (88.5%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 256/288 (88.9%) - Failed gestion#2015-09-10#04.tiff with gemma3 - Error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+✗ Progress: 257/288 (89.2%) - Failed gestion#2014-06-02#01.tiff with gemma3 - Error: connection refused (status code: 500)
+✓ Progress: 258/288 (89.6%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 55.19s
+✓ Progress: 259/288 (89.9%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 151.84s
+✓ Progress: 260/288 (90.3%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 116.51s
+✓ Progress: 261/288 (90.6%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 196.94s
+✓ Progress: 262/288 (91.0%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 64.21s
+✓ Progress: 263/288 (91.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 63.19s
+✓ Progress: 264/288 (91.7%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 97.1s
+✓ Progress: 265/288 (92.0%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 189.69s
+✓ Progress: 266/288 (92.4%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 309.38s
+✓ Progress: 267/288 (92.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 334.84s
+✓ Progress: 268/288 (93.1%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 202.78s
+✓ Progress: 269/288 (93.4%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 181.03s
+✓ Progress: 270/288 (93.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 307.96s
+✓ Progress: 271/288 (94.1%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 310.44s
+✓ Progress: 272/288 (94.4%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 210.73s
+✓ Progress: 273/288 (94.8%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 307.4s
+✓ Progress: 274/288 (95.1%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 347.56s
+✓ Progress: 275/288 (95.5%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 148.56s
+✓ Progress: 276/288 (95.8%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 108.17s
+✓ Progress: 277/288 (96.2%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 1646.95s
+✓ Progress: 278/288 (96.5%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 135.01s
+✓ Progress: 279/288 (96.9%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 121.51s
+✓ Progress: 280/288 (97.2%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 93.3s
+✓ Progress: 281/288 (97.6%) - Processed gestion#2017-05-15#04.tiff with gemma3 in 190.16s
+✓ Progress: 282/288 (97.9%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 96.25s
+✓ Progress: 283/288 (98.3%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 106.87s
+✓ Progress: 284/288 (98.6%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 115.13s
+✓ Progress: 285/288 (99.0%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 213.42s
+✓ Progress: 286/288 (99.3%) - Processed gestion#2019-07-12#01.tiff with gemma3 in 84.51s
+✓ Progress: 287/288 (99.7%) - Processed gestion#2015-09-10#04.tiff with gemma3 in 81.19s
+✓ Progress: 288/288 (100.0%) - Processed gestion#2014-06-02#01.tiff with gemma3 in 45.3s
+
+============================================================
+Completed processing for gemma3
+Total processing time: 15013.16 seconds
+Average time per result: 52.13 seconds
+
+Saving results to CSV files...
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_olmocr_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config19_olmocr_gemma3.csv
+✗ Error saving for gestion#2019-07-12#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2019-07-12#01_config12_olmocr_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config9_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_olmocr_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config22_olmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config19_olmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config5_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_olmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_olmocr_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config23_olmocr_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config20_olmocr_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config7_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config23_rolmocr_gemma3.csv
+✗ Error saving for gestion#2019-07-12#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2019-07-12#01_config14_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config20_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_rolmocr_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config19_rolmocr_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config6_rolmocr_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config15_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_rolmocr_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config10_rolmocr_gemma3.csv
+✗ Error saving for gestion#2019-07-12#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2019-07-12#01_config10_rolmocr_gemma3.csv
+✗ Error saving for gestion#2019-07-12#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2019-07-12#01_config4_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config2_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config10_rolmocr_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config0_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_rolmocr_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config11_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config5_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config13_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_rolmocr_gemma3.csv
+✗ Error saving for gestion#2019-07-12#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2019-07-12#01_config6_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config19_rolmocr_gemma3.csv
+✗ Error saving for gestion#2019-07-12#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2019-07-12#01_config18_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config21_rolmocr_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config8_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config22_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_rolmocr_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_rolmocr_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config23_nanonets_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config15_nanonets_gemma3.csv
+✗ Error saving for gestion#2017-05-15#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2017-05-15#04_config20_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_nanonets_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config12_nanonets_gemma3.csv
+✗ Error saving for gestion#2015-09-10#04.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2015-09-10#04_config18_nanonets_gemma3.csv
+✗ Error saving for gestion#2014-06-02#01.tiff: expected string or bytes-like object
+✓ Empty CSV saved due to error: ./results/csv/extracted/gestion#2014-06-02#01_config1_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_nanonets_gemma3.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_nanonets_gemma3.csv
+✓ Successfully saved: 252 files
+✗ Errors encountered: 36 files
+============================================================
+================================================================================
+                                 FINAL SUMMARY                                  
+================================================================================
+Total execution time: 15013.22 seconds
+Models processed: 1
+Total OCR results per model: 288
+Total processing tasks: 288
+================================================================================

@@ -1,0 +1,51 @@
+Using 64 threads in global mode
+Total configurations to test: 45
+Processing 4 images
+Processing all combinations globally in parallel...
+Total tasks: 180
+Progress: 5/180 tasks completed
+Progress: 10/180 tasks completed
+Progress: 15/180 tasks completed
+Progress: 20/180 tasks completed
+Progress: 25/180 tasks completed
+Progress: 30/180 tasks completed
+Progress: 35/180 tasks completed
+Progress: 40/180 tasks completed
+Progress: 45/180 tasks completed
+Progress: 50/180 tasks completed
+Progress: 55/180 tasks completed
+Progress: 60/180 tasks completed
+Progress: 65/180 tasks completed
+Progress: 70/180 tasks completed
+Progress: 75/180 tasks completed
+Progress: 80/180 tasks completed
+Progress: 85/180 tasks completed
+Progress: 90/180 tasks completed
+Progress: 95/180 tasks completed
+Progress: 100/180 tasks completed
+Progress: 105/180 tasks completed
+Progress: 110/180 tasks completed
+Progress: 115/180 tasks completed
+Progress: 120/180 tasks completed
+Progress: 125/180 tasks completed
+Progress: 130/180 tasks completed
+Progress: 135/180 tasks completed
+Progress: 140/180 tasks completed
+Progress: 145/180 tasks completed
+Progress: 150/180 tasks completed
+Progress: 155/180 tasks completed
+Progress: 160/180 tasks completed
+Progress: 165/180 tasks completed
+Progress: 170/180 tasks completed
+Progress: 175/180 tasks completed
+Progress: 180/180 tasks completed
+
+============================================================
+PROCESSING SUMMARY
+============================================================
+Total time: 143.11 seconds
+Successful processes: 180
+Failed processes: 0
+Average time per successful process: 0.795 seconds
+Processing log saved to: ./logs/preprocess.out
+============================================================

@@ -1,0 +1,66 @@
+
+================================================================================
+                              Slurm Job Statistics                              
+================================================================================
+         Job ID: 24090684
+  NetID/Account: nicolasal97/agfritz
+       Job Name: sent_run_a5000
+          State: TIMEOUT
+          Nodes: 1
+      CPU Cores: 1
+     CPU Memory: 9GB (9GB per CPU-core)
+           GPUs: 1
+  QOS/Partition: standard/scavenger
+        Cluster: curta
+     Start Time: Thu Oct 2, 2025 at 5:20 PM
+       Run Time: 00:05:01
+     Time Limit: 00:05:00
+
+                              Overall Utilization                               
+================================================================================
+  CPU utilization  [|||||||||||||||||||||||||||||||||||||||||||||||96%]
+  CPU memory usage [|||||||                                        14%]
+  GPU utilization  [                                                0%]
+  GPU memory usage [|                                               2%]
+
+                              Detailed Utilization                              
+================================================================================
+  CPU utilization per node (CPU time used/run time)
+      g009.curta.zedat.fu-berlin.de: 00:04:48/00:05:01 (efficiency=95.7%)
+
+  CPU memory usage per node - used/allocated
+      g009.curta.zedat.fu-berlin.de: 1.3GB/9GB (1.3GB/9GB per core of 1, efficiency=14.4%)
+
+  GPU utilization per node
+      g009.curta.zedat.fu-berlin.de (GPU 0): 0% <-- GPU was not used
+
+  GPU memory usage per node - maximum used/total
+      g009.curta.zedat.fu-berlin.de (GPU 0): 455.5MB/24GB (1.9%)
+
+                                     Notes                                      
+================================================================================
+  * This job did not use the GPU. Please resolve this before running
+    additional jobs. Wasting resources prevents other users from getting their
+    work done and it causes your subsequent jobs to have a lower priority. Is
+    the code GPU-enabled? Please consult the documentation for the software.
+    For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/GPUs
+
+  * The overall GPU utilization of this job is only 0%. This value is low.
+    Please investigate the reason for the low utilization. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcennutzung
+
+  * This job failed because it exceeded the time limit. If there are no other
+    problems then the solution is to increase the value of the --time Slurm
+    directive and resubmit the job. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/Zeitlimit
+
+  * This job only used 14% of the 9GB of total allocated CPU memory. For
+    future jobs, please allocate less memory by using a Slurm directive such
+    as --mem-per-cpu=2G or --mem=2G. This will reduce your queue times and
+    make the resources available to other users. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/Hauptspeicher/
+
+  * Have a nice day!
+
+

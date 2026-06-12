@@ -1,0 +1,50 @@
+
+================================================================================
+                              Slurm Job Statistics                              
+================================================================================
+         Job ID: 24009649
+  NetID/Account: nicolasal97/agfritz
+       Job Name: run_h100
+          State: FAILED
+          Nodes: 1
+      CPU Cores: 1
+     CPU Memory: 9GB (9GB per CPU-core)
+           GPUs: 1
+  QOS/Partition: standard/scavenger
+        Cluster: curta
+     Start Time: Sun Sep 21, 2025 at 4:34 PM
+       Run Time: 04:59:15
+     Time Limit: 1-00:00:00
+
+                              Overall Utilization                               
+================================================================================
+  CPU utilization  [|||||||||||||||||||||||||||||||||||||||||||||||99%]
+  CPU memory usage [||||||||||||||||                               33%]
+  GPU utilization  [|||||||||||||||||||||||||||||||||||||||||||||||98%]
+  GPU memory usage [|||||||||||||||||||||||||||||||||||||||||||||| 92%]
+
+                              Detailed Utilization                              
+================================================================================
+  CPU utilization per node (CPU time used/run time)
+      g016.curta.zedat.fu-berlin.de: 04:57:42/04:59:15 (efficiency=99.5%)
+
+  CPU memory usage per node - used/allocated
+      g016.curta.zedat.fu-berlin.de: 3.0GB/9GB (3.0GB/9GB per core of 1, efficiency=32.9%)
+
+  GPU utilization per node
+      g016.curta.zedat.fu-berlin.de (GPU 0): 98.4%
+
+  GPU memory usage per node - maximum used/total
+      g016.curta.zedat.fu-berlin.de (GPU 0): 73.2GB/79.6GB (92.0%)
+
+                                     Notes                                      
+================================================================================
+  * This job only used 33% of the 9GB of total allocated CPU memory. For
+    future jobs, please allocate less memory by using a Slurm directive such
+    as --mem-per-cpu=4G or --mem=4G. This will reduce your queue times and
+    make the resources available to other users. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/Hauptspeicher/
+
+  * Have a nice day!
+
+

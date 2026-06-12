@@ -1,0 +1,31 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+[W930 13:33:27.020620469 OperatorEntry.cpp:218] Warning: Warning only once for all operators,  other operators may also be overridden.
+  Overriding a previously registered kernel for the same operator and the same dispatch key
+  operator: aten::_addmm_activation(Tensor self, Tensor mat1, Tensor mat2, *, Scalar beta=1, Scalar alpha=1, bool use_gelu=False) -> Tensor
+    registered at /pytorch/build/aten/src/ATen/RegisterSchema.cpp:6
+  dispatch key: AutocastCPU
+  previous kernel: registered at /pytorch/aten/src/ATen/autocast_mode.cpp:327
+       new kernel: registered at /opt/workspace/ipex-cpu-dev/csrc/cpu/autocast/autocast_mode.cpp:112 (function operator())
+INFO 09-30 13:33:29 [__init__.py:216] Automatically detected platform cuda.
+Processing files:   0%|          | 0/8 [00:00<?, ?it/s]Processing files:  12%|█▎        | 1/8 [00:01<00:09,  1.36s/it]Processing files:  50%|█████     | 4/8 [00:01<00:01,  3.46it/s]Processing files:  88%|████████▊ | 7/8 [00:01<00:00,  6.44it/s]Processing files: 100%|██████████| 8/8 [00:01<00:00,  4.89it/s]
+Successfully processed: 8 files
+Processing 8 files...
+Files needing chunking: 8
+Files not needing chunking: 0
+Chunking analysis:   0%|          | 0/8 [00:00<?, ?it/s]Chunking analysis: 100%|██████████| 8/8 [00:00<00:00, 70.89it/s]Chunking analysis: 100%|██████████| 8/8 [00:00<00:00, 70.81it/s]
+Total chunks created: 109
+Final number of files: 8
+Generated 109 prompts for analyzing.
+GPU Memory: 0, 81080
+INFO 09-30 13:33:32 [utils.py:328] non-default args: {'tokenizer': 'microsoft/phi-4', 'seed': 42, 'max_model_len': 16000, 'enable_prefix_caching': True, 'swap_space': 6, 'disable_log_stats': True, 'quantization': 'gguf', 'enable_chunked_prefill': True, 'model': '/home/nicolasal97/.cache/huggingface/hub/models--MaziyarPanahi--phi-4-GGUF/snapshots/7b3c692e11c2028dd77bd2c22ecc651fb1a32261/phi-4.fp16.gguf'}
+INFO 09-30 13:33:54 [__init__.py:742] Resolved architecture: Phi3ForCausalLM
+`torch_dtype` is deprecated! Use `dtype` instead!
+ERROR 09-30 13:33:54 [config.py:278] Error retrieving safetensors: Repo id must be in the form 'repo_name' or 'namespace/repo_name': '/home/nicolasal97/.cache/huggingface/hub/models--MaziyarPanahi--phi-4-GGUF/snapshots/7b3c692e11c2028dd77bd2c22ecc651fb1a32261/phi-4.fp16.gguf'. Use `repo_type` argument if needed., retrying 1 of 2
+ERROR 09-30 13:33:56 [config.py:276] Error retrieving safetensors: Repo id must be in the form 'repo_name' or 'namespace/repo_name': '/home/nicolasal97/.cache/huggingface/hub/models--MaziyarPanahi--phi-4-GGUF/snapshots/7b3c692e11c2028dd77bd2c22ecc651fb1a32261/phi-4.fp16.gguf'. Use `repo_type` argument if needed.
+INFO 09-30 13:33:56 [__init__.py:2764] Downcasting torch.float32 to torch.bfloat16.
+INFO 09-30 13:33:56 [__init__.py:1815] Using max model len 16000
+WARNING 09-30 13:33:56 [_logger.py:72] gguf quantization is not fully optimized yet. The speed can be slower than non-quantized models.
+[2025-09-30T13:34:04.620] error: *** JOB 24070806 ON g016 CANCELLED AT 2025-09-30T13:34:04 DUE to SIGNAL Terminated ***

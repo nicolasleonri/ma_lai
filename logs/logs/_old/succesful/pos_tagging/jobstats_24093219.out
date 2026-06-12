@@ -1,0 +1,35 @@
+
+================================================================================
+                              Slurm Job Statistics                              
+================================================================================
+         Job ID: 24093219
+  NetID/Account: nicolasal97/agfritz
+       Job Name: sent_run_a5000
+          State: COMPLETED
+          Nodes: 1
+      CPU Cores: 1
+     CPU Memory: 4GB (4GB per CPU-core)
+  QOS/Partition: standard/scavenger
+        Cluster: curta
+     Start Time: Fri Oct 3, 2025 at 3:21 PM
+       Run Time: 00:03:10
+     Time Limit: 00:15:00
+
+                              Overall Utilization                               
+================================================================================
+  CPU utilization  [|||||||||||||||||||||||||||||||||||||||||||||||96%]
+  CPU memory usage [|||||||||||||||                                31%]
+
+                              Detailed Utilization                              
+================================================================================
+  CPU utilization per node (CPU time used/run time)
+      b001.curta.zedat.fu-berlin.de: 00:03:02/00:03:10 (efficiency=96.1%)
+
+  CPU memory usage per node - used/allocated
+      b001.curta.zedat.fu-berlin.de: 1.2GB/4GB (1.2GB/4GB per core of 1, efficiency=30.6%)
+
+                                     Notes                                      
+================================================================================
+  * Have a nice day!
+
+

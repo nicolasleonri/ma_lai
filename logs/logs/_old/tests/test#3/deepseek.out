@@ -1,0 +1,603 @@
+Loaded 288 OCR results
+Starting multithreaded LLM postprocessing...
+Models to process: ['deepseek-r1']
+
+============================================================
+Starting multithreaded processing for model: deepseek-r1
+Total OCR results to process: 288
+Using 64 worker threads
+============================================================
+✓ Progress: 1/288 (0.3%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 55.93s
+✓ Progress: 2/288 (0.7%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 57.72s
+✓ Progress: 3/288 (1.0%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 100.63s
+✓ Progress: 4/288 (1.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 57.17s
+✓ Progress: 5/288 (1.7%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 113.72s
+✓ Progress: 6/288 (2.1%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 97.27s
+✓ Progress: 7/288 (2.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 124.96s
+✓ Progress: 8/288 (2.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 97.41s
+✓ Progress: 9/288 (3.1%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 125.85s
+✓ Progress: 10/288 (3.5%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 125.85s
+✓ Progress: 11/288 (3.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 229.4s
+✓ Progress: 12/288 (4.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 104.1s
+✓ Progress: 13/288 (4.5%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 111.66s
+✓ Progress: 14/288 (4.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 108.13s
+✓ Progress: 15/288 (5.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 140.21s
+✓ Progress: 16/288 (5.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 174.73s
+✓ Progress: 17/288 (5.9%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 354.72s
+✓ Progress: 18/288 (6.2%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 156.85s
+✓ Progress: 19/288 (6.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 363.09s
+✓ Progress: 20/288 (6.9%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 243.35s
+✓ Progress: 21/288 (7.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 160.31s
+✓ Progress: 22/288 (7.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 74.06s
+✓ Progress: 23/288 (8.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 110.6s
+✓ Progress: 24/288 (8.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 160.25s
+✓ Progress: 25/288 (8.7%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 192.49s
+✓ Progress: 26/288 (9.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 161.5s
+✓ Progress: 27/288 (9.4%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 142.25s
+✓ Progress: 28/288 (9.7%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 267.47s
+✓ Progress: 29/288 (10.1%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 151.57s
+✓ Progress: 30/288 (10.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 78.52s
+✓ Progress: 31/288 (10.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 141.14s
+✓ Progress: 32/288 (11.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 95.26s
+✓ Progress: 33/288 (11.5%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 213.42s
+✓ Progress: 34/288 (11.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 155.51s
+✓ Progress: 35/288 (12.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 68.16s
+✓ Progress: 36/288 (12.5%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 163.36s
+✓ Progress: 37/288 (12.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 253.9s
+✓ Progress: 38/288 (13.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 325.21s
+✓ Progress: 39/288 (13.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 418.91s
+✓ Progress: 40/288 (13.9%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 671.3s
+✓ Progress: 41/288 (14.2%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 383.45s
+✓ Progress: 42/288 (14.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 691.59s
+✓ Progress: 43/288 (14.9%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 114.41s
+✓ Progress: 44/288 (15.3%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 506.89s
+✓ Progress: 45/288 (15.6%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 262.76s
+✓ Progress: 46/288 (16.0%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 319.81s
+✓ Progress: 47/288 (16.3%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 571.38s
+✓ Progress: 48/288 (16.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 377.41s
+✓ Progress: 49/288 (17.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 598.09s
+✓ Progress: 50/288 (17.4%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 167.68s
+✓ Progress: 51/288 (17.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 740.58s
+✓ Progress: 52/288 (18.1%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 425.54s
+✓ Progress: 53/288 (18.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 371.01s
+✓ Progress: 54/288 (18.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 725.04s
+✓ Progress: 55/288 (19.1%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 446.29s
+✓ Progress: 56/288 (19.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 169.76s
+✓ Progress: 57/288 (19.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 284.64s
+✓ Progress: 58/288 (20.1%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 165.92s
+✓ Progress: 59/288 (20.5%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 133.65s
+✓ Progress: 60/288 (20.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 194.34s
+✓ Progress: 61/288 (21.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 201.43s
+✓ Progress: 62/288 (21.5%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 157.72s
+✓ Progress: 63/288 (21.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 224.28s
+✓ Progress: 64/288 (22.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 135.06s
+✓ Progress: 65/288 (22.6%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 81.18s
+✓ Progress: 66/288 (22.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 121.94s
+✓ Progress: 67/288 (23.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 203.11s
+✓ Progress: 68/288 (23.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 224.99s
+✓ Progress: 69/288 (24.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 157.61s
+✓ Progress: 70/288 (24.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 166.95s
+✓ Progress: 71/288 (24.7%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 178.74s
+✓ Progress: 72/288 (25.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 322.65s
+✓ Progress: 73/288 (25.3%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 447.77s
+✓ Progress: 74/288 (25.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 288.43s
+✓ Progress: 75/288 (26.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 514.32s
+✓ Progress: 76/288 (26.4%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 133.51s
+✓ Progress: 77/288 (26.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 335.33s
+✓ Progress: 78/288 (27.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 247.28s
+✓ Progress: 79/288 (27.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 194.52s
+✓ Progress: 80/288 (27.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 113.02s
+✓ Progress: 81/288 (28.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 90.34s
+✓ Progress: 82/288 (28.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 125.94s
+✓ Progress: 83/288 (28.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 189.21s
+✓ Progress: 84/288 (29.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 223.59s
+✓ Progress: 85/288 (29.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 343.26s
+✓ Progress: 86/288 (29.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 556.41s
+✓ Progress: 87/288 (30.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 214.65s
+✓ Progress: 88/288 (30.6%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 555.87s
+✓ Progress: 89/288 (30.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 215.8s
+✓ Progress: 90/288 (31.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 148.87s
+✓ Progress: 91/288 (31.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 101.74s
+✓ Progress: 92/288 (31.9%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 143.49s
+✓ Progress: 93/288 (32.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 124.67s
+✓ Progress: 94/288 (32.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 240.74s
+✓ Progress: 95/288 (33.0%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 536.38s
+✓ Progress: 96/288 (33.3%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 646.46s
+✓ Progress: 97/288 (33.7%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 676.64s
+✓ Progress: 98/288 (34.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 711.56s
+✓ Progress: 99/288 (34.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 686.15s
+✓ Progress: 100/288 (34.7%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 562.71s
+✓ Progress: 101/288 (35.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 222.24s
+✓ Progress: 102/288 (35.4%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 417.66s
+✓ Progress: 103/288 (35.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 226.76s
+✓ Progress: 104/288 (36.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 179.65s
+✓ Progress: 105/288 (36.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 202.69s
+✓ Progress: 106/288 (36.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 178.48s
+✓ Progress: 107/288 (37.2%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 143.01s
+✓ Progress: 108/288 (37.5%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 211.03s
+✓ Progress: 109/288 (37.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 591.96s
+✓ Progress: 110/288 (38.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 792.55s
+✓ Progress: 111/288 (38.5%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 991.95s
+✓ Progress: 112/288 (38.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 724.06s
+✓ Progress: 113/288 (39.2%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 213.73s
+✓ Progress: 114/288 (39.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 593.8s
+✓ Progress: 115/288 (39.9%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 71.27s
+✓ Progress: 116/288 (40.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 213.81s
+✓ Progress: 117/288 (40.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 88.44s
+✓ Progress: 118/288 (41.0%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 152.85s
+✓ Progress: 119/288 (41.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 93.41s
+✓ Progress: 120/288 (41.7%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 179.33s
+✓ Progress: 121/288 (42.0%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 156.26s
+✓ Progress: 122/288 (42.4%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 374.68s
+✓ Progress: 123/288 (42.7%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 775.55s
+✓ Progress: 124/288 (43.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 771.38s
+✓ Progress: 125/288 (43.4%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 508.86s
+✓ Progress: 126/288 (43.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 233.33s
+✓ Progress: 127/288 (44.1%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 177.52s
+✓ Progress: 128/288 (44.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 217.77s
+✓ Progress: 129/288 (44.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 162.83s
+✓ Progress: 130/288 (45.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 156.15s
+✓ Progress: 131/288 (45.5%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 203.84s
+✓ Progress: 132/288 (45.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 291.76s
+✓ Progress: 133/288 (46.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 289.78s
+✓ Progress: 134/288 (46.5%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 154.98s
+✓ Progress: 135/288 (46.9%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 390.26s
+✓ Progress: 136/288 (47.2%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 464.67s
+✓ Progress: 137/288 (47.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 398.58s
+✓ Progress: 138/288 (47.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 98.02s
+✓ Progress: 139/288 (48.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 152.39s
+✓ Progress: 140/288 (48.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 262.77s
+✓ Progress: 141/288 (49.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 291.04s
+✓ Progress: 142/288 (49.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 232.11s
+✓ Progress: 143/288 (49.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 190.71s
+✓ Progress: 144/288 (50.0%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 72.34s
+✓ Progress: 145/288 (50.3%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 125.63s
+✓ Progress: 146/288 (50.7%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 108.56s
+✓ Progress: 147/288 (51.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 414.66s
+✓ Progress: 148/288 (51.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 321.02s
+✓ Progress: 149/288 (51.7%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 445.45s
+✓ Progress: 150/288 (52.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 294.84s
+✓ Progress: 151/288 (52.4%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 247.28s
+✓ Progress: 152/288 (52.8%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 93.51s
+✓ Progress: 153/288 (53.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 172.21s
+✓ Progress: 154/288 (53.5%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 257.9s
+✓ Progress: 155/288 (53.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 204.86s
+✓ Progress: 156/288 (54.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 343.09s
+✓ Progress: 157/288 (54.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 90.23s
+✓ Progress: 158/288 (54.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 274.1s
+✓ Progress: 159/288 (55.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 280.45s
+✓ Progress: 160/288 (55.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 148.9s
+✓ Progress: 161/288 (55.9%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 250.81s
+✓ Progress: 162/288 (56.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 162.71s
+✓ Progress: 163/288 (56.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 404.43s
+✓ Progress: 164/288 (56.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 638.75s
+✓ Progress: 165/288 (57.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 447.88s
+✓ Progress: 166/288 (57.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 283.57s
+✓ Progress: 167/288 (58.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 331.47s
+✓ Progress: 168/288 (58.3%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 178.82s
+✓ Progress: 169/288 (58.7%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 641.02s
+✓ Progress: 170/288 (59.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 656.15s
+✓ Progress: 171/288 (59.4%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 387.64s
+✓ Progress: 172/288 (59.7%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 456.53s
+✓ Progress: 173/288 (60.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 568.44s
+✓ Progress: 174/288 (60.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 835.23s
+✓ Progress: 175/288 (60.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 634.79s
+✓ Progress: 176/288 (61.1%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 648.52s
+✓ Progress: 177/288 (61.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1177.88s
+✓ Progress: 178/288 (61.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 1350.14s
+✓ Progress: 179/288 (62.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 1035.95s
+✓ Progress: 180/288 (62.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1057.0s
+✓ Progress: 181/288 (62.8%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1196.09s
+✓ Progress: 182/288 (63.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 989.11s
+✓ Progress: 183/288 (63.5%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 556.0s
+✓ Progress: 184/288 (63.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 286.96s
+✓ Progress: 185/288 (64.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 579.91s
+✓ Progress: 186/288 (64.6%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 815.33s
+✓ Progress: 187/288 (64.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 990.06s
+✓ Progress: 188/288 (65.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 770.83s
+✓ Progress: 189/288 (65.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 316.18s
+✓ Progress: 190/288 (66.0%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 550.33s
+✓ Progress: 191/288 (66.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 1011.13s
+✓ Progress: 192/288 (66.7%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 725.9s
+✓ Progress: 193/288 (67.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 352.8s
+✓ Progress: 194/288 (67.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 385.97s
+✓ Progress: 195/288 (67.7%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 434.79s
+✓ Progress: 196/288 (68.1%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 678.65s
+✓ Progress: 197/288 (68.4%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1018.75s
+✓ Progress: 198/288 (68.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 815.51s
+✓ Progress: 199/288 (69.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 821.73s
+✓ Progress: 200/288 (69.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 931.6s
+✓ Progress: 201/288 (69.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 551.87s
+✓ Progress: 202/288 (70.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 741.21s
+✓ Progress: 203/288 (70.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1130.72s
+✓ Progress: 204/288 (70.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 1015.24s
+✓ Progress: 205/288 (71.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 539.53s
+✓ Progress: 206/288 (71.5%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 531.86s
+✓ Progress: 207/288 (71.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 564.15s
+✓ Progress: 208/288 (72.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 505.18s
+✓ Progress: 209/288 (72.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 513.24s
+✓ Progress: 210/288 (72.9%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 436.73s
+✓ Progress: 211/288 (73.3%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 786.73s
+✓ Progress: 212/288 (73.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 972.26s
+✓ Progress: 213/288 (74.0%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 1712.92s
+✓ Progress: 214/288 (74.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 1469.96s
+✓ Progress: 215/288 (74.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 367.28s
+✓ Progress: 216/288 (75.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 273.51s
+✓ Progress: 217/288 (75.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 368.78s
+✓ Progress: 218/288 (75.7%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 549.8s
+✓ Progress: 219/288 (76.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 565.8s
+✓ Progress: 220/288 (76.4%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 648.55s
+✓ Progress: 221/288 (76.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 552.49s
+✓ Progress: 222/288 (77.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 363.35s
+✓ Progress: 223/288 (77.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 517.13s
+✓ Progress: 224/288 (77.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 511.62s
+✓ Progress: 225/288 (78.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 694.55s
+✓ Progress: 226/288 (78.5%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 1051.02s
+✓ Progress: 227/288 (78.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 719.06s
+✓ Progress: 228/288 (79.2%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 490.29s
+✓ Progress: 229/288 (79.5%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 560.82s
+✓ Progress: 230/288 (79.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 802.5s
+✓ Progress: 231/288 (80.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 1047.41s
+✓ Progress: 232/288 (80.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 1406.11s
+✓ Progress: 233/288 (80.9%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 1513.5s
+✓ Progress: 234/288 (81.2%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 911.24s
+✓ Progress: 235/288 (81.6%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 546.64s
+✓ Progress: 236/288 (81.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 433.95s
+✓ Progress: 237/288 (82.3%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 292.18s
+✓ Progress: 238/288 (82.6%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 242.2s
+✓ Progress: 239/288 (83.0%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 312.17s
+✓ Progress: 240/288 (83.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 547.33s
+✓ Progress: 241/288 (83.7%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 673.78s
+✓ Progress: 242/288 (84.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 910.5s
+✓ Progress: 243/288 (84.4%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 742.18s
+✓ Progress: 244/288 (84.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 294.52s
+✓ Progress: 245/288 (85.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 362.83s
+✓ Progress: 246/288 (85.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 380.54s
+✓ Progress: 247/288 (85.8%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 465.71s
+✓ Progress: 248/288 (86.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 900.55s
+✓ Progress: 249/288 (86.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1120.3s
+✓ Progress: 250/288 (86.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 960.27s
+✓ Progress: 251/288 (87.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 633.87s
+✓ Progress: 252/288 (87.5%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 651.17s
+✓ Progress: 253/288 (87.8%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 712.63s
+✓ Progress: 254/288 (88.2%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 540.91s
+✓ Progress: 255/288 (88.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 439.37s
+✓ Progress: 256/288 (88.9%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 388.97s
+✓ Progress: 257/288 (89.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 859.77s
+✓ Progress: 258/288 (89.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 1143.19s
+✓ Progress: 259/288 (89.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 705.45s
+✓ Progress: 260/288 (90.3%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 360.39s
+✓ Progress: 261/288 (90.6%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 603.7s
+✓ Progress: 262/288 (91.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 749.82s
+✓ Progress: 263/288 (91.3%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 805.21s
+✓ Progress: 264/288 (91.7%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 654.28s
+✓ Progress: 265/288 (92.0%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 650.49s
+✓ Progress: 266/288 (92.4%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 602.82s
+✓ Progress: 267/288 (92.7%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 319.84s
+✓ Progress: 268/288 (93.1%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 811.88s
+✓ Progress: 269/288 (93.4%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 1327.95s
+✓ Progress: 270/288 (93.8%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1044.24s
+✓ Progress: 271/288 (94.1%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 529.01s
+✓ Progress: 272/288 (94.4%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 393.52s
+✓ Progress: 273/288 (94.8%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 421.23s
+✓ Progress: 274/288 (95.1%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 1427.63s
+✓ Progress: 275/288 (95.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 1316.41s
+✓ Progress: 276/288 (95.8%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 325.86s
+✓ Progress: 277/288 (96.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 400.87s
+✓ Progress: 278/288 (96.5%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 751.82s
+✓ Progress: 279/288 (96.9%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 1247.74s
+✓ Progress: 280/288 (97.2%) - Processed gestion#2017-05-15#04.tiff with deepseek-r1 in 826.61s
+✓ Progress: 281/288 (97.6%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 390.52s
+✓ Progress: 282/288 (97.9%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 679.03s
+✓ Progress: 283/288 (98.3%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 683.21s
+✓ Progress: 284/288 (98.6%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 390.97s
+✓ Progress: 285/288 (99.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 674.41s
+✓ Progress: 286/288 (99.3%) - Processed gestion#2015-09-10#04.tiff with deepseek-r1 in 881.41s
+✓ Progress: 287/288 (99.7%) - Processed gestion#2014-06-02#01.tiff with deepseek-r1 in 449.37s
+✓ Progress: 288/288 (100.0%) - Processed gestion#2019-07-12#01.tiff with deepseek-r1 in 100833.53s
+
+============================================================
+Completed processing for deepseek-r1
+Total processing time: 115385.14 seconds
+Average time per result: 400.64 seconds
+
+Saving results to CSV files...
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_olmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_rolmocr_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_nanonets_deepseek-r1.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_rolmocr_deepseek-r1.csv
+✓ Successfully saved: 288 files
+✗ Errors encountered: 0 files
+============================================================
+================================================================================
+                                 FINAL SUMMARY                                  
+================================================================================
+Total execution time: 115385.21 seconds
+Models processed: 1
+Total OCR results per model: 288
+Total processing tasks: 288
+================================================================================

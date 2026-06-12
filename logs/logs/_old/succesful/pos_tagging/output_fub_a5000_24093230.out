@@ -1,0 +1,22 @@
+Loading modules...
+Activating virtual environment...
+Running python script...
+Loaded 1 lexems from data/csv/pos_tagging/lexems.txt
+Loaded 217 existing POS codes from logs/pos_codes.json
+Found 1 CSV files to process 
+
+Processing data/csv/pos_tagging/economia_informal_df.csv...
+Found 183 rows with lexems
+Added 0 new POS structures
+Total POS codes: 217
+
+Saved annotated data to results/csv/pos_tagging/economia_informal_df_pos_2025-10-03.csv
+Saved 217 POS codes to logs/pos_codes.json
+
+=== Processing Complete ===
+Files processed: 1/1
+Total POS patterns discovered: 217
+Results saved to: ./data/csv/pos_tagging
+Time needed: 180.63535141944885 seconds
+Average time per csv: 180.63535141944885
+Script finished successfully

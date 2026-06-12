@@ -1,0 +1,23 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 81079.12 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 100 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251118_090255
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+Traceback (most recent call last):
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v4.py", line 1509, in <module>
+    main()
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v4.py", line 1498, in main
+    train(config)
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v4.py", line 1149, in train
+    df = load_and_prepare_data(config)
+         ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'load_and_prepare_data' is not defined
+Script finished successfully

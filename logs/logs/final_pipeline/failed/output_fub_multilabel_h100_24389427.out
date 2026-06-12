@@ -1,0 +1,340 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 81079.12 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 1200 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251116_230411
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+⚠️ Limited to 1200 samples for testing
+📊 Dataset: 1200 samples, 5 tasks
+🏷️ Tasks: ['modernizante', 'estructuralista', 'neoliberal', 'posmoderna', 'voluntarista']
+============================================================
+📈 ANÁLISIS DE DISTRIBUCIÓN DEL DATASET
+============================================================
+1️⃣ Analizando distribución de clases...
+   📊 Resumen Global:
+   - Total samples: 1200
+   - Severidad general: SEVERE
+   - IR promedio: 142.02
+   - IR máximo: 592.00
+   - Tarea más desbalanceada: posmoderna
+   📋 Detalles por tarea:
+   - modernizante        : IR= 3.05 | Entropy=0.81 | Minority=24.7% | [moderate]
+   - estructuralista     : IR= 4.90 | Entropy=1.26 | Minority=13.4% | [moderate]
+   - neoliberal          : IR=26.00 | Entropy=1.02 | Minority=2.7% | [severe]
+   - posmoderna          : IR=592.00 | Entropy=0.11 | Minority=0.2% | [severe]
+   - voluntarista        : IR=84.12 | Entropy=1.04 | Minority=0.7% | [severe]
+2️⃣ Analizando combinaciones de etiquetas...
+   🔢 Estadísticas de combinaciones:
+   - Combinaciones únicas: 49
+   - Combinaciones posibles: 243
+   - Cobertura: 20.2%
+   - Combinaciones raras (<5 samples): 30 (61.2%)
+   ⚡ Casos extremos:
+   - All positive [1,1,1,1,1]: 0 (0.00%)
+   - All negative [-1,-1,-1,-1,-1]: 0 (0.00%)
+   - All neutral [0,0,0,0,0]: 319 (26.58%)
+3️⃣ Dividiendo datos en train/val/test...
+Traceback (most recent call last):
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1532, in <module>
+    main()
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1521, in main
+    train(config)
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1182, in train
+    class_distributions, class_weights = evaluate_dataset(df, config)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1060, in evaluate_dataset
+    train_df, val_df, test_df = split_data(df, random_seed=config.random_seed) # 70/15/15
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 979, in split_data
+    train_df, val_df = train_test_split(train_val_df, test_size=val_size, random_state=random_seed, stratify = df["newspaper"])
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2940, in train_test_split
+    train, test = next(cv.split(X=arrays[0], y=stratify))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 1926, in split
+    X, y, groups = indexable(X, y, groups)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 530, in indexable
+    check_consistent_length(*result)
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 473, in check_consistent_length
+    raise ValueError(
+ValueError: Found input variables with inconsistent numbers of samples: [1020, 1200]
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 81079.12 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 1000 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251116_230423
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+⚠️ Limited to 1000 samples for testing
+📊 Dataset: 1000 samples, 5 tasks
+🏷️ Tasks: ['modernizante', 'estructuralista', 'neoliberal', 'posmoderna', 'voluntarista']
+============================================================
+📈 ANÁLISIS DE DISTRIBUCIÓN DEL DATASET
+============================================================
+1️⃣ Analizando distribución de clases...
+   📊 Resumen Global:
+   - Total samples: 1000
+   - Severidad general: SEVERE
+   - IR promedio: 124.17
+   - IR máximo: 492.00
+   - Tarea más desbalanceada: posmoderna
+   📋 Detalles por tarea:
+   - modernizante        : IR= 2.82 | Entropy=0.83 | Minority=26.2% | [balanced]
+   - estructuralista     : IR= 4.70 | Entropy=1.30 | Minority=13.5% | [moderate]
+   - neoliberal          : IR=26.15 | Entropy=1.00 | Minority=2.7% | [severe]
+   - posmoderna          : IR=492.00 | Entropy=0.13 | Minority=0.2% | [severe]
+   - voluntarista        : IR=95.17 | Entropy=1.03 | Minority=0.6% | [severe]
+2️⃣ Analizando combinaciones de etiquetas...
+   🔢 Estadísticas de combinaciones:
+   - Combinaciones únicas: 49
+   - Combinaciones posibles: 243
+   - Cobertura: 20.2%
+   - Combinaciones raras (<5 samples): 31 (63.3%)
+   ⚡ Casos extremos:
+   - All positive [1,1,1,1,1]: 0 (0.00%)
+   - All negative [-1,-1,-1,-1,-1]: 0 (0.00%)
+   - All neutral [0,0,0,0,0]: 279 (27.90%)
+3️⃣ Dividiendo datos en train/val/test...
+Traceback (most recent call last):
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1532, in <module>
+    main()
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1521, in main
+    train(config)
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1182, in train
+    class_distributions, class_weights = evaluate_dataset(df, config)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1060, in evaluate_dataset
+    train_df, val_df, test_df = split_data(df, random_seed=config.random_seed) # 70/15/15
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 979, in split_data
+    train_df, val_df = train_test_split(train_val_df, test_size=val_size, random_state=random_seed, stratify = df["newspaper"])
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2940, in train_test_split
+    train, test = next(cv.split(X=arrays[0], y=stratify))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 1926, in split
+    X, y, groups = indexable(X, y, groups)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 530, in indexable
+    check_consistent_length(*result)
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 473, in check_consistent_length
+    raise ValueError(
+ValueError: Found input variables with inconsistent numbers of samples: [850, 1000]
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 81079.12 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 800 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251116_230432
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+⚠️ Limited to 800 samples for testing
+📊 Dataset: 800 samples, 5 tasks
+🏷️ Tasks: ['modernizante', 'estructuralista', 'neoliberal', 'posmoderna', 'voluntarista']
+============================================================
+📈 ANÁLISIS DE DISTRIBUCIÓN DEL DATASET
+============================================================
+1️⃣ Analizando distribución de clases...
+   📊 Resumen Global:
+   - Total samples: 800
+   - Severidad general: SEVERE
+   - IR promedio: 103.64
+   - IR máximo: 392.00
+   - Tarea más desbalanceada: posmoderna
+   📋 Detalles por tarea:
+   - modernizante        : IR= 2.52 | Entropy=0.86 | Minority=28.4% | [balanced]
+   - estructuralista     : IR= 4.22 | Entropy=1.34 | Minority=14.4% | [moderate]
+   - neoliberal          : IR=25.64 | Entropy=1.01 | Minority=2.8% | [severe]
+   - posmoderna          : IR=392.00 | Entropy=0.15 | Minority=0.2% | [severe]
+   - voluntarista        : IR=93.80 | Entropy=1.03 | Minority=0.6% | [severe]
+2️⃣ Analizando combinaciones de etiquetas...
+   🔢 Estadísticas de combinaciones:
+   - Combinaciones únicas: 47
+   - Combinaciones posibles: 243
+   - Cobertura: 19.3%
+   - Combinaciones raras (<5 samples): 26 (55.3%)
+   ⚡ Casos extremos:
+   - All positive [1,1,1,1,1]: 0 (0.00%)
+   - All negative [-1,-1,-1,-1,-1]: 0 (0.00%)
+   - All neutral [0,0,0,0,0]: 225 (28.12%)
+3️⃣ Dividiendo datos en train/val/test...
+Traceback (most recent call last):
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1532, in <module>
+    main()
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1521, in main
+    train(config)
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1182, in train
+    class_distributions, class_weights = evaluate_dataset(df, config)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1060, in evaluate_dataset
+    train_df, val_df, test_df = split_data(df, random_seed=config.random_seed) # 70/15/15
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 979, in split_data
+    train_df, val_df = train_test_split(train_val_df, test_size=val_size, random_state=random_seed, stratify = df["newspaper"])
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2940, in train_test_split
+    train, test = next(cv.split(X=arrays[0], y=stratify))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 1926, in split
+    X, y, groups = indexable(X, y, groups)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 530, in indexable
+    check_consistent_length(*result)
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 473, in check_consistent_length
+    raise ValueError(
+ValueError: Found input variables with inconsistent numbers of samples: [680, 800]
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 81079.12 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 1100 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251116_230441
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+⚠️ Limited to 1100 samples for testing
+📊 Dataset: 1100 samples, 5 tasks
+🏷️ Tasks: ['modernizante', 'estructuralista', 'neoliberal', 'posmoderna', 'voluntarista']
+============================================================
+📈 ANÁLISIS DE DISTRIBUCIÓN DEL DATASET
+============================================================
+1️⃣ Analizando distribución de clases...
+   📊 Resumen Global:
+   - Total samples: 1100
+   - Severidad general: SEVERE
+   - IR promedio: 135.52
+   - IR máximo: 542.00
+   - Tarea más desbalanceada: posmoderna
+   📋 Detalles por tarea:
+   - modernizante        : IR= 2.93 | Entropy=0.82 | Minority=25.5% | [balanced]
+   - estructuralista     : IR= 4.66 | Entropy=1.28 | Minority=13.8% | [moderate]
+   - neoliberal          : IR=24.00 | Entropy=1.02 | Minority=2.9% | [severe]
+   - posmoderna          : IR=542.00 | Entropy=0.12 | Minority=0.2% | [severe]
+   - voluntarista        : IR=104.00 | Entropy=1.03 | Minority=0.5% | [severe]
+2️⃣ Analizando combinaciones de etiquetas...
+   🔢 Estadísticas de combinaciones:
+   - Combinaciones únicas: 49
+   - Combinaciones posibles: 243
+   - Cobertura: 20.2%
+   - Combinaciones raras (<5 samples): 30 (61.2%)
+   ⚡ Casos extremos:
+   - All positive [1,1,1,1,1]: 0 (0.00%)
+   - All negative [-1,-1,-1,-1,-1]: 0 (0.00%)
+   - All neutral [0,0,0,0,0]: 297 (27.00%)
+3️⃣ Dividiendo datos en train/val/test...
+Traceback (most recent call last):
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1532, in <module>
+    main()
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1521, in main
+    train(config)
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1182, in train
+    class_distributions, class_weights = evaluate_dataset(df, config)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1060, in evaluate_dataset
+    train_df, val_df, test_df = split_data(df, random_seed=config.random_seed) # 70/15/15
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 979, in split_data
+    train_df, val_df = train_test_split(train_val_df, test_size=val_size, random_state=random_seed, stratify = df["newspaper"])
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2940, in train_test_split
+    train, test = next(cv.split(X=arrays[0], y=stratify))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 1926, in split
+    X, y, groups = indexable(X, y, groups)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 530, in indexable
+    check_consistent_length(*result)
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 473, in check_consistent_length
+    raise ValueError(
+ValueError: Found input variables with inconsistent numbers of samples: [935, 1100]
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 81079.12 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 900 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251116_230449
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+⚠️ Limited to 900 samples for testing
+📊 Dataset: 900 samples, 5 tasks
+🏷️ Tasks: ['modernizante', 'estructuralista', 'neoliberal', 'posmoderna', 'voluntarista']
+============================================================
+📈 ANÁLISIS DE DISTRIBUCIÓN DEL DATASET
+============================================================
+1️⃣ Analizando distribución de clases...
+   📊 Resumen Global:
+   - Total samples: 900
+   - Severidad general: SEVERE
+   - IR promedio: 112.06
+   - IR máximo: 442.00
+   - Tarea más desbalanceada: posmoderna
+   📋 Detalles por tarea:
+   - modernizante        : IR= 2.80 | Entropy=0.83 | Minority=26.3% | [balanced]
+   - estructuralista     : IR= 4.36 | Entropy=1.33 | Minority=14.1% | [moderate]
+   - neoliberal          : IR=24.31 | Entropy=1.02 | Minority=2.9% | [severe]
+   - posmoderna          : IR=442.00 | Entropy=0.14 | Minority=0.2% | [severe]
+   - voluntarista        : IR=86.83 | Entropy=1.03 | Minority=0.7% | [severe]
+2️⃣ Analizando combinaciones de etiquetas...
+   🔢 Estadísticas de combinaciones:
+   - Combinaciones únicas: 49
+   - Combinaciones posibles: 243
+   - Cobertura: 20.2%
+   - Combinaciones raras (<5 samples): 30 (61.2%)
+   ⚡ Casos extremos:
+   - All positive [1,1,1,1,1]: 0 (0.00%)
+   - All negative [-1,-1,-1,-1,-1]: 0 (0.00%)
+   - All neutral [0,0,0,0,0]: 255 (28.33%)
+3️⃣ Dividiendo datos en train/val/test...
+Traceback (most recent call last):
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1532, in <module>
+    main()
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1521, in main
+    train(config)
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1182, in train
+    class_distributions, class_weights = evaluate_dataset(df, config)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 1060, in evaluate_dataset
+    train_df, val_df, test_df = split_data(df, random_seed=config.random_seed) # 70/15/15
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/./src/multi_label/multi_label_v3.py", line 979, in split_data
+    train_df, val_df = train_test_split(train_val_df, test_size=val_size, random_state=random_seed, stratify = df["newspaper"])
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2940, in train_test_split
+    train, test = next(cv.split(X=arrays[0], y=stratify))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 1926, in split
+    X, y, groups = indexable(X, y, groups)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 530, in indexable
+    check_consistent_length(*result)
+  File "/home/nicolasal97/gec_extractor/venv/multi_label/lib/python3.12/site-packages/sklearn/utils/validation.py", line 473, in check_consistent_length
+    raise ValueError(
+ValueError: Found input variables with inconsistent numbers of samples: [765, 900]
+Script finished successfully

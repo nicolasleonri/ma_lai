@@ -1,0 +1,177 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+Processing all dataframes with 1 workers
+Processed 1000 rows...
+Total valid documents: 1442
+Processing 167 CSV files from ./results/csv/ojo/2015/
+
+==================================================
+Processing with model: hiiamsid/sentence_similarity_spanish_es
+==================================================
+GPU Memory: 0, 81080
+Initializing time: 3.28 seconds
+GPU Memory: 757, 80324
+Training BERTopic model with hiiamsid/sentence_similarity_spanish_es
+2025-09-25 08:15:10,379 - BERTopic - Embedding - Transforming documents to embeddings.
+Batches:   0%|          | 0/46 [00:00<?, ?it/s]Batches:   2%|▏         | 1/46 [00:00<00:06,  6.77it/s]Batches:  15%|█▌        | 7/46 [00:00<00:01, 32.80it/s]Batches:  35%|███▍      | 16/46 [00:00<00:00, 55.86it/s]Batches:  57%|█████▋    | 26/46 [00:00<00:00, 71.61it/s]Batches:  80%|████████  | 37/46 [00:00<00:00, 82.78it/s]Batches: 100%|██████████| 46/46 [00:00<00:00, 82.06it/s]Batches: 100%|██████████| 46/46 [00:00<00:00, 68.53it/s]
+2025-09-25 08:15:11,067 - BERTopic - Embedding - Completed ✓
+2025-09-25 08:15:11,067 - BERTopic - Guided - Find embeddings highly related to seeded topics.
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 102.19it/s]
+2025-09-25 08:15:11,103 - BERTopic - Guided - Completed ✓
+2025-09-25 08:15:11,103 - BERTopic - Dimensionality - Fitting the dimensionality reduction algorithm
+UMAP(low_memory=False, min_dist=0.0, n_components=15, n_jobs=1, n_neighbors=30, random_state=42, verbose=True)
+Thu Sep 25 08:15:11 2025 Construct fuzzy simplicial set
+Thu Sep 25 08:15:11 2025 Finding Nearest Neighbors
+Thu Sep 25 08:15:14 2025 Finished Nearest Neighbor Search
+Thu Sep 25 08:15:15 2025 Construct embedding
+Epochs completed:   0%|            0/500 [00:00]	completed  0  /  500 epochs
+Epochs completed:   0%|            1/500 [00:00]Epochs completed:   2%| ▏          12/500 [00:00]Epochs completed:   4%| ▍          21/500 [00:00]Epochs completed:   6%| ▌          30/500 [00:00]Epochs completed:   8%| ▊          38/500 [00:00]Epochs completed:   9%| ▉          47/500 [00:00]	completed  50  /  500 epochs
+Epochs completed:  11%| █          56/500 [00:00]Epochs completed:  13%| █▎         65/500 [00:01]Epochs completed:  15%| █▍         74/500 [00:01]Epochs completed:  17%| █▋         83/500 [00:01]Epochs completed:  18%| █▊         92/500 [00:01]	completed  100  /  500 epochs
+Epochs completed:  20%| ██         101/500 [00:01]Epochs completed:  22%| ██▏        110/500 [00:01]Epochs completed:  24%| ██▍        119/500 [00:01]Epochs completed:  26%| ██▌        128/500 [00:01]Epochs completed:  27%| ██▋        137/500 [00:01]Epochs completed:  29%| ██▉        146/500 [00:02]	completed  150  /  500 epochs
+Epochs completed:  31%| ███        155/500 [00:02]Epochs completed:  33%| ███▎       164/500 [00:02]Epochs completed:  35%| ███▍       173/500 [00:02]Epochs completed:  36%| ███▋       182/500 [00:02]Epochs completed:  38%| ███▊       191/500 [00:02]Epochs completed:  40%| ████       200/500 [00:02]	completed  200  /  500 epochs
+Epochs completed:  42%| ████▏      209/500 [00:02]Epochs completed:  44%| ████▎      218/500 [00:02]Epochs completed:  45%| ████▌      227/500 [00:03]Epochs completed:  47%| ████▋      236/500 [00:03]Epochs completed:  49%| ████▉      245/500 [00:03]	completed  250  /  500 epochs
+Epochs completed:  51%| █████      254/500 [00:03]Epochs completed:  53%| █████▎     263/500 [00:03]Epochs completed:  54%| █████▍     272/500 [00:03]Epochs completed:  56%| █████▌     281/500 [00:03]Epochs completed:  58%| █████▊     290/500 [00:03]Epochs completed:  60%| █████▉     299/500 [00:04]	completed  300  /  500 epochs
+Epochs completed:  62%| ██████▏    308/500 [00:04]Epochs completed:  63%| ██████▎    317/500 [00:04]Epochs completed:  65%| ██████▌    326/500 [00:04]Epochs completed:  67%| ██████▋    335/500 [00:04]Epochs completed:  69%| ██████▉    344/500 [00:04]	completed  350  /  500 epochs
+Epochs completed:  71%| ███████    353/500 [00:04]Epochs completed:  72%| ███████▏   362/500 [00:04]Epochs completed:  74%| ███████▍   371/500 [00:04]Epochs completed:  76%| ███████▌   380/500 [00:05]Epochs completed:  78%| ███████▊   389/500 [00:05]Epochs completed:  80%| ███████▉   398/500 [00:05]	completed  400  /  500 epochs
+Epochs completed:  81%| ████████▏  407/500 [00:05]Epochs completed:  83%| ████████▎  416/500 [00:05]Epochs completed:  85%| ████████▌  425/500 [00:05]Epochs completed:  87%| ████████▋  434/500 [00:05]Epochs completed:  89%| ████████▊  443/500 [00:05]	completed  450  /  500 epochs
+Epochs completed:  90%| █████████  452/500 [00:05]Epochs completed:  92%| █████████▏ 461/500 [00:06]Epochs completed:  94%| █████████▍ 470/500 [00:06]Epochs completed:  96%| █████████▌ 479/500 [00:06]Epochs completed:  98%| █████████▊ 488/500 [00:06]Epochs completed:  99%| █████████▉ 497/500 [00:06]Epochs completed: 100%| ██████████ 500/500 [00:06]
+Thu Sep 25 08:15:22 2025 Finished embedding
+2025-09-25 08:15:22,140 - BERTopic - Dimensionality - Completed ✓
+2025-09-25 08:15:22,140 - BERTopic - Cluster - Start clustering the reduced embeddings
+2025-09-25 08:15:22,254 - BERTopic - Cluster - Completed ✓
+2025-09-25 08:15:22,257 - BERTopic - Representation - Fine-tuning topics using representation models.
+2025-09-25 08:15:23,514 - BERTopic - Representation - Completed ✓
+Training time: 13.26 seconds
+Number of topics: 46
+2025-09-25 08:15:23,634 - BERTopic - WARNING: When you use `pickle` to save/load a BERTopic model,please make sure that the environments in which you saveand load the model are **exactly** the same. The version of BERTopic,its dependencies, and python need to remain the same.
+Topic info (head):
+   Topic  ...                                Representative_Docs
+0     -1  ...  [ALLISON CADENILLAS – ¿QUÉ HACER SI SU HIJO RE...
+1      0  ...  [Julio Chatá según su Institución integran Red...
+2      1  ...  [Simulacro nacional destaca vulnerabilidades a...
+3      2  ...  [Agenda para Celebrar el Año Nuevo. Este jueve...
+4      3  ...  [Arrancamos con Todo.. Felicitaciones a la org...
+
+[5 rows x 5 columns]
+Total no of topics: 47
+Completed: hiiamsid/sentence_similarity_spanish_es
+Models saved or loaded (so far): ['/scratch/nicolasal97/gec_extractor/results/models/bertopic/bertopic_model_sentence_similarity_spanish_es_ojo_2025-09-25']
+
+==================================================
+Processing with model: Qwen/Qwen3-Embedding-8B
+==================================================
+GPU Memory: 721, 80360
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:05,  1.97s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:34<00:40, 20.15s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [01:17<00:30, 30.40s/it]Loading checkpoint shards: 100%|██████████| 4/4 [01:20<00:00, 19.57s/it]Loading checkpoint shards: 100%|██████████| 4/4 [01:20<00:00, 20.10s/it]
+Initializing time: 84.17 seconds
+GPU Memory: 15301, 65780
+Training BERTopic model with Qwen/Qwen3-Embedding-8B
+2025-09-25 08:16:56,226 - BERTopic - Embedding - Transforming documents to embeddings.
+Batches:   0%|          | 0/46 [00:00<?, ?it/s]Batches:   2%|▏         | 1/46 [00:00<00:43,  1.05it/s]Batches:   4%|▍         | 2/46 [00:01<00:27,  1.61it/s]Batches:   7%|▋         | 3/46 [00:01<00:20,  2.15it/s]Batches:   9%|▊         | 4/46 [00:01<00:15,  2.71it/s]Batches:  11%|█         | 5/46 [00:02<00:12,  3.30it/s]Batches:  13%|█▎        | 6/46 [00:02<00:10,  3.82it/s]Batches:  15%|█▌        | 7/46 [00:02<00:09,  4.22it/s]Batches:  17%|█▋        | 8/46 [00:02<00:08,  4.52it/s]Batches:  20%|█▉        | 9/46 [00:02<00:07,  4.99it/s]Batches:  22%|██▏       | 10/46 [00:02<00:06,  5.57it/s]Batches:  24%|██▍       | 11/46 [00:03<00:05,  5.95it/s]Batches:  26%|██▌       | 12/46 [00:03<00:05,  6.49it/s]Batches:  28%|██▊       | 13/46 [00:03<00:04,  6.94it/s]Batches:  30%|███       | 14/46 [00:03<00:04,  7.49it/s]Batches:  33%|███▎      | 15/46 [00:03<00:04,  7.57it/s]Batches:  35%|███▍      | 16/46 [00:03<00:03,  7.68it/s]Batches:  37%|███▋      | 17/46 [00:03<00:03,  7.88it/s]Batches:  39%|███▉      | 18/46 [00:03<00:03,  7.81it/s]Batches:  41%|████▏     | 19/46 [00:03<00:03,  7.95it/s]Batches:  43%|████▎     | 20/46 [00:04<00:03,  8.01it/s]Batches:  46%|████▌     | 21/46 [00:04<00:02,  8.50it/s]Batches:  48%|████▊     | 22/46 [00:04<00:02,  8.69it/s]Batches:  50%|█████     | 23/46 [00:04<00:02,  8.93it/s]Batches:  52%|█████▏    | 24/46 [00:04<00:02,  8.96it/s]Batches:  57%|█████▋    | 26/46 [00:04<00:02,  9.33it/s]Batches:  59%|█████▊    | 27/46 [00:04<00:02,  9.36it/s]Batches:  63%|██████▎   | 29/46 [00:05<00:01,  9.95it/s]Batches:  67%|██████▋   | 31/46 [00:05<00:01, 10.31it/s]Batches:  72%|███████▏  | 33/46 [00:05<00:01, 10.70it/s]Batches:  76%|███████▌  | 35/46 [00:05<00:00, 11.34it/s]Batches:  80%|████████  | 37/46 [00:05<00:00, 11.52it/s]Batches:  85%|████████▍ | 39/46 [00:05<00:00, 12.13it/s]Batches:  89%|████████▉ | 41/46 [00:06<00:00, 12.50it/s]Batches:  93%|█████████▎| 43/46 [00:06<00:00, 13.04it/s]Batches:  98%|█████████▊| 45/46 [00:06<00:00, 14.18it/s]Batches: 100%|██████████| 46/46 [00:06<00:00,  7.30it/s]
+2025-09-25 08:17:02,548 - BERTopic - Embedding - Completed ✓
+2025-09-25 08:17:02,548 - BERTopic - Guided - Find embeddings highly related to seeded topics.
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 25.39it/s]
+2025-09-25 08:17:02,652 - BERTopic - Guided - Completed ✓
+2025-09-25 08:17:02,652 - BERTopic - Dimensionality - Fitting the dimensionality reduction algorithm
+UMAP(low_memory=False, min_dist=0.0, n_components=15, n_jobs=1, n_neighbors=30, random_state=42, verbose=True)
+Thu Sep 25 08:17:02 2025 Construct fuzzy simplicial set
+Thu Sep 25 08:17:03 2025 Finding Nearest Neighbors
+Thu Sep 25 08:17:04 2025 Finished Nearest Neighbor Search
+Thu Sep 25 08:17:04 2025 Construct embedding
+Epochs completed:   0%|            0/500 [00:00]	completed  0  /  500 epochs
+Epochs completed:   2%| ▏          12/500 [00:00]Epochs completed:   5%| ▍          24/500 [00:00]Epochs completed:   7%| ▋          35/500 [00:00]Epochs completed:   9%| ▉          45/500 [00:00]	completed  50  /  500 epochs
+Epochs completed:  11%| █          55/500 [00:00]Epochs completed:  13%| █▎         65/500 [00:00]Epochs completed:  15%| █▌         75/500 [00:00]Epochs completed:  17%| █▋         84/500 [00:00]Epochs completed:  19%| █▊         93/500 [00:01]	completed  100  /  500 epochs
+Epochs completed:  20%| ██         102/500 [00:01]Epochs completed:  22%| ██▏        111/500 [00:01]Epochs completed:  24%| ██▍        120/500 [00:01]Epochs completed:  26%| ██▌        129/500 [00:01]Epochs completed:  28%| ██▊        138/500 [00:01]Epochs completed:  29%| ██▉        147/500 [00:01]	completed  150  /  500 epochs
+Epochs completed:  31%| ███        156/500 [00:01]Epochs completed:  33%| ███▎       165/500 [00:01]Epochs completed:  35%| ███▍       174/500 [00:01]Epochs completed:  37%| ███▋       183/500 [00:02]Epochs completed:  38%| ███▊       192/500 [00:02]	completed  200  /  500 epochs
+Epochs completed:  40%| ████       201/500 [00:02]Epochs completed:  42%| ████▏      210/500 [00:02]Epochs completed:  44%| ████▍      219/500 [00:02]Epochs completed:  46%| ████▌      228/500 [00:02]Epochs completed:  47%| ████▋      237/500 [00:02]Epochs completed:  49%| ████▉      246/500 [00:02]	completed  250  /  500 epochs
+Epochs completed:  51%| █████      255/500 [00:02]Epochs completed:  53%| █████▎     264/500 [00:03]Epochs completed:  55%| █████▍     273/500 [00:03]Epochs completed:  56%| █████▋     282/500 [00:03]Epochs completed:  58%| █████▊     291/500 [00:03]Epochs completed:  60%| ██████     300/500 [00:03]	completed  300  /  500 epochs
+Epochs completed:  62%| ██████▏    309/500 [00:03]Epochs completed:  64%| ██████▎    318/500 [00:03]Epochs completed:  65%| ██████▌    327/500 [00:03]Epochs completed:  67%| ██████▋    336/500 [00:03]Epochs completed:  69%| ██████▉    345/500 [00:03]	completed  350  /  500 epochs
+Epochs completed:  71%| ███████    354/500 [00:04]Epochs completed:  73%| ███████▎   363/500 [00:04]Epochs completed:  74%| ███████▍   372/500 [00:04]Epochs completed:  76%| ███████▌   381/500 [00:04]Epochs completed:  78%| ███████▊   390/500 [00:04]Epochs completed:  80%| ███████▉   399/500 [00:04]	completed  400  /  500 epochs
+Epochs completed:  82%| ████████▏  408/500 [00:04]Epochs completed:  83%| ████████▎  417/500 [00:04]Epochs completed:  85%| ████████▌  426/500 [00:04]Epochs completed:  87%| ████████▋  435/500 [00:04]Epochs completed:  89%| ████████▉  444/500 [00:05]	completed  450  /  500 epochs
+Epochs completed:  91%| █████████  453/500 [00:05]Epochs completed:  92%| █████████▏ 462/500 [00:05]Epochs completed:  94%| █████████▍ 471/500 [00:05]Epochs completed:  96%| █████████▌ 480/500 [00:05]Epochs completed:  98%| █████████▊ 489/500 [00:05]Epochs completed: 100%| █████████▉ 498/500 [00:05]Epochs completed: 100%| ██████████ 500/500 [00:05]
+Thu Sep 25 08:17:09 2025 Finished embedding
+2025-09-25 08:17:09,899 - BERTopic - Dimensionality - Completed ✓
+2025-09-25 08:17:09,899 - BERTopic - Cluster - Start clustering the reduced embeddings
+2025-09-25 08:17:10,013 - BERTopic - Cluster - Completed ✓
+2025-09-25 08:17:10,015 - BERTopic - Representation - Fine-tuning topics using representation models.
+Error with Qwen3_Embedding_8B: Input contains NaN.
+❌ Error with Qwen/Qwen3-Embedding-8B: cannot access local variable 'results' where it is not associated with a value
+
+==================================================
+Processing with model: Linq-AI-Research/Linq-Embed-Mistral
+==================================================
+GPU Memory: 725, 80356
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.30s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:04<00:02,  2.60s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:06<00:00,  2.08s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:06<00:00,  2.09s/it]
+Initializing time: 137.54 seconds
+GPU Memory: 14417, 66664
+Training BERTopic model with Linq-AI-Research/Linq-Embed-Mistral
+2025-09-25 08:19:40,303 - BERTopic - Embedding - Transforming documents to embeddings.
+Batches:   0%|          | 0/46 [00:00<?, ?it/s]Batches:   2%|▏         | 1/46 [00:00<00:41,  1.07it/s]Batches:   4%|▍         | 2/46 [00:01<00:28,  1.56it/s]Batches:   7%|▋         | 3/46 [00:01<00:20,  2.09it/s]Batches:   9%|▊         | 4/46 [00:01<00:16,  2.58it/s]Batches:  11%|█         | 5/46 [00:02<00:13,  3.15it/s]Batches:  13%|█▎        | 6/46 [00:02<00:10,  3.66it/s]Batches:  15%|█▌        | 7/46 [00:02<00:09,  4.00it/s]Batches:  17%|█▋        | 8/46 [00:02<00:08,  4.30it/s]Batches:  20%|█▉        | 9/46 [00:02<00:07,  4.79it/s]Batches:  22%|██▏       | 10/46 [00:03<00:07,  5.10it/s]Batches:  24%|██▍       | 11/46 [00:03<00:06,  5.41it/s]Batches:  26%|██▌       | 12/46 [00:03<00:05,  6.02it/s]Batches:  28%|██▊       | 13/46 [00:03<00:05,  6.48it/s]Batches:  30%|███       | 14/46 [00:03<00:04,  7.07it/s]Batches:  33%|███▎      | 15/46 [00:03<00:04,  7.29it/s]Batches:  35%|███▍      | 16/46 [00:03<00:04,  7.18it/s]Batches:  37%|███▋      | 17/46 [00:03<00:03,  7.42it/s]Batches:  39%|███▉      | 18/46 [00:04<00:03,  7.54it/s]Batches:  41%|████▏     | 19/46 [00:04<00:03,  7.60it/s]Batches:  43%|████▎     | 20/46 [00:04<00:03,  7.73it/s]Batches:  46%|████▌     | 21/46 [00:04<00:03,  8.21it/s]Batches:  48%|████▊     | 22/46 [00:04<00:02,  8.15it/s]Batches:  50%|█████     | 23/46 [00:04<00:02,  8.57it/s]Batches:  52%|█████▏    | 24/46 [00:04<00:02,  8.60it/s]Batches:  54%|█████▍    | 25/46 [00:04<00:02,  8.80it/s]Batches:  57%|█████▋    | 26/46 [00:04<00:02,  8.82it/s]Batches:  59%|█████▊    | 27/46 [00:05<00:02,  8.68it/s]Batches:  63%|██████▎   | 29/46 [00:05<00:01,  9.73it/s]Batches:  67%|██████▋   | 31/46 [00:05<00:01, 10.11it/s]Batches:  72%|███████▏  | 33/46 [00:05<00:01, 10.22it/s]Batches:  76%|███████▌  | 35/46 [00:05<00:01, 10.89it/s]Batches:  80%|████████  | 37/46 [00:05<00:00, 11.13it/s]Batches:  85%|████████▍ | 39/46 [00:06<00:00, 11.78it/s]Batches:  89%|████████▉ | 41/46 [00:06<00:00, 12.21it/s]Batches:  93%|█████████▎| 43/46 [00:06<00:00, 12.79it/s]Batches:  98%|█████████▊| 45/46 [00:06<00:00, 14.32it/s]Batches: 100%|██████████| 46/46 [00:06<00:00,  7.04it/s]
+2025-09-25 08:19:46,855 - BERTopic - Embedding - Completed ✓
+2025-09-25 08:19:46,855 - BERTopic - Guided - Find embeddings highly related to seeded topics.
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 26.73it/s]
+2025-09-25 08:19:46,950 - BERTopic - Guided - Completed ✓
+2025-09-25 08:19:46,950 - BERTopic - Dimensionality - Fitting the dimensionality reduction algorithm
+UMAP(low_memory=False, min_dist=0.0, n_components=15, n_jobs=1, n_neighbors=30, random_state=42, verbose=True)
+Thu Sep 25 08:19:46 2025 Construct fuzzy simplicial set
+Thu Sep 25 08:19:48 2025 Finding Nearest Neighbors
+Thu Sep 25 08:19:48 2025 Finished Nearest Neighbor Search
+Thu Sep 25 08:19:48 2025 Construct embedding
+Epochs completed:   0%|            0/500 [00:00]	completed  0  /  500 epochs
+Epochs completed:   2%| ▏          12/500 [00:00]Epochs completed:   5%| ▍          24/500 [00:00]Epochs completed:   7%| ▋          34/500 [00:00]Epochs completed:   9%| ▊          43/500 [00:00]	completed  50  /  500 epochs
+Epochs completed:  10%| █          52/500 [00:00]Epochs completed:  12%| █▏         61/500 [00:00]Epochs completed:  14%| █▍         70/500 [00:00]Epochs completed:  16%| █▌         79/500 [00:00]Epochs completed:  18%| █▊         88/500 [00:01]Epochs completed:  19%| █▉         97/500 [00:01]	completed  100  /  500 epochs
+Epochs completed:  21%| ██         106/500 [00:01]Epochs completed:  23%| ██▎        115/500 [00:01]Epochs completed:  25%| ██▍        124/500 [00:01]Epochs completed:  27%| ██▋        133/500 [00:01]Epochs completed:  28%| ██▊        142/500 [00:01]	completed  150  /  500 epochs
+Epochs completed:  30%| ███        151/500 [00:01]Epochs completed:  32%| ███▏       160/500 [00:01]Epochs completed:  34%| ███▍       169/500 [00:02]Epochs completed:  36%| ███▌       178/500 [00:02]Epochs completed:  37%| ███▋       187/500 [00:02]Epochs completed:  39%| ███▉       196/500 [00:02]	completed  200  /  500 epochs
+Epochs completed:  41%| ████       205/500 [00:02]Epochs completed:  43%| ████▎      214/500 [00:02]Epochs completed:  45%| ████▍      223/500 [00:02]Epochs completed:  46%| ████▋      232/500 [00:02]Epochs completed:  48%| ████▊      241/500 [00:02]Epochs completed:  50%| █████      250/500 [00:03]	completed  250  /  500 epochs
+Epochs completed:  52%| █████▏     259/500 [00:03]Epochs completed:  54%| █████▎     268/500 [00:03]Epochs completed:  55%| █████▌     277/500 [00:03]Epochs completed:  57%| █████▋     286/500 [00:03]Epochs completed:  59%| █████▉     295/500 [00:03]	completed  300  /  500 epochs
+Epochs completed:  61%| ██████     304/500 [00:03]Epochs completed:  63%| ██████▎    313/500 [00:03]Epochs completed:  64%| ██████▍    322/500 [00:03]Epochs completed:  66%| ██████▌    331/500 [00:04]Epochs completed:  68%| ██████▊    340/500 [00:04]Epochs completed:  70%| ██████▉    349/500 [00:04]	completed  350  /  500 epochs
+Epochs completed:  72%| ███████▏   358/500 [00:04]Epochs completed:  73%| ███████▎   367/500 [00:04]Epochs completed:  75%| ███████▌   376/500 [00:04]Epochs completed:  77%| ███████▋   385/500 [00:04]Epochs completed:  79%| ███████▉   394/500 [00:04]	completed  400  /  500 epochs
+Epochs completed:  81%| ████████   403/500 [00:04]Epochs completed:  82%| ████████▏  412/500 [00:05]Epochs completed:  84%| ████████▍  421/500 [00:05]Epochs completed:  86%| ████████▌  430/500 [00:05]Epochs completed:  88%| ████████▊  439/500 [00:05]Epochs completed:  90%| ████████▉  448/500 [00:05]	completed  450  /  500 epochs
+Epochs completed:  91%| █████████▏ 457/500 [00:05]Epochs completed:  93%| █████████▎ 466/500 [00:05]Epochs completed:  95%| █████████▌ 475/500 [00:05]Epochs completed:  97%| █████████▋ 484/500 [00:05]Epochs completed:  99%| █████████▊ 493/500 [00:06]Epochs completed: 100%| ██████████ 500/500 [00:06]
+Thu Sep 25 08:19:54 2025 Finished embedding
+2025-09-25 08:19:54,640 - BERTopic - Dimensionality - Completed ✓
+2025-09-25 08:19:54,640 - BERTopic - Cluster - Start clustering the reduced embeddings
+2025-09-25 08:19:54,761 - BERTopic - Cluster - Completed ✓
+2025-09-25 08:19:54,763 - BERTopic - Representation - Fine-tuning topics using representation models.
+2025-09-25 08:19:59,805 - BERTopic - Representation - Completed ✓
+Training time: 19.63 seconds
+Number of topics: 49
+2025-09-25 08:19:59,934 - BERTopic - WARNING: When you use `pickle` to save/load a BERTopic model,please make sure that the environments in which you saveand load the model are **exactly** the same. The version of BERTopic,its dependencies, and python need to remain the same.
+Topic info (head):
+   Topic  ...                                Representative_Docs
+0     -1  ...  [FALLECE ANDRÉS MORENO, el hombre más Obeso de...
+1      0  ...  [Yo no trajé a Basán REDACCIÓN DEPORTES robert...
+2      1  ...  [Contra viento y marea. Andr y Paula fueron Be...
+3      2  ...  [Michelle Alexander alistá película cómica par...
+4      3  ...  [Sentimental. Discutir pero sin insultar  En t...
+
+[5 rows x 5 columns]
+Total no of topics: 50
+Completed: Linq-AI-Research/Linq-Embed-Mistral
+Models saved or loaded (so far): ['/scratch/nicolasal97/gec_extractor/results/models/bertopic/bertopic_model_sentence_similarity_spanish_es_ojo_2025-09-25', '/scratch/nicolasal97/gec_extractor/results/models/bertopic/bertopic_model_Linq_Embed_Mistral_ojo_2025-09-25']
+Saved models: ['/scratch/nicolasal97/gec_extractor/results/models/bertopic/bertopic_model_sentence_similarity_spanish_es_ojo_2025-09-25', '/scratch/nicolasal97/gec_extractor/results/models/bertopic/bertopic_model_Linq_Embed_Mistral_ojo_2025-09-25']
+
+Processing majority vote from 2 models
+Processing agreement: 1/1442
+Processing agreement: 101/1442
+Processing agreement: 201/1442
+Processing agreement: 301/1442
+Processing agreement: 401/1442
+Processing agreement: 501/1442
+Processing agreement: 601/1442
+Processing agreement: 701/1442
+Processing agreement: 801/1442
+Processing agreement: 901/1442
+Processing agreement: 1001/1442
+Processing agreement: 1101/1442
+Processing agreement: 1201/1442
+Processing agreement: 1301/1442
+Processing agreement: 1401/1442
+
+Writing 314 agreed topics to CSV...
+✅ Results written to: ./results/csv/bertopic/results_topics_ojo_2025-09-25_.csv
+   - model_0_topic, model_0_topic_label, model_0_prob, model_0_agreed_topic_prob
+   - model_1_topic, model_1_topic_label, model_1_prob, model_1_agreed_topic_prob
+⏱️ Total time: 327.52 seconds
+Script finished successfully

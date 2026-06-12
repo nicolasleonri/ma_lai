@@ -1,0 +1,84 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+Looking for JSON files matching: ./results/csv/multi_label/*.json
+
+Processed 123 JSON result files.
+
+============================================================
+LABEL: ESTRUCTURALISTA
+============================================================
+Top 3 models:
+  1. F1=0.6555, Overall Acc=0.8061, Macro F1=0.5526
+     Config: test_results_None_False_True_False_True_1100_accuracy_2025-12-07.json
+  2. F1=0.6247, Overall Acc=0.8024, Macro F1=0.5613
+     Config: test_results_None_False_False_True_True_1100_accuracy_2025-12-07.json
+  3. F1=0.6172, Overall Acc=0.8242, Macro F1=0.6253
+     Config: test_results_None_True_False_False_True_1100_macro_f1_2025-12-14.json
+
+============================================================
+LABEL: MODERNIZANTE
+============================================================
+Top 3 models:
+  1. F1=0.8237, Overall Acc=0.7667, Macro F1=0.5831
+     Config: test_results_None_False_False_False_True_200_macro_f1_2025-12-06.json
+  2. F1=0.7613, Overall Acc=0.8036, Macro F1=0.6040
+     Config: test_results_None_False_True_True_True_1100_macro_f1_2025-12-07.json
+  3. F1=0.7585, Overall Acc=0.7827, Macro F1=0.5693
+     Config: test_results_None_True_False_True_True_1000_accuracy_2025-12-17.json
+
+============================================================
+LABEL: NEOLIBERAL
+============================================================
+Top 3 models:
+  1. F1=0.6205, Overall Acc=0.7111, Macro F1=0.5403
+     Config: test_results_None_False_False_False_True_300_macro_f1_2025-12-06.json
+  2. F1=0.5702, Overall Acc=0.7400, Macro F1=0.5202
+     Config: test_results_None_False_False_False_True_800_macro_f1_2025-12-06.json
+  3. F1=0.5696, Overall Acc=0.7178, Macro F1=0.5869
+     Config: test_results_None_False_False_False_True_600_macro_f1_2025-12-06.json
+
+============================================================
+LABEL: POSMODERNA
+============================================================
+Top 3 models:
+  1. F1=1.0000, Overall Acc=0.7988, Macro F1=0.6656
+     Config: test_results_None_True_True_False_True_1100_accuracy_2025-12-15.json
+  2. F1=1.0000, Overall Acc=0.7674, Macro F1=0.6454
+     Config: test_results_None_False_True_True_True_900_accuracy_2025-12-07.json
+  3. F1=1.0000, Overall Acc=0.8156, Macro F1=0.6220
+     Config: test_results_random_deletion_True_True_False_True_1200_accuracy_2025-12-16.json
+
+============================================================
+LABEL: VOLUNTARISTA
+============================================================
+Top 3 models:
+  1. F1=0.8593, Overall Acc=0.8242, Macro F1=0.6253
+     Config: test_results_None_True_False_False_True_1100_macro_f1_2025-12-14.json
+  2. F1=0.8452, Overall Acc=0.8194, Macro F1=0.6135
+     Config: test_results_random_swap_True_False_False_True_1100_accuracy_2025-12-08.json
+  3. F1=0.8418, Overall Acc=0.8182, Macro F1=0.6225
+     Config: test_results_random_deletion_True_False_False_True_1100_macro_f1_2025-12-14.json
+
+============================================================
+SUMMARY STATISTICS (across all models):
+============================================================
+ESTRUCTURALISTA      | F1: min=0.3324, mean=0.4906, max=0.6555
+MODERNIZANTE         | F1: min=0.4000, mean=0.6421, max=0.8237
+NEOLIBERAL           | F1: min=0.2121, mean=0.4524, max=0.6205
+POSMODERNA           | F1: min=0.3182, mean=0.4944, max=1.0000
+VOLUNTARISTA         | F1: min=0.4472, mean=0.6621, max=0.8593
+
+Results exported to label_f1_results.csv
+
+First few rows of summary table:
+                                                file  ...  voluntarista_f1
+0  test_results_None_False_True_False_True_1000_m...  ...         0.545386
+1  test_results_random_swap_False_False_False_Tru...  ...         0.807337
+2  test_results_None_False_False_False_True_100_a...  ...         0.603175
+3  test_results_random_swap_True_False_False_True...  ...         0.814448
+4  test_results_random_swap_False_True_True_True_...  ...         0.525400
+
+[5 rows x 9 columns]
+Script finished successfully

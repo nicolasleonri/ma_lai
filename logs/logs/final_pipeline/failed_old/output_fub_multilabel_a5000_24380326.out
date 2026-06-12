@@ -1,0 +1,203 @@
+Loading modules...
+Setting folders...
+Activating virtual environment...
+Running python script...
+
+🔍 GPU Memory Usage: Before running main()
+Total available: 24112.25 MB
+Allocated: 0.00 MB
+Reserved : 0.00 MB
+Using only the first 700 samples for training/evaluation
+📁 Checkpoint directory: /scratch/nicolasal97/multi_label/checkpoints/default_20251113_164500
+🚀 Starting (Enhanced) Training Pipeline
+============================================================
+⚠️ Limited to 700 samples for testing
+📊 Dataset: 700 samples, 5 tasks
+🏷️ Tasks: ['modernizante', 'estructuralista', 'neoliberal', 'posmoderna', 'voluntarista']
+============================================================
+📈 ANÁLISIS DE DISTRIBUCIÓN DEL DATASET
+============================================================
+1️⃣ Analizando distribución de clases...
+   📊 Resumen Global:
+   - Total samples: 700
+   - Severidad general: SEVERE
+   - IR promedio: 92.52
+   - IR máximo: 342.50
+   - Tarea más desbalanceada: posmoderna
+   📋 Detalles por tarea:
+   - modernizante        : IR= 2.59 | Entropy=0.85 | Minority=27.9% | [balanced]
+   - estructuralista     : IR= 4.49 | Entropy=1.31 | Minority=13.9% | [moderate]
+   - neoliberal          : IR=28.83 | Entropy=0.95 | Minority=2.6% | [severe]
+   - posmoderna          : IR=342.50 | Entropy=0.16 | Minority=0.3% | [severe]
+   - voluntarista        : IR=84.20 | Entropy=1.02 | Minority=0.7% | [severe]
+2️⃣ Analizando combinaciones de etiquetas...
+   🔢 Estadísticas de combinaciones:
+   - Combinaciones únicas: 45
+   - Combinaciones posibles: 243
+   - Cobertura: 18.5%
+   - Combinaciones raras (<5 samples): 26 (57.8%)
+   ⚡ Casos extremos:
+   - All positive [1,1,1,1,1]: 0 (0.00%)
+   - All negative [-1,-1,-1,-1,-1]: 0 (0.00%)
+   - All neutral [0,0,0,0,0]: 232 (33.14%)
+3️⃣ Dividiendo datos en train/val/test...
+📊 Data split: Train=490, Val=105, Test=105
+   - Train: 490 samples (70.0%)
+   - Val:   105 samples (15.0%)
+   - Test:  105 samples (15.0%)
+4️⃣ Comparando distribuciones entre splits...
+   ⚠️  4 tareas con distribuciones inconsistentes
+   - Desviación máxima: 11.43%
+   Warnings:
+     • modernizante: High distribution deviation detected (11.43%)
+     • modernizante: Some classes missing in train set
+     • modernizante: Some classes missing in val set
+5️⃣ Analizando correlaciones entre tareas...
+   🔗 Score de independencia: 0.872
+   - 0 correlaciones fuertes detectadas (|r| > 0.5)
+   💡 Insights:
+     • No se detectaron correlaciones fuertes entre tareas (todas <0.5)
+     • Las tareas son en general independientes (score=0.872). Multi-task learning puede ser muy beneficioso.
+     • 'modernizante' es la tarea más independiente (correlación promedio=0.088)
+6️⃣ Calculando class weights para loss function...
+   ⚖️  Weights calculados con método: 'effective'
+   Weights por tarea (formato: [-1, 0, 1]):
+   - modernizante        : [2.970, 0.009, 0.021]
+   - estructuralista     : [0.971, 0.366, 1.663]
+   - neoliberal          : [2.580, 0.102, 0.318]
+   - posmoderna          : [2.529, 0.011, 0.460]
+   - voluntarista        : [2.898, 0.039, 0.063]
+7️⃣ Identificando muestras críticas...
+   📌 Estadísticas:
+   - Muestras con todas las etiquetas iguales: 163
+   - Muestras con etiquetas mixtas: 327
+   - Promedio de etiquetas positivas por muestra: 1.06
+   - Promedio de etiquetas negativas por muestra: 0.28
+   ⚠️  Recomendaciones críticas:
+     • ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas positivas. Insuficiente para aprender este patrón. Considerar recolectar más datos.
+     • ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas negativas. Insuficiente para aprender este patrón.
+     • ⚠️ Tarea 'posmoderna': Solo 0 muestras donde es la única etiqueta positiva. Puede dificultar el aprendizaje de esta perspectiva de forma independiente.
+8️⃣ Generando recomendaciones estratégicas...
+   🎯 Estrategia Recomendada:
+   - Severidad: SEVERE
+   - Estrategia primaria: focal_loss_with_class_weights
+   - Estrategias secundarias:
+     • aggressive_oversampling
+     • ensemble_models
+     • task_specific_training
+   🚨 WARNINGS CRÍTICOS:
+     🚨 SEVERO: Desbalanceo extremo detectado (IR>20). Considerar seriamente recolectar más datos de clases minoritarias.
+     ⚠️ 57.8% de combinaciones de etiquetas son raras (<1% o <5 samples). Stratified CV será problemático.
+     ⚠️ Distribuciones train/val/test son inconsistentes. Verificar estrategia de split.
+     ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas positivas. Insuficiente para aprender este patrón. Considerar recolectar más datos.
+     ⚠️ CRÍTICO: Solo 0 muestras con todas las etiquetas negativas. Insuficiente para aprender este patrón.
+     ⚠️ Tarea 'posmoderna': Solo 0 muestras donde es la única etiqueta positiva. Puede dificultar el aprendizaje de esta perspectiva de forma independiente.
+============================================================
+⚠️ Desbalanceo severo detectado. Aplicando parafraseo sintético...
+======================================================================
+🚀 SIMPLE PARAPHRASE AUGMENTATION
+   Modelo: milyiyo/paraphraser-spanish-t5-small
+   Device: cuda
+======================================================================
+📦 Cargando modelo de parafraseo...
+📋 Plan de Augmentation:
+Tarea                Clase    Actual     Target     Generar   
+----------------------------------------------------------------------
+modernizante         -1       0          50         50        
+neoliberal           -1       18         50         32        
+posmoderna           -1       2          50         48        
+posmoderna           1        13         50         37        
+voluntarista         -1       5          50         45        
+----------------------------------------------------------------------
+Total muestras sintéticas a generar: 212
+Generando paráfrasis:   0%|          | 0/5 [00:00<?, ?it/s]⚠️ No hay muestras de modernizante=-1 para augmentar
+Generando paráfrasis:   0%|          | 0/5 [01:52<?, ?it/s, task=neoliberal, class=-1, generated=32]Generando paráfrasis:  40%|████      | 2/5 [01:52<02:48, 56.15s/it, task=neoliberal, class=-1, generated=32]Generando paráfrasis:  40%|████      | 2/5 [02:49<02:48, 56.15s/it, task=posmoderna, class=-1, generated=20]Generando paráfrasis:  60%|██████    | 3/5 [02:49<01:53, 56.74s/it, task=posmoderna, class=-1, generated=20]Generando paráfrasis:  60%|██████    | 3/5 [05:26<01:53, 56.74s/it, task=posmoderna, class=1, generated=37] Generando paráfrasis:  80%|████████  | 4/5 [05:26<01:33, 93.91s/it, task=posmoderna, class=1, generated=37]Generando paráfrasis:  80%|████████  | 4/5 [08:21<01:33, 93.91s/it, task=voluntarista, class=-1, generated=45]Generando paráfrasis: 100%|██████████| 5/5 [08:21<00:00, 122.04s/it, task=voluntarista, class=-1, generated=45]Generando paráfrasis: 100%|██████████| 5/5 [08:21<00:00, 100.21s/it, task=voluntarista, class=-1, generated=45]
+✅ Augmentation completado:
+   - Muestras originales: 700
+   - Muestras sintéticas generadas: 134
+   - Total en dataset balanceado: 834
+📊 Distribución final por tarea:
+   modernizante:
+      Clase  0:  557 total ( 505 orig +   52 synth)
+      Clase  1:  277 total ( 195 orig +   82 synth)
+   estructuralista:
+      Clase -1:  224 total ( 167 orig +   57 synth)
+      Clase  0:  474 total ( 436 orig +   38 synth)
+      Clase  1:  136 total (  97 orig +   39 synth)
+   neoliberal:
+      Clase -1:   73 total (  18 orig +   55 synth)
+      Clase  0:  537 total ( 519 orig +   18 synth)
+      Clase  1:  224 total ( 163 orig +   61 synth)
+   posmoderna:
+      Clase -1:   26 total (   2 orig +   24 synth)
+      Clase  0:  738 total ( 685 orig +   53 synth)
+      Clase  1:   70 total (  13 orig +   57 synth)
+   voluntarista:
+      Clase -1:   56 total (   5 orig +   51 synth)
+      Clase  0:  460 total ( 421 orig +   39 synth)
+      Clase  1:  318 total ( 274 orig +   44 synth)
+======================================================================
+======================================================================
+🔍 VALIDACIÓN DE CALIDAD DE MUESTRAS SINTÉTICAS
+======================================================================
+📊 Estadísticas:
+   - Total sintéticas: 134
+   - Métodos usados:
+      • paraphrase_t5: 134 (100.0%)
+📏 Longitud de textos:
+   - Original promedio: 1442 caracteres
+   - Sintético promedio: 360 caracteres
+   - Diferencia: 1082 caracteres
+📝 Ejemplos de muestras sintéticas (primeras 3):
+----------------------------------------------------------------------
+Ejemplo 701 - Método: paraphrase_t5
+Original:  ES FÁCIL TENER IDEAS DE NEGOCIO. LO MÁS COMPLICADO ES APLICARLAS EN EL MUNDO REAL.. “Es fácil tener ideas de negocio. Lo más complicado es aplicarlas ...
+Sintético: —en 1952, el ciudadano español alfonso geis salvans vino de barcelona y se unió a varios socios peruanos con los que fundó universal textil, el 50% de...
+----------------------------------------------------------------------
+Ejemplo 702 - Método: paraphrase_t5
+Original:  ES FÁCIL TENER IDEAS DE NEGOCIO. LO MÁS COMPLICADO ES APLICARLAS EN EL MUNDO REAL.. “Es fácil tener ideas de negocio. Lo más complicado es aplicarlas ...
+Sintético: —en 1952, el ciudadano español alfonso geis salvans vino de barcelona y se unió a varios socios peruanos con los que fundó universal textil, lacoste, ...
+----------------------------------------------------------------------
+Ejemplo 703 - Método: paraphrase_t5
+Original:  PIENSA EN LO QUE LA GENTE NECESITA: MANERA DE SATISFACER SUS NECESIDADES. Parra se ganó el título de “La reina de los calzados” por su exitosa carrera...
+Sintético: ¿cómo se ganó el título de "la reina de los calzados" por su exitosa carrera empresarial, abrió una tienda en jesús maría y ahora es la dueña de una d...
+----------------------------------------------------------------------
+
+✅ MEJORA DESPUÉS DE AUGMENTATION:
+   IR promedio: 92.52 → 9.89
+   Severidad: SEVERE → SEVERE
+Dividiendo datos en train/val/test...
+📊 Data split: Train=583, Val=125, Test=126
+   - Train: 583 samples (69.9%)
+   - Val:   125 samples (15.0%)
+   - Test:  126 samples (15.1%)
+🔄 Pre-tokenizing dataset...
+✅ Pre-tokenization complete.
+
+============================================================
+
+🎯 Starting Hyperparameter Tuning
+🔍 Hyperparameter Trial 1/10
+🎯 Training Fold 1/5
+You are using a model of type roberta to instantiate a model of type longformer. This is not supported for all configurations of models and can yield errors.
+Some weights of LongformerModel were not initialized from the model checkpoint at mrm8488/longformer-base-4096-spanish and are newly initialized: ['embeddings.LayerNorm.bias', 'embeddings.LayerNorm.weight', 'embeddings.position_embeddings.weight', 'embeddings.token_type_embeddings.weight', 'embeddings.word_embeddings.weight', 'encoder.layer.0.attention.output.LayerNorm.bias', 'encoder.layer.0.attention.output.LayerNorm.weight', 'encoder.layer.0.attention.output.dense.bias', 'encoder.layer.0.attention.output.dense.weight', 'encoder.layer.0.attention.self.key.bias', 'encoder.layer.0.attention.self.key.weight', 'encoder.layer.0.attention.self.key_global.bias', 'encoder.layer.0.attention.self.key_global.weight', 'encoder.layer.0.attention.self.query.bias', 'encoder.layer.0.attention.self.query.weight', 'encoder.layer.0.attention.self.query_global.bias', 'encoder.layer.0.attention.self.query_global.weight', 'encoder.layer.0.attention.self.value.bias', 'encoder.layer.0.attention.self.value.weight', 'encoder.layer.0.attention.self.value_global.bias', 'encoder.layer.0.attention.self.value_global.weight', 'encoder.layer.0.intermediate.dense.bias', 'encoder.layer.0.intermediate.dense.weight', 'encoder.layer.0.output.LayerNorm.bias', 'encoder.layer.0.output.LayerNorm.weight', 'encoder.layer.0.output.dense.bias', 'encoder.layer.0.output.dense.weight', 'encoder.layer.1.attention.output.LayerNorm.bias', 'encoder.layer.1.attention.output.LayerNorm.weight', 'encoder.layer.1.attention.output.dense.bias', 'encoder.layer.1.attention.output.dense.weight', 'encoder.layer.1.attention.self.key.bias', 'encoder.layer.1.attention.self.key.weight', 'encoder.layer.1.attention.self.key_global.bias', 'encoder.layer.1.attention.self.key_global.weight', 'encoder.layer.1.attention.self.query.bias', 'encoder.layer.1.attention.self.query.weight', 'encoder.layer.1.attention.self.query_global.bias', 'encoder.layer.1.attention.self.query_global.weight', 'encoder.layer.1.attention.self.value.bias', 'encoder.layer.1.attention.self.value.weight', 'encoder.layer.1.attention.self.value_global.bias', 'encoder.layer.1.attention.self.value_global.weight', 'encoder.layer.1.intermediate.dense.bias', 'encoder.layer.1.intermediate.dense.weight', 'encoder.layer.1.output.LayerNorm.bias', 'encoder.layer.1.output.LayerNorm.weight', 'encoder.layer.1.output.dense.bias', 'encoder.layer.1.output.dense.weight', 'encoder.layer.10.attention.output.LayerNorm.bias', 'encoder.layer.10.attention.output.LayerNorm.weight', 'encoder.layer.10.attention.output.dense.bias', 'encoder.layer.10.attention.output.dense.weight', 'encoder.layer.10.attention.self.key.bias', 'encoder.layer.10.attention.self.key.weight', 'encoder.layer.10.attention.self.key_global.bias', 'encoder.layer.10.attention.self.key_global.weight', 'encoder.layer.10.attention.self.query.bias', 'encoder.layer.10.attention.self.query.weight', 'encoder.layer.10.attention.self.query_global.bias', 'encoder.layer.10.attention.self.query_global.weight', 'encoder.layer.10.attention.self.value.bias', 'encoder.layer.10.attention.self.value.weight', 'encoder.layer.10.attention.self.value_global.bias', 'encoder.layer.10.attention.self.value_global.weight', 'encoder.layer.10.intermediate.dense.bias', 'encoder.layer.10.intermediate.dense.weight', 'encoder.layer.10.output.LayerNorm.bias', 'encoder.layer.10.output.LayerNorm.weight', 'encoder.layer.10.output.dense.bias', 'encoder.layer.10.output.dense.weight', 'encoder.layer.11.attention.output.LayerNorm.bias', 'encoder.layer.11.attention.output.LayerNorm.weight', 'encoder.layer.11.attention.output.dense.bias', 'encoder.layer.11.attention.output.dense.weight', 'encoder.layer.11.attention.self.key.bias', 'encoder.layer.11.attention.self.key.weight', 'encoder.layer.11.attention.self.key_global.bias', 'encoder.layer.11.attention.self.key_global.weight', 'encoder.layer.11.attention.self.query.bias', 'encoder.layer.11.attention.self.query.weight', 'encoder.layer.11.attention.self.query_global.bias', 'encoder.layer.11.attention.self.query_global.weight', 'encoder.layer.11.attention.self.value.bias', 'encoder.layer.11.attention.self.value.weight', 'encoder.layer.11.attention.self.value_global.bias', 'encoder.layer.11.attention.self.value_global.weight', 'encoder.layer.11.intermediate.dense.bias', 'encoder.layer.11.intermediate.dense.weight', 'encoder.layer.11.output.LayerNorm.bias', 'encoder.layer.11.output.LayerNorm.weight', 'encoder.layer.11.output.dense.bias', 'encoder.layer.11.output.dense.weight', 'encoder.layer.2.attention.output.LayerNorm.bias', 'encoder.layer.2.attention.output.LayerNorm.weight', 'encoder.layer.2.attention.output.dense.bias', 'encoder.layer.2.attention.output.dense.weight', 'encoder.layer.2.attention.self.key.bias', 'encoder.layer.2.attention.self.key.weight', 'encoder.layer.2.attention.self.key_global.bias', 'encoder.layer.2.attention.self.key_global.weight', 'encoder.layer.2.attention.self.query.bias', 'encoder.layer.2.attention.self.query.weight', 'encoder.layer.2.attention.self.query_global.bias', 'encoder.layer.2.attention.self.query_global.weight', 'encoder.layer.2.attention.self.value.bias', 'encoder.layer.2.attention.self.value.weight', 'encoder.layer.2.attention.self.value_global.bias', 'encoder.layer.2.attention.self.value_global.weight', 'encoder.layer.2.intermediate.dense.bias', 'encoder.layer.2.intermediate.dense.weight', 'encoder.layer.2.output.LayerNorm.bias', 'encoder.layer.2.output.LayerNorm.weight', 'encoder.layer.2.output.dense.bias', 'encoder.layer.2.output.dense.weight', 'encoder.layer.3.attention.output.LayerNorm.bias', 'encoder.layer.3.attention.output.LayerNorm.weight', 'encoder.layer.3.attention.output.dense.bias', 'encoder.layer.3.attention.output.dense.weight', 'encoder.layer.3.attention.self.key.bias', 'encoder.layer.3.attention.self.key.weight', 'encoder.layer.3.attention.self.key_global.bias', 'encoder.layer.3.attention.self.key_global.weight', 'encoder.layer.3.attention.self.query.bias', 'encoder.layer.3.attention.self.query.weight', 'encoder.layer.3.attention.self.query_global.bias', 'encoder.layer.3.attention.self.query_global.weight', 'encoder.layer.3.attention.self.value.bias', 'encoder.layer.3.attention.self.value.weight', 'encoder.layer.3.attention.self.value_global.bias', 'encoder.layer.3.attention.self.value_global.weight', 'encoder.layer.3.intermediate.dense.bias', 'encoder.layer.3.intermediate.dense.weight', 'encoder.layer.3.output.LayerNorm.bias', 'encoder.layer.3.output.LayerNorm.weight', 'encoder.layer.3.output.dense.bias', 'encoder.layer.3.output.dense.weight', 'encoder.layer.4.attention.output.LayerNorm.bias', 'encoder.layer.4.attention.output.LayerNorm.weight', 'encoder.layer.4.attention.output.dense.bias', 'encoder.layer.4.attention.output.dense.weight', 'encoder.layer.4.attention.self.key.bias', 'encoder.layer.4.attention.self.key.weight', 'encoder.layer.4.attention.self.key_global.bias', 'encoder.layer.4.attention.self.key_global.weight', 'encoder.layer.4.attention.self.query.bias', 'encoder.layer.4.attention.self.query.weight', 'encoder.layer.4.attention.self.query_global.bias', 'encoder.layer.4.attention.self.query_global.weight', 'encoder.layer.4.attention.self.value.bias', 'encoder.layer.4.attention.self.value.weight', 'encoder.layer.4.attention.self.value_global.bias', 'encoder.layer.4.attention.self.value_global.weight', 'encoder.layer.4.intermediate.dense.bias', 'encoder.layer.4.intermediate.dense.weight', 'encoder.layer.4.output.LayerNorm.bias', 'encoder.layer.4.output.LayerNorm.weight', 'encoder.layer.4.output.dense.bias', 'encoder.layer.4.output.dense.weight', 'encoder.layer.5.attention.output.LayerNorm.bias', 'encoder.layer.5.attention.output.LayerNorm.weight', 'encoder.layer.5.attention.output.dense.bias', 'encoder.layer.5.attention.output.dense.weight', 'encoder.layer.5.attention.self.key.bias', 'encoder.layer.5.attention.self.key.weight', 'encoder.layer.5.attention.self.key_global.bias', 'encoder.layer.5.attention.self.key_global.weight', 'encoder.layer.5.attention.self.query.bias', 'encoder.layer.5.attention.self.query.weight', 'encoder.layer.5.attention.self.query_global.bias', 'encoder.layer.5.attention.self.query_global.weight', 'encoder.layer.5.attention.self.value.bias', 'encoder.layer.5.attention.self.value.weight', 'encoder.layer.5.attention.self.value_global.bias', 'encoder.layer.5.attention.self.value_global.weight', 'encoder.layer.5.intermediate.dense.bias', 'encoder.layer.5.intermediate.dense.weight', 'encoder.layer.5.output.LayerNorm.bias', 'encoder.layer.5.output.LayerNorm.weight', 'encoder.layer.5.output.dense.bias', 'encoder.layer.5.output.dense.weight', 'encoder.layer.6.attention.output.LayerNorm.bias', 'encoder.layer.6.attention.output.LayerNorm.weight', 'encoder.layer.6.attention.output.dense.bias', 'encoder.layer.6.attention.output.dense.weight', 'encoder.layer.6.attention.self.key.bias', 'encoder.layer.6.attention.self.key.weight', 'encoder.layer.6.attention.self.key_global.bias', 'encoder.layer.6.attention.self.key_global.weight', 'encoder.layer.6.attention.self.query.bias', 'encoder.layer.6.attention.self.query.weight', 'encoder.layer.6.attention.self.query_global.bias', 'encoder.layer.6.attention.self.query_global.weight', 'encoder.layer.6.attention.self.value.bias', 'encoder.layer.6.attention.self.value.weight', 'encoder.layer.6.attention.self.value_global.bias', 'encoder.layer.6.attention.self.value_global.weight', 'encoder.layer.6.intermediate.dense.bias', 'encoder.layer.6.intermediate.dense.weight', 'encoder.layer.6.output.LayerNorm.bias', 'encoder.layer.6.output.LayerNorm.weight', 'encoder.layer.6.output.dense.bias', 'encoder.layer.6.output.dense.weight', 'encoder.layer.7.attention.output.LayerNorm.bias', 'encoder.layer.7.attention.output.LayerNorm.weight', 'encoder.layer.7.attention.output.dense.bias', 'encoder.layer.7.attention.output.dense.weight', 'encoder.layer.7.attention.self.key.bias', 'encoder.layer.7.attention.self.key.weight', 'encoder.layer.7.attention.self.key_global.bias', 'encoder.layer.7.attention.self.key_global.weight', 'encoder.layer.7.attention.self.query.bias', 'encoder.layer.7.attention.self.query.weight', 'encoder.layer.7.attention.self.query_global.bias', 'encoder.layer.7.attention.self.query_global.weight', 'encoder.layer.7.attention.self.value.bias', 'encoder.layer.7.attention.self.value.weight', 'encoder.layer.7.attention.self.value_global.bias', 'encoder.layer.7.attention.self.value_global.weight', 'encoder.layer.7.intermediate.dense.bias', 'encoder.layer.7.intermediate.dense.weight', 'encoder.layer.7.output.LayerNorm.bias', 'encoder.layer.7.output.LayerNorm.weight', 'encoder.layer.7.output.dense.bias', 'encoder.layer.7.output.dense.weight', 'encoder.layer.8.attention.output.LayerNorm.bias', 'encoder.layer.8.attention.output.LayerNorm.weight', 'encoder.layer.8.attention.output.dense.bias', 'encoder.layer.8.attention.output.dense.weight', 'encoder.layer.8.attention.self.key.bias', 'encoder.layer.8.attention.self.key.weight', 'encoder.layer.8.attention.self.key_global.bias', 'encoder.layer.8.attention.self.key_global.weight', 'encoder.layer.8.attention.self.query.bias', 'encoder.layer.8.attention.self.query.weight', 'encoder.layer.8.attention.self.query_global.bias', 'encoder.layer.8.attention.self.query_global.weight', 'encoder.layer.8.attention.self.value.bias', 'encoder.layer.8.attention.self.value.weight', 'encoder.layer.8.attention.self.value_global.bias', 'encoder.layer.8.attention.self.value_global.weight', 'encoder.layer.8.intermediate.dense.bias', 'encoder.layer.8.intermediate.dense.weight', 'encoder.layer.8.output.LayerNorm.bias', 'encoder.layer.8.output.LayerNorm.weight', 'encoder.layer.8.output.dense.bias', 'encoder.layer.8.output.dense.weight', 'encoder.layer.9.attention.output.LayerNorm.bias', 'encoder.layer.9.attention.output.LayerNorm.weight', 'encoder.layer.9.attention.output.dense.bias', 'encoder.layer.9.attention.output.dense.weight', 'encoder.layer.9.attention.self.key.bias', 'encoder.layer.9.attention.self.key.weight', 'encoder.layer.9.attention.self.key_global.bias', 'encoder.layer.9.attention.self.key_global.weight', 'encoder.layer.9.attention.self.query.bias', 'encoder.layer.9.attention.self.query.weight', 'encoder.layer.9.attention.self.query_global.bias', 'encoder.layer.9.attention.self.query_global.weight', 'encoder.layer.9.attention.self.value.bias', 'encoder.layer.9.attention.self.value.weight', 'encoder.layer.9.attention.self.value_global.bias', 'encoder.layer.9.attention.self.value_global.weight', 'encoder.layer.9.intermediate.dense.bias', 'encoder.layer.9.intermediate.dense.weight', 'encoder.layer.9.output.LayerNorm.bias', 'encoder.layer.9.output.LayerNorm.weight', 'encoder.layer.9.output.dense.bias', 'encoder.layer.9.output.dense.weight', 'pooler.dense.bias', 'pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Detected kernel version 4.18.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+  0%|          | 0/500 [00:00<?, ?it/s]Input ids are automatically padded to be a multiple of `config.attention_window`: 512
+  0%|          | 1/500 [00:00<05:07,  1.63it/s]  0%|          | 2/500 [00:01<04:34,  1.81it/s]  1%|          | 3/500 [00:01<04:19,  1.92it/s]  1%|          | 4/500 [00:02<04:10,  1.98it/s]  1%|          | 5/500 [00:02<04:05,  2.02it/s]  1%|          | 6/500 [00:03<04:02,  2.04it/s]  1%|▏         | 7/500 [00:03<03:59,  2.06it/s]  2%|▏         | 8/500 [00:04<03:58,  2.07it/s]  2%|▏         | 9/500 [00:04<03:54,  2.10it/s]  2%|▏         | 10/500 [00:04<03:54,  2.09it/s]  2%|▏         | 11/500 [00:05<03:53,  2.09it/s]  2%|▏         | 12/500 [00:05<03:53,  2.09it/s]  3%|▎         | 13/500 [00:06<03:53,  2.09it/s]  3%|▎         | 14/500 [00:06<03:52,  2.09it/s]  3%|▎         | 15/500 [00:07<03:52,  2.09it/s]  3%|▎         | 16/500 [00:07<03:52,  2.09it/s]  3%|▎         | 17/500 [00:08<03:51,  2.09it/s]  4%|▎         | 18/500 [00:08<03:51,  2.08it/s]  4%|▍         | 19/500 [00:09<03:50,  2.08it/s]  4%|▍         | 20/500 [00:09<03:50,  2.08it/s]  4%|▍         | 21/500 [00:10<03:50,  2.08it/s]  4%|▍         | 22/500 [00:10<03:49,  2.08it/s]  5%|▍         | 23/500 [00:11<03:49,  2.08it/s]  5%|▍         | 24/500 [00:11<03:48,  2.08it/s]  5%|▌         | 25/500 [00:12<03:47,  2.08it/s]  5%|▌         | 26/500 [00:12<03:47,  2.08it/s]  5%|▌         | 27/500 [00:13<03:47,  2.08it/s]  6%|▌         | 28/500 [00:13<03:46,  2.08it/s]  6%|▌         | 29/500 [00:14<03:45,  2.08it/s]  6%|▌         | 30/500 [00:14<03:45,  2.08it/s]  6%|▌         | 31/500 [00:15<03:45,  2.08it/s]  6%|▋         | 32/500 [00:15<03:44,  2.08it/s]  7%|▋         | 33/500 [00:15<03:43,  2.09it/s]  7%|▋         | 34/500 [00:16<03:43,  2.09it/s]  7%|▋         | 35/500 [00:16<03:43,  2.08it/s]  7%|▋         | 36/500 [00:17<03:42,  2.08it/s]  7%|▋         | 37/500 [00:17<03:42,  2.09it/s]  8%|▊         | 38/500 [00:18<03:41,  2.09it/s]  8%|▊         | 39/500 [00:18<03:40,  2.09it/s]  8%|▊         | 40/500 [00:19<03:40,  2.09it/s]  8%|▊         | 41/500 [00:19<03:39,  2.09it/s]  8%|▊         | 42/500 [00:20<03:39,  2.08it/s]  9%|▊         | 43/500 [00:20<03:39,  2.09it/s]  9%|▉         | 44/500 [00:21<03:38,  2.09it/s]  9%|▉         | 45/500 [00:21<03:38,  2.09it/s]  9%|▉         | 46/500 [00:22<03:37,  2.09it/s]  9%|▉         | 47/500 [00:22<03:37,  2.09it/s] 10%|▉         | 48/500 [00:23<03:36,  2.08it/s] 10%|▉         | 49/500 [00:23<03:36,  2.08it/s] 10%|█         | 50/500 [00:24<03:35,  2.09it/s]                                                {'loss': 1.3886, 'grad_norm': 6.292882442474365, 'learning_rate': 2.1461907390298556e-05, 'epoch': 1.0}
+ 10%|█         | 50/500 [00:24<03:35,  2.09it/s]
+  0%|          | 0/13 [00:00<?, ?it/s][A
+ 15%|█▌        | 2/13 [00:00<00:01, 10.23it/s][A
+ 31%|███       | 4/13 [00:00<00:01,  6.44it/s][A
+ 38%|███▊      | 5/13 [00:00<00:01,  5.97it/s][A
+ 46%|████▌     | 6/13 [00:00<00:01,  5.69it/s][A
+ 54%|█████▍    | 7/13 [00:01<00:01,  5.50it/s][A
+ 62%|██████▏   | 8/13 [00:01<00:00,  5.38it/s][A
+ 69%|██████▉   | 9/13 [00:01<00:00,  5.29it/s][A
+ 77%|███████▋  | 10/13 [00:01<00:00,  5.24it/s][A
+ 85%|████████▍ | 11/13 [00:01<00:00,  5.20it/s][A
+ 92%|█████████▏| 12/13 [00:02<00:00,  5.18it/s][A                                                
+                                               [A{'eval_loss': 1.5110081434249878, 'eval_accuracy': 0.688, 'eval_modernizante_accuracy': 0.76, 'eval_modernizante_f1_macro': 0.4318181818181818, 'eval_modernizante_f1_weighted': 0.6563636363636364, 'eval_modernizante_class_1_acc': 1.0, 'eval_modernizante_class_2_acc': 0.0, 'eval_estructuralista_accuracy': 0.56, 'eval_estructuralista_f1_macro': 0.23931623931623933, 'eval_estructuralista_f1_weighted': 0.40205128205128204, 'eval_estructuralista_class_0_acc': 0.0, 'eval_estructuralista_class_1_acc': 1.0, 'eval_estructuralista_class_2_acc': 0.0, 'eval_neoliberal_accuracy': 0.76, 'eval_neoliberal_f1_macro': 0.2878787878787879, 'eval_neoliberal_f1_weighted': 0.6563636363636364, 'eval_neoliberal_class_0_acc': 0.0, 'eval_neoliberal_class_1_acc': 1.0, 'eval_neoliberal_class_2_acc': 0.0, 'eval_posmoderna_accuracy': 0.96, 'eval_posmoderna_f1_macro': 0.4897959183673469, 'eval_posmoderna_f1_weighted': 0.9404081632653061, 'eval_posmoderna_class_0_acc': 0.0, 'eval_posmoderna_class_1_acc': 1.0, 'eval_voluntarista_accuracy': 0.4, 'eval_voluntarista_f1_macro': 0.19047619047619047, 'eval_voluntarista_f1_weighted': 0.22857142857142854, 'eval_voluntarista_class_0_acc': 0.0, 'eval_voluntarista_class_1_acc': 0.0, 'eval_voluntarista_class_2_acc': 1.0, 'eval_mean_task_accuracy': 0.688, 'eval_macro_f1': 0.3278570635713493, 'eval_corr_modernizante_estructuralista': 0.0, 'eval_corr_modernizante_neoliberal': 0.0, 'eval_corr_modernizante_posmoderna': 0.0, 'eval_corr_modernizante_voluntarista': 0.0, 'eval_corr_estructuralista_neoliberal': 0.0, 'eval_corr_estructuralista_posmoderna': 0.0, 'eval_corr_estructuralista_voluntarista': 0.0, 'eval_corr_neoliberal_posmoderna': 0.0, 'eval_corr_neoliberal_voluntarista': 0.0, 'eval_corr_posmoderna_voluntarista': 0.0, 'eval_runtime': 2.457, 'eval_samples_per_second': 10.175, 'eval_steps_per_second': 5.291, 'epoch': 1.0}
+ 10%|█         | 50/500 [00:26<03:35,  2.09it/s]
+100%|██████████| 13/13 [00:02<00:00,  5.18it/s][A
+                                               [A[2025-11-13T16:55:33.530] error: *** JOB 24380326 ON g009 CANCELLED AT 2025-11-13T16:55:33 DUE to SIGNAL Terminated ***

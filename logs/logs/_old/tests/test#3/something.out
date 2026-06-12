@@ -1,0 +1,219 @@
+Loaded 96 OCR results
+Starting multithreaded LLM postprocessing...
+Models to process: ['mistral-nemo']
+
+============================================================
+Starting multithreaded processing for model: mistral-nemo
+Total OCR results to process: 96
+Using 64 worker threads
+============================================================
+✓ Progress: 1/96 (1.0%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 5.94s
+✓ Progress: 2/96 (2.1%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 5.97s
+✓ Progress: 3/96 (3.1%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 18.3s
+✓ Progress: 4/96 (4.2%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 39.02s
+✓ Progress: 5/96 (5.2%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 32.26s
+✓ Progress: 6/96 (6.2%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 48.22s
+✓ Progress: 7/96 (7.3%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 6.01s
+✓ Progress: 8/96 (8.3%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 7.57s
+✓ Progress: 9/96 (9.4%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 11.84s
+✓ Progress: 10/96 (10.4%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 20.86s
+✓ Progress: 11/96 (11.5%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 18.8s
+✓ Progress: 12/96 (12.5%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 56.38s
+✓ Progress: 13/96 (13.5%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 17.19s
+✓ Progress: 14/96 (14.6%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 15.72s
+✓ Progress: 15/96 (15.6%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 40.19s
+✓ Progress: 16/96 (16.7%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 54.87s
+✓ Progress: 17/96 (17.7%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 100.82s
+✓ Progress: 18/96 (18.8%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 84.72s
+✓ Progress: 19/96 (19.8%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 54.29s
+✓ Progress: 20/96 (20.8%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 159.03s
+✓ Progress: 21/96 (21.9%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 51.22s
+✓ Progress: 22/96 (22.9%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 32.8s
+✓ Progress: 23/96 (24.0%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 52.77s
+✓ Progress: 24/96 (25.0%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 62.97s
+✓ Progress: 25/96 (26.0%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 51.78s
+✓ Progress: 26/96 (27.1%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 41.74s
+✓ Progress: 27/96 (28.1%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 16.57s
+✓ Progress: 28/96 (29.2%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 18.09s
+✓ Progress: 29/96 (30.2%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 124.72s
+✓ Progress: 30/96 (31.2%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 145.03s
+✓ Progress: 31/96 (32.3%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 56.92s
+✓ Progress: 32/96 (33.3%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 35.17s
+✓ Progress: 33/96 (34.4%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 35.04s
+✓ Progress: 34/96 (35.4%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 32.51s
+✓ Progress: 35/96 (36.5%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 30.0s
+✓ Progress: 36/96 (37.5%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 56.57s
+✓ Progress: 37/96 (38.5%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 52.8s
+✓ Progress: 38/96 (39.6%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 43.72s
+✓ Progress: 39/96 (40.6%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 49.5s
+✓ Progress: 40/96 (41.7%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 49.29s
+✓ Progress: 41/96 (42.7%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 33.52s
+✓ Progress: 42/96 (43.8%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 25.58s
+✓ Progress: 43/96 (44.8%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 48.19s
+✓ Progress: 44/96 (45.8%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 37.94s
+✓ Progress: 45/96 (46.9%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 12.07s
+✓ Progress: 46/96 (47.9%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 36.16s
+✓ Progress: 47/96 (49.0%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 35.4s
+✓ Progress: 48/96 (50.0%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 16.06s
+✓ Progress: 49/96 (51.0%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 38.23s
+✓ Progress: 50/96 (52.1%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 134.62s
+✓ Progress: 51/96 (53.1%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 148.4s
+✓ Progress: 52/96 (54.2%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 71.99s
+✓ Progress: 53/96 (55.2%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 62.45s
+✓ Progress: 54/96 (56.2%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 149.47s
+✓ Progress: 55/96 (57.3%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 136.58s
+✓ Progress: 56/96 (58.3%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 56.58s
+✓ Progress: 57/96 (59.4%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 47.28s
+✓ Progress: 58/96 (60.4%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 59.13s
+✓ Progress: 59/96 (61.5%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 160.25s
+✓ Progress: 60/96 (62.5%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 134.16s
+✓ Progress: 61/96 (63.5%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 65.29s
+✓ Progress: 62/96 (64.6%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 56.04s
+✓ Progress: 63/96 (65.6%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 53.15s
+✓ Progress: 64/96 (66.7%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 135.87s
+✓ Progress: 65/96 (67.7%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 105.01s
+✓ Progress: 66/96 (68.8%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 19.45s
+✓ Progress: 67/96 (69.8%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 51.67s
+✓ Progress: 68/96 (70.8%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 57.41s
+✓ Progress: 69/96 (71.9%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 55.73s
+✓ Progress: 70/96 (72.9%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 51.73s
+✓ Progress: 71/96 (74.0%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 64.87s
+✓ Progress: 72/96 (75.0%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 106.3s
+✓ Progress: 73/96 (76.0%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 71.64s
+✓ Progress: 74/96 (77.1%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 55.21s
+✓ Progress: 75/96 (78.1%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 79.96s
+✓ Progress: 76/96 (79.2%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 69.89s
+✓ Progress: 77/96 (80.2%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 56.23s
+✓ Progress: 78/96 (81.2%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 88.52s
+✓ Progress: 79/96 (82.3%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 122.22s
+✓ Progress: 80/96 (83.3%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 111.13s
+✓ Progress: 81/96 (84.4%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 68.63s
+✓ Progress: 82/96 (85.4%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 32.3s
+✓ Progress: 83/96 (86.5%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 85.97s
+✓ Progress: 84/96 (87.5%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 81.4s
+✓ Progress: 85/96 (88.5%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 14.02s
+✓ Progress: 86/96 (89.6%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 15.96s
+✓ Progress: 87/96 (90.6%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 61.54s
+✓ Progress: 88/96 (91.7%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 103.4s
+✓ Progress: 89/96 (92.7%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 64.52s
+✓ Progress: 90/96 (93.8%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 25.21s
+✓ Progress: 91/96 (94.8%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 32.84s
+✓ Progress: 92/96 (95.8%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 30.17s
+✓ Progress: 93/96 (96.9%) - Processed gestion#2015-09-10#04.tiff with mistral-nemo in 84.41s
+✓ Progress: 94/96 (97.9%) - Processed gestion#2014-06-02#01.tiff with mistral-nemo in 131.38s
+✓ Progress: 95/96 (99.0%) - Processed gestion#2019-07-12#01.tiff with mistral-nemo in 117.54s
+✓ Progress: 96/96 (100.0%) - Processed gestion#2017-05-15#04.tiff with mistral-nemo in 2555.47s
+
+============================================================
+Completed processing for mistral-nemo
+Total processing time: 2921.86 seconds
+Average time per result: 30.44 seconds
+
+Saving results to CSV files...
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_TesseractOCR_mistral-nemo.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_TesseractOCR_mistral-nemo.csv
+✓ Successfully saved: 96 files
+✗ Errors encountered: 0 files
+============================================================
+================================================================================
+                                 FINAL SUMMARY                                  
+================================================================================
+Total execution time: 2921.87 seconds
+Models processed: 1
+Total OCR results per model: 96
+Total processing tasks: 96
+================================================================================

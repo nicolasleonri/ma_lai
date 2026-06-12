@@ -1,0 +1,1107 @@
+Loaded 540 OCR results
+Starting multithreaded LLM postprocessing...
+Models to process: ['phi4']
+
+============================================================
+Starting multithreaded processing for model: phi4
+Total OCR results to process: 540
+Using 64 worker threads
+============================================================
+✓ Progress: 1/540 (0.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.01s
+✓ Progress: 2/540 (0.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 26.51s
+✓ Progress: 3/540 (0.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 38.22s
+✓ Progress: 4/540 (0.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 28.01s
+✓ Progress: 5/540 (0.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 43.35s
+✓ Progress: 6/540 (1.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 29.98s
+✓ Progress: 7/540 (1.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 36.99s
+✓ Progress: 8/540 (1.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 67.98s
+✓ Progress: 9/540 (1.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 152.81s
+✓ Progress: 10/540 (1.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 12.86s
+✓ Progress: 11/540 (2.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 47.95s
+✓ Progress: 12/540 (2.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 23.85s
+✓ Progress: 13/540 (2.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 16.94s
+✓ Progress: 14/540 (2.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 25.42s
+✓ Progress: 15/540 (2.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 17.1s
+✓ Progress: 16/540 (3.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 31.99s
+✓ Progress: 17/540 (3.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 62.09s
+✓ Progress: 18/540 (3.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 81.96s
+✓ Progress: 19/540 (3.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 7.84s
+✓ Progress: 20/540 (3.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 0.92s
+✓ Progress: 21/540 (3.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 6.87s
+✓ Progress: 22/540 (4.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 19.48s
+✓ Progress: 23/540 (4.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 19.46s
+✓ Progress: 24/540 (4.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 78.59s
+✓ Progress: 25/540 (4.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 11.98s
+✓ Progress: 26/540 (4.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 18.76s
+✓ Progress: 27/540 (5.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 23.41s
+✓ Progress: 28/540 (5.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 50.7s
+✓ Progress: 29/540 (5.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 61.52s
+✓ Progress: 30/540 (5.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 68.32s
+✓ Progress: 31/540 (5.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 43.92s
+✓ Progress: 32/540 (5.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 11.05s
+✓ Progress: 33/540 (6.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 39.95s
+✓ Progress: 34/540 (6.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 45.09s
+✓ Progress: 35/540 (6.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 14.33s
+✓ Progress: 36/540 (6.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 4.07s
+✓ Progress: 37/540 (6.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 26.85s
+✓ Progress: 38/540 (7.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 123.69s
+✓ Progress: 39/540 (7.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 37.14s
+✓ Progress: 40/540 (7.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 4.56s
+✓ Progress: 41/540 (7.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 14.75s
+✓ Progress: 42/540 (7.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 6.95s
+✓ Progress: 43/540 (8.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 44.25s
+✓ Progress: 44/540 (8.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 48.77s
+✓ Progress: 45/540 (8.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 59.56s
+✓ Progress: 46/540 (8.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 18.1s
+✓ Progress: 47/540 (8.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 10.3s
+✓ Progress: 48/540 (8.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 38.82s
+✓ Progress: 49/540 (9.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 26.13s
+✓ Progress: 50/540 (9.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 34.25s
+✓ Progress: 51/540 (9.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 30.98s
+✓ Progress: 52/540 (9.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 8.49s
+✓ Progress: 53/540 (9.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 12.99s
+✓ Progress: 54/540 (10.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 6.34s
+✓ Progress: 55/540 (10.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 28.77s
+✓ Progress: 56/540 (10.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 34.88s
+✓ Progress: 57/540 (10.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 9.51s
+✓ Progress: 58/540 (10.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 97.14s
+✓ Progress: 59/540 (10.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 29.21s
+✓ Progress: 60/540 (11.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 34.39s
+✓ Progress: 61/540 (11.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 5.19s
+✓ Progress: 62/540 (11.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 8.28s
+✓ Progress: 63/540 (11.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 8.97s
+✓ Progress: 64/540 (11.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 21.21s
+✓ Progress: 65/540 (12.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 50.76s
+✓ Progress: 66/540 (12.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 19.54s
+✓ Progress: 67/540 (12.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 16.12s
+✓ Progress: 68/540 (12.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 25.31s
+✓ Progress: 69/540 (12.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 66.56s
+✓ Progress: 70/540 (13.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 7.45s
+✓ Progress: 71/540 (13.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 19.43s
+✓ Progress: 72/540 (13.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 27.62s
+✓ Progress: 73/540 (13.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 48.24s
+✓ Progress: 74/540 (13.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 12.27s
+✓ Progress: 75/540 (13.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 9.25s
+✓ Progress: 76/540 (14.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 53.68s
+✓ Progress: 77/540 (14.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 35.91s
+✓ Progress: 78/540 (14.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 38.73s
+✓ Progress: 79/540 (14.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 4.55s
+✓ Progress: 80/540 (14.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 26.68s
+✓ Progress: 81/540 (15.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 38.17s
+✓ Progress: 82/540 (15.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 48.75s
+✓ Progress: 83/540 (15.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 44.3s
+✓ Progress: 84/540 (15.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 28.25s
+✓ Progress: 85/540 (15.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.97s
+✓ Progress: 86/540 (15.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 8.0s
+✓ Progress: 87/540 (16.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 79.61s
+✓ Progress: 88/540 (16.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 44.91s
+✓ Progress: 89/540 (16.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 13.32s
+✓ Progress: 90/540 (16.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 49.34s
+✓ Progress: 91/540 (16.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 8.34s
+✓ Progress: 92/540 (17.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 20.87s
+✓ Progress: 93/540 (17.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 41.51s
+✓ Progress: 94/540 (17.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 52.68s
+✓ Progress: 95/540 (17.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 46.89s
+✓ Progress: 96/540 (17.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 14.2s
+✓ Progress: 97/540 (18.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 87.85s
+✓ Progress: 98/540 (18.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 22.68s
+✓ Progress: 99/540 (18.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 42.62s
+✓ Progress: 100/540 (18.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.46s
+✓ Progress: 101/540 (18.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 20.63s
+✓ Progress: 102/540 (18.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 72.97s
+✓ Progress: 103/540 (19.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 18.54s
+✓ Progress: 104/540 (19.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 59.47s
+✓ Progress: 105/540 (19.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 30.26s
+✓ Progress: 106/540 (19.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 37.67s
+✓ Progress: 107/540 (19.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 7.31s
+✓ Progress: 108/540 (20.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.69s
+✓ Progress: 109/540 (20.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 3.2s
+✓ Progress: 110/540 (20.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 43.71s
+✓ Progress: 111/540 (20.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 34.03s
+✓ Progress: 112/540 (20.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 15.75s
+✓ Progress: 113/540 (20.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 18.63s
+✓ Progress: 114/540 (21.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 61.55s
+✓ Progress: 115/540 (21.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 41.68s
+✓ Progress: 116/540 (21.5%) - Processed gestion#2017-05-15#04.tiff with phi4 in 73.96s
+✓ Progress: 117/540 (21.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 26.0s
+✓ Progress: 118/540 (21.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 74.5s
+✓ Progress: 119/540 (22.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 26.71s
+✓ Progress: 120/540 (22.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 25.84s
+✓ Progress: 121/540 (22.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 3.39s
+✓ Progress: 122/540 (22.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 12.51s
+✓ Progress: 123/540 (22.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 13.76s
+✓ Progress: 124/540 (23.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 27.71s
+✓ Progress: 125/540 (23.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 35.81s
+✓ Progress: 126/540 (23.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 24.05s
+✓ Progress: 127/540 (23.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 15.28s
+✓ Progress: 128/540 (23.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 13.56s
+✓ Progress: 129/540 (23.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 63.73s
+✓ Progress: 130/540 (24.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 3.02s
+✓ Progress: 131/540 (24.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 7.34s
+✓ Progress: 132/540 (24.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 8.02s
+✓ Progress: 133/540 (24.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 13.03s
+✓ Progress: 134/540 (24.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 33.33s
+✓ Progress: 135/540 (25.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 22.47s
+✓ Progress: 136/540 (25.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 11.06s
+✓ Progress: 137/540 (25.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 26.14s
+✓ Progress: 138/540 (25.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 26.78s
+✓ Progress: 139/540 (25.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 8.49s
+✓ Progress: 140/540 (25.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 35.54s
+✓ Progress: 141/540 (26.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 14.37s
+✓ Progress: 142/540 (26.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 29.0s
+✓ Progress: 143/540 (26.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 25.19s
+✓ Progress: 144/540 (26.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.98s
+✓ Progress: 145/540 (26.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 54.63s
+✓ Progress: 146/540 (27.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 33.79s
+✓ Progress: 147/540 (27.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 25.13s
+✓ Progress: 148/540 (27.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 14.51s
+✓ Progress: 149/540 (27.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 22.4s
+✓ Progress: 150/540 (27.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 52.55s
+✓ Progress: 151/540 (28.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 108.54s
+✓ Progress: 152/540 (28.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 23.9s
+✓ Progress: 153/540 (28.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 92.82s
+✓ Progress: 154/540 (28.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 43.09s
+✓ Progress: 155/540 (28.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 61.43s
+✓ Progress: 156/540 (28.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 55.69s
+✓ Progress: 157/540 (29.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 54.52s
+✓ Progress: 158/540 (29.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 5.14s
+✓ Progress: 159/540 (29.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 54.9s
+✓ Progress: 160/540 (29.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 29.56s
+✓ Progress: 161/540 (29.8%) - Processed gestion#2015-09-10#04.tiff with phi4 in 58.5s
+✓ Progress: 162/540 (30.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 53.98s
+✓ Progress: 163/540 (30.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 22.8s
+✓ Progress: 164/540 (30.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 3.17s
+✓ Progress: 165/540 (30.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 88.53s
+✓ Progress: 166/540 (30.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 20.01s
+✓ Progress: 167/540 (30.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 42.91s
+✓ Progress: 168/540 (31.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 43.9s
+✓ Progress: 169/540 (31.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 11.44s
+✓ Progress: 170/540 (31.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 14.77s
+✓ Progress: 171/540 (31.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 10.88s
+✓ Progress: 172/540 (31.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 28.82s
+✓ Progress: 173/540 (32.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 72.74s
+✓ Progress: 174/540 (32.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 38.97s
+✓ Progress: 175/540 (32.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 13.08s
+✓ Progress: 176/540 (32.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 5.79s
+✓ Progress: 177/540 (32.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 45.07s
+✓ Progress: 178/540 (33.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 34.87s
+✓ Progress: 179/540 (33.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 80.97s
+✓ Progress: 180/540 (33.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 59.93s
+✓ Progress: 181/540 (33.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 62.15s
+✓ Progress: 182/540 (33.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 12.36s
+✓ Progress: 183/540 (33.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 4.36s
+✓ Progress: 184/540 (34.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.85s
+✓ Progress: 185/540 (34.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 32.28s
+✓ Progress: 186/540 (34.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 38.18s
+✓ Progress: 187/540 (34.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 10.7s
+✓ Progress: 188/540 (34.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 17.45s
+✓ Progress: 189/540 (35.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 73.41s
+✓ Progress: 190/540 (35.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 38.0s
+✓ Progress: 191/540 (35.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 29.78s
+✓ Progress: 192/540 (35.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.01s
+✓ Progress: 193/540 (35.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 20.07s
+✓ Progress: 194/540 (35.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 13.32s
+✓ Progress: 195/540 (36.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 7.23s
+✓ Progress: 196/540 (36.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 3.39s
+✓ Progress: 197/540 (36.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 3.33s
+✓ Progress: 198/540 (36.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.8s
+✓ Progress: 199/540 (36.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.76s
+✓ Progress: 200/540 (37.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 39.17s
+✓ Progress: 201/540 (37.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.43s
+✓ Progress: 202/540 (37.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.72s
+✓ Progress: 203/540 (37.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.39s
+✓ Progress: 204/540 (37.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.8s
+✓ Progress: 205/540 (38.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.61s
+✓ Progress: 206/540 (38.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.9s
+✓ Progress: 207/540 (38.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 4.85s
+✓ Progress: 208/540 (38.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.3s
+✓ Progress: 209/540 (38.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.66s
+✓ Progress: 210/540 (38.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.62s
+✓ Progress: 211/540 (39.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.7s
+✓ Progress: 212/540 (39.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 6.0s
+✓ Progress: 213/540 (39.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.57s
+✓ Progress: 214/540 (39.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.4s
+✓ Progress: 215/540 (39.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.48s
+✓ Progress: 216/540 (40.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 4.43s
+✓ Progress: 217/540 (40.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.39s
+✓ Progress: 218/540 (40.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.08s
+✓ Progress: 219/540 (40.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.04s
+✓ Progress: 220/540 (40.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.98s
+✓ Progress: 221/540 (40.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.08s
+✓ Progress: 222/540 (41.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.75s
+✓ Progress: 223/540 (41.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.45s
+✓ Progress: 224/540 (41.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.56s
+✓ Progress: 225/540 (41.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.48s
+✓ Progress: 226/540 (41.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.53s
+✓ Progress: 227/540 (42.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.54s
+✓ Progress: 228/540 (42.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.5s
+✓ Progress: 229/540 (42.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.61s
+✓ Progress: 230/540 (42.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 4.59s
+✓ Progress: 231/540 (42.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.68s
+✓ Progress: 232/540 (43.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.05s
+✓ Progress: 233/540 (43.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.07s
+✓ Progress: 234/540 (43.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.03s
+✓ Progress: 235/540 (43.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.03s
+✓ Progress: 236/540 (43.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.96s
+✓ Progress: 237/540 (43.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.98s
+✓ Progress: 238/540 (44.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.4s
+✓ Progress: 239/540 (44.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.47s
+✓ Progress: 240/540 (44.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.13s
+✓ Progress: 241/540 (44.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.66s
+✓ Progress: 242/540 (44.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.27s
+✓ Progress: 243/540 (45.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.44s
+✓ Progress: 244/540 (45.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.5s
+✓ Progress: 245/540 (45.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.35s
+✓ Progress: 246/540 (45.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 3.96s
+✓ Progress: 247/540 (45.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.39s
+✓ Progress: 248/540 (45.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.85s
+✓ Progress: 249/540 (46.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.29s
+✓ Progress: 250/540 (46.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.93s
+✓ Progress: 251/540 (46.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 3.22s
+✓ Progress: 252/540 (46.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 3.07s
+✓ Progress: 253/540 (46.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 4.35s
+✓ Progress: 254/540 (47.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.65s
+✓ Progress: 255/540 (47.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.94s
+✓ Progress: 256/540 (47.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 3.02s
+✓ Progress: 257/540 (47.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.76s
+✓ Progress: 258/540 (47.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 4.56s
+✓ Progress: 259/540 (48.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 3.03s
+✓ Progress: 260/540 (48.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 4.75s
+✓ Progress: 261/540 (48.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.82s
+✓ Progress: 262/540 (48.5%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.62s
+✓ Progress: 263/540 (48.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.26s
+✓ Progress: 264/540 (48.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.52s
+✓ Progress: 265/540 (49.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.94s
+✓ Progress: 266/540 (49.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.09s
+✓ Progress: 267/540 (49.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.69s
+✓ Progress: 268/540 (49.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.6s
+✓ Progress: 269/540 (49.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.88s
+✓ Progress: 270/540 (50.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.18s
+✓ Progress: 271/540 (50.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.1s
+✓ Progress: 272/540 (50.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.93s
+✓ Progress: 273/540 (50.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.16s
+✓ Progress: 274/540 (50.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.8s
+✓ Progress: 275/540 (50.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.31s
+✓ Progress: 276/540 (51.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.5s
+✓ Progress: 277/540 (51.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.46s
+✓ Progress: 278/540 (51.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.38s
+✓ Progress: 279/540 (51.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.77s
+✓ Progress: 280/540 (51.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.15s
+✓ Progress: 281/540 (52.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.0s
+✓ Progress: 282/540 (52.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.8s
+✓ Progress: 283/540 (52.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.49s
+✓ Progress: 284/540 (52.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.54s
+✓ Progress: 285/540 (52.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.26s
+✓ Progress: 286/540 (53.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.49s
+✓ Progress: 287/540 (53.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.33s
+✓ Progress: 288/540 (53.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.78s
+✓ Progress: 289/540 (53.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.39s
+✓ Progress: 290/540 (53.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.46s
+✓ Progress: 291/540 (53.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.12s
+✓ Progress: 292/540 (54.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.24s
+✓ Progress: 293/540 (54.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.54s
+✓ Progress: 294/540 (54.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.19s
+✓ Progress: 295/540 (54.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.52s
+✓ Progress: 296/540 (54.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 8.56s
+✓ Progress: 297/540 (55.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 6.84s
+✓ Progress: 298/540 (55.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.54s
+✓ Progress: 299/540 (55.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 10.6s
+✓ Progress: 300/540 (55.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.53s
+✓ Progress: 301/540 (55.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.74s
+✓ Progress: 302/540 (55.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 4.08s
+✓ Progress: 303/540 (56.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 3.37s
+✓ Progress: 304/540 (56.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.82s
+✓ Progress: 305/540 (56.5%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.49s
+✓ Progress: 306/540 (56.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.59s
+✓ Progress: 307/540 (56.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 6.7s
+✓ Progress: 308/540 (57.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.27s
+✓ Progress: 309/540 (57.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.12s
+✓ Progress: 310/540 (57.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.58s
+✓ Progress: 311/540 (57.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 0.73s
+✓ Progress: 312/540 (57.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.96s
+✓ Progress: 313/540 (58.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 4.27s
+✓ Progress: 314/540 (58.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.76s
+✓ Progress: 315/540 (58.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.28s
+✓ Progress: 316/540 (58.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.72s
+✓ Progress: 317/540 (58.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.99s
+✓ Progress: 318/540 (58.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.66s
+✓ Progress: 319/540 (59.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.05s
+✓ Progress: 320/540 (59.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.24s
+✓ Progress: 321/540 (59.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.45s
+✓ Progress: 322/540 (59.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.42s
+✓ Progress: 323/540 (59.8%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.67s
+✓ Progress: 324/540 (60.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.63s
+✓ Progress: 325/540 (60.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.55s
+✓ Progress: 326/540 (60.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.44s
+✓ Progress: 327/540 (60.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 2.83s
+✓ Progress: 328/540 (60.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.35s
+✓ Progress: 329/540 (60.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 3.41s
+✓ Progress: 330/540 (61.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.66s
+✓ Progress: 331/540 (61.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.96s
+✓ Progress: 332/540 (61.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.93s
+✓ Progress: 333/540 (61.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.98s
+✓ Progress: 334/540 (61.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.14s
+✓ Progress: 335/540 (62.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.31s
+✓ Progress: 336/540 (62.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.85s
+✓ Progress: 337/540 (62.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.75s
+✓ Progress: 338/540 (62.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.43s
+✓ Progress: 339/540 (62.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 1.78s
+✓ Progress: 340/540 (63.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.49s
+✓ Progress: 341/540 (63.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.57s
+✓ Progress: 342/540 (63.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.27s
+✓ Progress: 343/540 (63.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.67s
+✓ Progress: 344/540 (63.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.42s
+✓ Progress: 345/540 (63.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.99s
+✓ Progress: 346/540 (64.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.63s
+✓ Progress: 347/540 (64.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 4.35s
+✓ Progress: 348/540 (64.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 4.69s
+✓ Progress: 349/540 (64.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 7.55s
+✓ Progress: 350/540 (64.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.96s
+✓ Progress: 351/540 (65.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.53s
+✓ Progress: 352/540 (65.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 1.55s
+✓ Progress: 353/540 (65.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 2.13s
+✓ Progress: 354/540 (65.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.57s
+✓ Progress: 355/540 (65.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 1.94s
+✓ Progress: 356/540 (65.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 1.77s
+✓ Progress: 357/540 (66.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 2.54s
+✓ Progress: 358/540 (66.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 2.52s
+✓ Progress: 359/540 (66.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 28.73s
+✓ Progress: 360/540 (66.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 30.83s
+✓ Progress: 361/540 (66.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 67.21s
+✓ Progress: 362/540 (67.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 59.42s
+✓ Progress: 363/540 (67.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 34.25s
+✓ Progress: 364/540 (67.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 26.8s
+✓ Progress: 365/540 (67.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 94.59s
+✓ Progress: 366/540 (67.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 33.72s
+✓ Progress: 367/540 (68.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 32.23s
+✓ Progress: 368/540 (68.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 28.27s
+✓ Progress: 369/540 (68.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.54s
+✓ Progress: 370/540 (68.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 23.82s
+✓ Progress: 371/540 (68.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 20.77s
+✓ Progress: 372/540 (68.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 22.51s
+✓ Progress: 373/540 (69.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 35.89s
+✓ Progress: 374/540 (69.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 40.42s
+✓ Progress: 375/540 (69.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 79.58s
+✓ Progress: 376/540 (69.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 34.58s
+✓ Progress: 377/540 (69.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 70.41s
+✓ Progress: 378/540 (70.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 16.55s
+✓ Progress: 379/540 (70.2%) - Processed gestion#2014-06-02#01.tiff with phi4 in 6.52s
+✓ Progress: 380/540 (70.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 12.78s
+✓ Progress: 381/540 (70.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 97.63s
+✓ Progress: 382/540 (70.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 68.75s
+✓ Progress: 383/540 (70.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 83.3s
+✓ Progress: 384/540 (71.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 46.82s
+✓ Progress: 385/540 (71.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 13.15s
+✓ Progress: 386/540 (71.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 19.83s
+✓ Progress: 387/540 (71.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 18.93s
+✓ Progress: 388/540 (71.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 26.9s
+✓ Progress: 389/540 (72.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 34.65s
+✓ Progress: 390/540 (72.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 26.85s
+✓ Progress: 391/540 (72.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 52.06s
+✓ Progress: 392/540 (72.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 84.97s
+✓ Progress: 393/540 (72.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 43.44s
+✓ Progress: 394/540 (73.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 92.44s
+✓ Progress: 395/540 (73.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 43.08s
+✓ Progress: 396/540 (73.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 25.54s
+✓ Progress: 397/540 (73.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 26.1s
+✓ Progress: 398/540 (73.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 67.56s
+✓ Progress: 399/540 (73.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 42.77s
+✓ Progress: 400/540 (74.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 40.57s
+✓ Progress: 401/540 (74.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 23.6s
+✓ Progress: 402/540 (74.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 15.25s
+✓ Progress: 403/540 (74.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 41.81s
+✓ Progress: 404/540 (74.8%) - Processed gestion#2015-09-10#04.tiff with phi4 in 29.28s
+✓ Progress: 405/540 (75.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 32.85s
+✓ Progress: 406/540 (75.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 17.22s
+✓ Progress: 407/540 (75.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 10.49s
+✓ Progress: 408/540 (75.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 29.89s
+✓ Progress: 409/540 (75.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 78.45s
+✓ Progress: 410/540 (75.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 43.37s
+✓ Progress: 411/540 (76.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 26.26s
+✓ Progress: 412/540 (76.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 18.51s
+✓ Progress: 413/540 (76.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 25.72s
+✓ Progress: 414/540 (76.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 15.39s
+✓ Progress: 415/540 (76.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 23.73s
+✓ Progress: 416/540 (77.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 82.11s
+✓ Progress: 417/540 (77.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 24.07s
+✓ Progress: 418/540 (77.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.83s
+✓ Progress: 419/540 (77.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.37s
+✓ Progress: 420/540 (77.8%) - Processed gestion#2015-09-10#04.tiff with phi4 in 90.14s
+✓ Progress: 421/540 (78.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 33.52s
+✓ Progress: 422/540 (78.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 22.24s
+✓ Progress: 423/540 (78.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 27.69s
+✓ Progress: 424/540 (78.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 84.8s
+✓ Progress: 425/540 (78.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 35.43s
+✓ Progress: 426/540 (78.9%) - Processed gestion#2014-06-02#01.tiff with phi4 in 25.86s
+✓ Progress: 427/540 (79.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 23.28s
+✓ Progress: 428/540 (79.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 26.17s
+✓ Progress: 429/540 (79.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 82.21s
+✓ Progress: 430/540 (79.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 47.93s
+✓ Progress: 431/540 (79.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 32.58s
+✓ Progress: 432/540 (80.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 35.47s
+✓ Progress: 433/540 (80.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 58.95s
+✓ Progress: 434/540 (80.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 79.95s
+✓ Progress: 435/540 (80.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 38.71s
+✓ Progress: 436/540 (80.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 11.73s
+✓ Progress: 437/540 (80.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 22.76s
+✓ Progress: 438/540 (81.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 69.93s
+✓ Progress: 439/540 (81.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 55.43s
+✓ Progress: 440/540 (81.5%) - Processed gestion#2017-05-15#04.tiff with phi4 in 80.28s
+✓ Progress: 441/540 (81.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 27.29s
+✓ Progress: 442/540 (81.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 29.97s
+✓ Progress: 443/540 (82.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 21.53s
+✓ Progress: 444/540 (82.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 70.88s
+✓ Progress: 445/540 (82.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 31.45s
+✓ Progress: 446/540 (82.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 9.58s
+✓ Progress: 447/540 (82.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 32.51s
+✓ Progress: 448/540 (83.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 44.1s
+✓ Progress: 449/540 (83.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 82.69s
+✓ Progress: 450/540 (83.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 40.07s
+✓ Progress: 451/540 (83.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 35.07s
+✓ Progress: 452/540 (83.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 22.36s
+✓ Progress: 453/540 (83.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 23.89s
+✓ Progress: 454/540 (84.1%) - Processed gestion#2019-07-12#01.tiff with phi4 in 31.04s
+✓ Progress: 455/540 (84.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 68.21s
+✓ Progress: 456/540 (84.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 26.62s
+✓ Progress: 457/540 (84.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 85.11s
+✓ Progress: 458/540 (84.8%) - Processed gestion#2015-09-10#04.tiff with phi4 in 71.13s
+✓ Progress: 459/540 (85.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 62.98s
+✓ Progress: 460/540 (85.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 104.07s
+✓ Progress: 461/540 (85.4%) - Processed gestion#2014-06-02#01.tiff with phi4 in 9.77s
+✓ Progress: 462/540 (85.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 13.57s
+✓ Progress: 463/540 (85.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 13.2s
+✓ Progress: 464/540 (85.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 15.13s
+✓ Progress: 465/540 (86.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 123.78s
+✓ Progress: 466/540 (86.3%) - Processed gestion#2017-05-15#04.tiff with phi4 in 60.99s
+✓ Progress: 467/540 (86.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 63.71s
+✓ Progress: 468/540 (86.7%) - Processed gestion#2015-09-10#04.tiff with phi4 in 13.78s
+✓ Progress: 469/540 (86.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 28.68s
+✓ Progress: 470/540 (87.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 43.06s
+✓ Progress: 471/540 (87.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 78.91s
+✓ Progress: 472/540 (87.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 31.23s
+✓ Progress: 473/540 (87.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 22.23s
+✓ Progress: 474/540 (87.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 39.79s
+✓ Progress: 475/540 (88.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 30.44s
+✓ Progress: 476/540 (88.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 66.18s
+✓ Progress: 477/540 (88.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 29.67s
+✓ Progress: 478/540 (88.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 61.19s
+✓ Progress: 479/540 (88.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 40.68s
+✓ Progress: 480/540 (88.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 30.47s
+✓ Progress: 481/540 (89.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 81.87s
+✓ Progress: 482/540 (89.3%) - Processed gestion#2015-09-10#04.tiff with phi4 in 6.06s
+✓ Progress: 483/540 (89.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 19.37s
+✓ Progress: 484/540 (89.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 66.27s
+✓ Progress: 485/540 (89.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 48.5s
+✓ Progress: 486/540 (90.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 4.14s
+✓ Progress: 487/540 (90.2%) - Processed gestion#2019-07-12#01.tiff with phi4 in 52.06s
+✓ Progress: 488/540 (90.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 36.72s
+✓ Progress: 489/540 (90.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.78s
+✓ Progress: 490/540 (90.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 76.89s
+✓ Progress: 491/540 (90.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 39.02s
+✓ Progress: 492/540 (91.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 67.69s
+✓ Progress: 493/540 (91.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 27.83s
+✓ Progress: 494/540 (91.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 16.85s
+✓ Progress: 495/540 (91.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 15.37s
+✓ Progress: 496/540 (91.9%) - Processed gestion#2019-07-12#01.tiff with phi4 in 48.19s
+✓ Progress: 497/540 (92.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 15.97s
+✓ Progress: 498/540 (92.2%) - Processed gestion#2015-09-10#04.tiff with phi4 in 21.65s
+✓ Progress: 499/540 (92.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 21.67s
+✓ Progress: 500/540 (92.6%) - Processed gestion#2014-06-02#01.tiff with phi4 in 17.06s
+✓ Progress: 501/540 (92.8%) - Processed gestion#2019-07-12#01.tiff with phi4 in 31.46s
+✓ Progress: 502/540 (93.0%) - Processed gestion#2017-05-15#04.tiff with phi4 in 24.68s
+✓ Progress: 503/540 (93.1%) - Processed gestion#2017-05-15#04.tiff with phi4 in 29.61s
+✓ Progress: 504/540 (93.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.89s
+✓ Progress: 505/540 (93.5%) - Processed gestion#2019-07-12#01.tiff with phi4 in 27.21s
+✓ Progress: 506/540 (93.7%) - Processed gestion#2019-07-12#01.tiff with phi4 in 16.58s
+✓ Progress: 507/540 (93.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 82.48s
+✓ Progress: 508/540 (94.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 16.92s
+✓ Progress: 509/540 (94.3%) - Processed gestion#2019-07-12#01.tiff with phi4 in 38.16s
+✓ Progress: 510/540 (94.4%) - Processed gestion#2017-05-15#04.tiff with phi4 in 60.38s
+✓ Progress: 511/540 (94.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 69.26s
+✓ Progress: 512/540 (94.8%) - Processed gestion#2015-09-10#04.tiff with phi4 in 46.37s
+✓ Progress: 513/540 (95.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 24.78s
+✓ Progress: 514/540 (95.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 49.49s
+✓ Progress: 515/540 (95.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 90.36s
+✓ Progress: 516/540 (95.6%) - Processed gestion#2017-05-15#04.tiff with phi4 in 42.52s
+✓ Progress: 517/540 (95.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 45.19s
+✓ Progress: 518/540 (95.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 12.2s
+✓ Progress: 519/540 (96.1%) - Processed gestion#2015-09-10#04.tiff with phi4 in 98.82s
+✓ Progress: 520/540 (96.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 24.97s
+✓ Progress: 521/540 (96.5%) - Processed gestion#2014-06-02#01.tiff with phi4 in 37.44s
+✓ Progress: 522/540 (96.7%) - Processed gestion#2017-05-15#04.tiff with phi4 in 68.25s
+✓ Progress: 523/540 (96.9%) - Processed gestion#2015-09-10#04.tiff with phi4 in 85.8s
+✓ Progress: 524/540 (97.0%) - Processed gestion#2015-09-10#04.tiff with phi4 in 75.08s
+✓ Progress: 525/540 (97.2%) - Processed gestion#2017-05-15#04.tiff with phi4 in 8.69s
+✓ Progress: 526/540 (97.4%) - Processed gestion#2019-07-12#01.tiff with phi4 in 36.92s
+✓ Progress: 527/540 (97.6%) - Processed gestion#2015-09-10#04.tiff with phi4 in 21.33s
+✓ Progress: 528/540 (97.8%) - Processed gestion#2014-06-02#01.tiff with phi4 in 19.97s
+✓ Progress: 529/540 (98.0%) - Processed gestion#2019-07-12#01.tiff with phi4 in 27.42s
+✓ Progress: 530/540 (98.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 19.99s
+✓ Progress: 531/540 (98.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 13.41s
+✓ Progress: 532/540 (98.5%) - Processed gestion#2015-09-10#04.tiff with phi4 in 9.02s
+✓ Progress: 533/540 (98.7%) - Processed gestion#2014-06-02#01.tiff with phi4 in 17.06s
+✓ Progress: 534/540 (98.9%) - Processed gestion#2017-05-15#04.tiff with phi4 in 59.69s
+✓ Progress: 535/540 (99.1%) - Processed gestion#2014-06-02#01.tiff with phi4 in 36.42s
+✓ Progress: 536/540 (99.3%) - Processed gestion#2014-06-02#01.tiff with phi4 in 39.89s
+✓ Progress: 537/540 (99.4%) - Processed gestion#2015-09-10#04.tiff with phi4 in 78.51s
+✓ Progress: 538/540 (99.6%) - Processed gestion#2019-07-12#01.tiff with phi4 in 25.41s
+✓ Progress: 539/540 (99.8%) - Processed gestion#2017-05-15#04.tiff with phi4 in 35.2s
+✓ Progress: 540/540 (100.0%) - Processed gestion#2014-06-02#01.tiff with phi4 in 81.94s
+
+============================================================
+Completed processing for phi4
+Total processing time: 4767.06 seconds
+Average time per result: 8.83 seconds
+
+Saving results to CSV files...
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config42_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config29_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config29_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config41_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config30_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config31_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config32_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config27_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config25_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config27_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config43_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config31_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config35_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config41_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config24_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config27_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config33_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config36_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config31_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config25_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config40_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config38_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config44_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config33_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config39_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config35_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config28_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config38_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config28_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config32_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config42_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config24_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config30_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config35_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config25_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config27_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config33_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config37_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config39_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config44_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config43_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config40_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config24_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config29_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config30_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config29_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config39_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config36_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config30_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config40_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config26_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config41_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config28_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config34_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config39_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config38_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config34_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config37_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config34_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config38_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config43_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config44_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config44_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config35_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config34_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config42_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config32_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config28_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config41_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config43_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config26_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config31_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config26_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config42_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config37_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config40_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config25_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config32_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config36_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config37_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config36_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config26_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config33_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config24_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_olmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config42_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config29_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config41_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config29_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config31_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config32_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config41_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config25_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config36_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config27_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config43_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config31_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config40_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config27_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config24_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config33_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config44_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config31_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config25_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config28_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config42_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config38_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config33_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config39_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config39_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config37_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config35_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config38_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config28_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config24_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config32_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config44_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config35_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config30_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config25_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config27_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config33_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config29_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config36_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config28_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config43_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config24_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config40_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config30_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config29_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config38_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config39_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config30_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config38_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config26_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config40_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config41_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config34_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config39_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config31_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config34_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config37_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config34_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config44_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config44_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config43_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config37_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config35_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config34_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config32_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config40_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config42_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config28_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config26_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config41_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config30_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config43_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config42_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config26_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config25_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config32_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config36_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config36_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config37_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config26_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config24_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config33_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config27_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config35_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config7_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_rolmocr_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config20_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config19_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config42_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config23_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config29_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config41_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config30_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config29_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config14_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config15_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config22_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config32_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config13_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config27_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config31_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config0_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config25_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config16_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config0_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config35_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config27_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config6_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config19_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config43_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config41_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config8_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config6_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config36_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config31_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config15_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config9_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config19_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config1_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config9_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config27_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config40_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config24_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config14_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config13_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config31_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config25_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config4_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config33_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config44_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config7_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config38_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config9_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config4_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config28_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config10_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config5_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config42_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config16_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config2_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config3_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config39_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config20_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config35_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config3_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config38_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config39_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config28_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config33_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config37_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config18_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config7_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config1_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config1_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config24_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config32_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config2_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config35_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config10_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config12_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config25_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config44_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config22_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config30_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config19_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config27_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config4_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config33_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config29_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config36_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config43_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config0_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config23_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config2_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config10_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config11_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config28_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config40_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config21_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config10_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config3_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config24_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config2_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config5_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config15_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config39_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config30_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config30_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config29_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config18_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config13_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config22_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config7_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config38_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config5_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config26_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config38_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config41_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config23_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config40_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config11_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config12_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config11_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config1_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config39_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config9_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config34_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config20_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config17_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config21_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config34_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config17_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config31_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config34_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config6_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config43_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config22_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config44_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config37_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config34_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config6_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config44_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config37_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config35_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config28_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config18_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config40_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config32_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config41_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config42_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config43_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config26_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config42_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config26_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config8_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config20_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config21_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config11_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config12_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config0_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config14_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config3_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config25_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config8_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config14_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config17_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config18_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config17_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config5_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config16_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config32_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config23_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config37_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config36_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config8_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config12_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config16_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config21_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config4_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config26_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config24_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2015-09-10#04_config13_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2019-07-12#01_config15_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2017-05-15#04_config33_nanonets_phi4.csv
+✓ Results saved: ./results/csv/extracted/gestion#2014-06-02#01_config36_nanonets_phi4.csv
+✓ Successfully saved: 540 files
+✗ Errors encountered: 0 files
+============================================================
+================================================================================
+                                 FINAL SUMMARY                                  
+================================================================================
+Total execution time: 4767.14 seconds
+Models processed: 1
+Total OCR results per model: 540
+Total processing tasks: 540
+================================================================================

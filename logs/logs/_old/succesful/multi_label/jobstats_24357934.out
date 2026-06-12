@@ -1,0 +1,44 @@
+
+================================================================================
+                              Slurm Job Statistics                              
+================================================================================
+         Job ID: 24357934
+  NetID/Account: nicolasal97/agfritz
+       Job Name: multilabel_fub_run_h100
+          State: COMPLETED
+          Nodes: 1
+      CPU Cores: 1
+     CPU Memory: 3GB (3GB per CPU-core)
+           GPUs: 1
+  QOS/Partition: standard/scavenger
+        Cluster: curta
+     Start Time: Fri Nov 7, 2025 at 5:50 PM
+       Run Time: 00:02:43
+     Time Limit: 00:15:00
+
+                              Overall Utilization                               
+================================================================================
+  CPU utilization  [|||||||||||||||||||||||                        47%]
+  CPU memory usage [|||||||||||||||||||||||||||||                  58%]
+  GPU utilization  [||||||||||||||||||                             36%]
+  GPU memory usage [||||||||||||||||||||||||||||||||||||||||||||   89%]
+
+                              Detailed Utilization                              
+================================================================================
+  CPU utilization per node (CPU time used/run time)
+      g016.curta.zedat.fu-berlin.de: 00:01:16/00:02:43 (efficiency=47.1%)
+
+  CPU memory usage per node - used/allocated
+      g016.curta.zedat.fu-berlin.de: 1.7GB/3GB (1.7GB/3GB per core of 1, efficiency=57.7%)
+
+  GPU utilization per node
+      g016.curta.zedat.fu-berlin.de (GPU 0): 36.5%
+
+  GPU memory usage per node - maximum used/total
+      g016.curta.zedat.fu-berlin.de (GPU 0): 71.0GB/79.6GB (89.2%)
+
+                                     Notes                                      
+================================================================================
+  * Have a nice day!
+
+

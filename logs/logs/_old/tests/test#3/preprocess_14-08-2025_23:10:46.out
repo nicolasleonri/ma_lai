@@ -1,0 +1,68 @@
+Using 64 threads in global mode
+Total configurations to test: 24
+Processing 4 images
+Processing all combinations globally in parallel...
+Total tasks: 96
+Progress: 5/96 tasks completed
+Progress: 10/96 tasks completed
+Progress: 15/96 tasks completed
+Progress: 20/96 tasks completed
+Progress: 25/96 tasks completed
+Progress: 30/96 tasks completed
+Progress: 35/96 tasks completed
+Progress: 40/96 tasks completed
+Progress: 45/96 tasks completed
+Progress: 50/96 tasks completed
+Progress: 55/96 tasks completed
+Progress: 60/96 tasks completed
+Progress: 65/96 tasks completed
+Progress: 70/96 tasks completed
+Progress: 75/96 tasks completed
+Progress: 80/96 tasks completed
+Progress: 85/96 tasks completed
+Progress: 90/96 tasks completed
+Progress: 95/96 tasks completed
+
+============================================================
+PROCESSING SUMMARY
+============================================================
+Total time: 26.69 seconds
+Successful processes: 96
+Failed processes: 0
+Average time per successful process: 0.278 seconds
+Processing log saved to: ./logs/preprocess.out
+============================================================
+Using 64 threads in global mode
+Total configurations to test: 24
+Processing 4 images
+Processing all combinations globally in parallel...
+Total tasks: 96
+Progress: 5/96 tasks completed
+Progress: 10/96 tasks completed
+Progress: 15/96 tasks completed
+Progress: 20/96 tasks completed
+Progress: 25/96 tasks completed
+Progress: 30/96 tasks completed
+Progress: 35/96 tasks completed
+Progress: 40/96 tasks completed
+Progress: 45/96 tasks completed
+Progress: 50/96 tasks completed
+Progress: 55/96 tasks completed
+Progress: 60/96 tasks completed
+Progress: 65/96 tasks completed
+Progress: 70/96 tasks completed
+Progress: 75/96 tasks completed
+Progress: 80/96 tasks completed
+Progress: 85/96 tasks completed
+Progress: 90/96 tasks completed
+Progress: 95/96 tasks completed
+
+============================================================
+PROCESSING SUMMARY
+============================================================
+Total time: 28.47 seconds
+Successful processes: 96
+Failed processes: 0
+Average time per successful process: 0.297 seconds
+Processing log saved to: ./logs/preprocess.out
+============================================================

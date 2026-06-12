@@ -1,0 +1,59 @@
+
+================================================================================
+                              Slurm Job Statistics                              
+================================================================================
+         Job ID: 24021004
+  NetID/Account: nicolasal97/agfritz
+       Job Name: run_h100
+          State: TIMEOUT
+          Nodes: 1
+      CPU Cores: 2
+     CPU Memory: 72GB (36GB per CPU-core)
+           GPUs: 1
+  QOS/Partition: hiprio/scavenger
+        Cluster: curta
+     Start Time: Tue Sep 23, 2025 at 5:39 PM
+       Run Time: 01:00:10
+     Time Limit: 01:00:00
+
+                              Overall Utilization                               
+================================================================================
+  CPU utilization  [||||||||||||||||||||||||                       48%]
+  CPU memory usage [|||||||                                        15%]
+  GPU utilization  [||||||||||                                     21%]
+  GPU memory usage [|||||||||||||||||||||||||||||||||||||||||||||||94%]
+
+                              Detailed Utilization                              
+================================================================================
+  CPU utilization per node (CPU time used/run time)
+      g016.curta.zedat.fu-berlin.de: 00:58:03/02:00:20 (efficiency=48.2%)
+
+  CPU memory usage per node - used/allocated
+      g016.curta.zedat.fu-berlin.de: 11.1GB/72GB (5.5GB/36GB per core of 2, efficiency=15.4%)
+
+  GPU utilization per node
+      g016.curta.zedat.fu-berlin.de (GPU 0): 21.1%
+
+  GPU memory usage per node - maximum used/total
+      g016.curta.zedat.fu-berlin.de (GPU 0): 75.1GB/79.6GB (94.3%)
+
+                                     Notes                                      
+================================================================================
+  * This job failed because it exceeded the time limit. If there are no other
+    problems then the solution is to increase the value of the --time Slurm
+    directive and resubmit the job. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/Zeitlimit
+
+  * The overall GPU utilization of this job is 21%. This value is somewhat
+    low. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/GPUs
+
+  * This job only used 15% of the 72GB of total allocated CPU memory. For
+    future jobs, please allocate less memory by using a Slurm directive such
+    as --mem-per-cpu=7G or --mem=14G. This will reduce your queue times and
+    make the resources available to other users. For more info:
+      https://www.fu-berlin.de/en/sites/high-performance-computing/Dokumentation/Ressourcen-Manager/Hauptspeicher/
+
+  * Have a nice day!
+
+
